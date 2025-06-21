@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!LICENSE
+!README.md
+
+!urls.json
+!dimensions.json
+!style.ass
+
+!run.py
+!download.py
+!generate_timings.py
+!ocr.py
+!apply_style.py
+!hardsub.py
