@@ -33,7 +33,8 @@ def process_entry(i: str) -> bool:
     scripts = [
         "download.py",
         "generate_timings.py",
-        "ocr.py"
+        "ocr.py",
+        "apply_style.py"
     ]
 
     for script in scripts:
