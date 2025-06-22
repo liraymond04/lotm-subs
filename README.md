@@ -31,14 +31,14 @@ OCRed subtitle files are generated using [RapidVideOCR](https://github.com/SWHL/
 
 ```bash
 # Requires Python to be installed
-pip install rapid_videocr
+$: pip install rapid_videocr
 ```
 
 Subtitles are embedded using [ffmpeg](https://ffmpeg.org/)
 
 ```bash
 # Arch Linux
-sudo pacman -S ffmpeg
+$: sudo pacman -S ffmpeg
 ```
 
 ## Usage
