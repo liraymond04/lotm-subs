@@ -1,6 +1,6 @@
 # LoTM Subs
 
-A collection of scripts I use in my translation and typesetting workflow for Lord of the Mysteries content like chibi minis
+A collection of translations and scripts I use in my typesetting workflow for Lord of the Mysteries content like chibi minis
 
 ## Installation
 
