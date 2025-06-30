@@ -1,16 +1,20 @@
-*
+# videosubfinder garbage
+DebugImages/
+ILAImages/
+ImagesJoined/
+ISAImages/
+RGBImages/
+TestImages/
+TXTImages/
+TXTResults/
 
-!.gitignore
-!LICENSE
-!README.md
+# mocha pro
+results/
+*.index
 
-!urls.json
-!dimensions.json
-!style.ass
+# backups
+*.bak
 
-!run.py
-!download.py
-!generate_timings.py
-!ocr.py
-!apply_style.py
-!hardsub.py
+# video files
+*.mp4
+!*_subbed.mp4

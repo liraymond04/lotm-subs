@@ -1,6 +1,6 @@
-# TBHX Preview Subs
+# LoTM Subs
 
-A collection of scripts I use in my translation and typesetting workflow for To Be Hero X previews
+A collection of scripts I use in my translation and typesetting workflow for Lord of the Mysteries content like chibi minis
 
 ## Installation
 
