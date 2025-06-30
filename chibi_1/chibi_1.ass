@@ -12,8 +12,10 @@ Audio File: chibi_1.mp4
 Video File: chibi_1.mp4
 Video AR Mode: 4
 Video AR Value: 2.347188
-Video Zoom Percent: 0.750000
-Video Position: 1630
+Video Zoom Percent: 0.250000
+Scroll Position: 108
+Active Line: 467
+Video Position: 2622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,9 +26,8 @@ Style: Default,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: Cartoony,Magic Sound,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
 Style: Cartoony - Copy,Magic Sound,55,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
 Style: Cartoony - Copy - Copy,Magic Sound,55,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
-Style: Book,Rustic Roadway - Personal use,55,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
 Style: Theatre,The Immortal Condensed,102,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
-Style: Book - Copy,The Momentra,55,&H00000000,&H000000FF,&H00000000,&H00484848,-1,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
+Style: Book,The Momentra,55,&H00000000,&H000000FF,&H00000000,&H00484848,-1,0,0,0,100,100,0,0,1,0,0,2,12,12,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -510,11 +511,8 @@ Comment: 0,0:01:06.94,0:01:06.98,Cartoony - Copy - Copy,,0,0,0,,{\alpha&H00&\fs1
 Comment: 0,0:01:06.94,0:01:06.98,Cartoony - Copy - Copy,,0,0,0,,{\alpha&H00&\fs18\be0\c&H7CB6FF&\pos(1487.56,282.49)}I
 Comment: 0,0:01:06.94,0:01:06.98,Cartoony - Copy - Copy,,0,0,0,,{\alpha&H00&\fs18\be0\c&H7CB6FF&\pos(1487.56,293.91)}0
 Comment: 0,0:01:06.94,0:01:06.98,Cartoony - Copy - Copy,,0,0,0,,{=737}{\alpha&H00&\fs18\be0\c&H7CB6FF&\pos(1487.56,306.58)}N
-Comment: 0,0:01:48.86,0:01:48.90,Book,,0,0,0,,{\alpha&H00&\fs60\be0\pos(232.33,516.39)}Compendium of Secret\NAlchemical Practices from\Nthe Qin and Han Dynasties
-Dialogue: 0,0:01:48.86,0:01:49.58,Book - Copy,,0,0,0,,{\alpha&H00&\fs160\be0.5\fax0.5\fay0\xshad4\yshad4\pos(1406.23,722.11)\alpha&H00&\t(320,440,\alpha&HFF&)}C{\alpha&H00&\t(324,444,\alpha&HFF&)}o{\alpha&H00&\t(329,449,\alpha&HFF&)}m{\alpha&H00&\t(333,453,\alpha&HFF&)}p{\alpha&H00&\t(338,458,\alpha&HFF&)}e{\alpha&H00&\t(342,462,\alpha&HFF&)}n{\alpha&H00&\t(347,467,\alpha&HFF&)}d{\alpha&H00&\t(352,472,\alpha&HFF&)}i{\alpha&H00&\t(356,476,\alpha&HFF&)}u{\alpha&H00&\t(361,481,\alpha&HFF&)}m {\alpha&H00&\t(365,485,\alpha&HFF&)}o{\alpha&H00&\t(370,490,\alpha&HFF&)}f\N{\alpha&H00&\t(375,495,\alpha&HFF&)}S{\alpha&H00&\t(379,499,\alpha&HFF&)}e{\alpha&H00&\t(384,504,\alpha&HFF&)}c{\alpha&H00&\t(388,508,\alpha&HFF&)}r{\alpha&H00&\t(393,513,\alpha&HFF&)}e{\alpha&H00&\t(398,518,\alpha&HFF&)}t  {\alpha&H00&\t(402,522,\alpha&HFF&)}A{\alpha&H00&\t(407,527,\alpha&HFF&)}l{\alpha&H00&\t(411,531,\alpha&HFF&)}c{\alpha&H00&\t(416,536,\alpha&HFF&)}h{\alpha&H00&\t(420,540,\alpha&HFF&)}e{\alpha&H00&\t(425,545,\alpha&HFF&)}m{\alpha&H00&\t(430,550,\alpha&HFF&)}i{\alpha&H00&\t(434,554,\alpha&HFF&)}c{\alpha&H00&\t(439,559,\alpha&HFF&)}a{\alpha&H00&\t(443,563,\alpha&HFF&)}l {\alpha&H00&\t(448,568,\alpha&HFF&)}P{\alpha&H00&\t(453,573,\alpha&HFF&)}r{\alpha&H00&\t(457,577,\alpha&HFF&)}a{\alpha&H00&\t(462,582,\alpha&HFF&)}c{\alpha&H00&\t(466,586,\alpha&HFF&)}t{\alpha&H00&\t(471,591,\alpha&HFF&)}i{\alpha&H00&\t(476,596,\alpha&HFF&)}c{\alpha&H00&\t(480,600,\alpha&HFF&)}e{\alpha&H00&\t(485,605,\alpha&HFF&)}s \N{\alpha&H00&\t(489,609,\alpha&HFF&)}f{\alpha&H00&\t(494,614,\alpha&HFF&)}r{\alpha&H00&\t(499,619,\alpha&HFF&)}o{\alpha&H00&\t(503,623,\alpha&HFF&)}m {\alpha&H00&\t(508,628,\alpha&HFF&)}t{\alpha&H00&\t(512,632,\alpha&HFF&)}h{\alpha&H00&\t(517,637,\alpha&HFF&)}e\N{\alpha&H00&\t(521,641,\alpha&HFF&)}Q{\alpha&H00&\t(526,646,\alpha&HFF&)}i{\alpha&H00&\t(531,651,\alpha&HFF&)}n {\alpha&H00&\t(535,655,\alpha&HFF&)}a{\alpha&H00&\t(540,660,\alpha&HFF&)}n{\alpha&H00&\t(544,664,\alpha&HFF&)}d {\alpha&H00&\t(549,669,\alpha&HFF&)}H{\alpha&H00&\t(554,674,\alpha&HFF&)}a{\alpha&H00&\t(558,678,\alpha&HFF&)}n {\alpha&H00&\t(563,683,\alpha&HFF&)}D{\alpha&H00&\t(567,687,\alpha&HFF&)}y{\alpha&H00&\t(572,692,\alpha&HFF&)}n{\alpha&H00&\t(577,697,\alpha&HFF&)}a{\alpha&H00&\t(581,701,\alpha&HFF&)}s{\alpha&H00&\t(586,706,\alpha&HFF&)}t{\alpha&H00&\t(590,710,\alpha&HFF&)}i{\alpha&H00&\t(595,715,\alpha&HFF&)}e{\alpha&H00&\t(600,720,\alpha&HFF&)}s
-Comment: 0,0:01:48.86,0:01:48.90,Book - Copy,,0,0,0,,{\alpha&H00&\fs150\be0.5\pos(1446.41,635.64)}Compendium of Secret  \NAlchemical Practices from the\NQin and Han Dynasties
-Comment: 0,0:01:48.86,0:01:48.90,Book - Copy,,0,0,0,,{\alpha&H00&\fs150\be0.5\pos(1424.05,666.35)}Compendium of \NSecret  Alchemical \NPractices from the \NQin and Han Dynasties
-Dialogue: 0,0:00:00.02,0:00:00.06,Theatre,,0,0,0,,{=625}{\alpha&HFF&\pos(946.08,739.41)}Q Theatre\NZhou Mingrui's bad day
+Dialogue: 0,0:01:48.86,0:01:49.58,Book,,0,0,0,,{\alpha&H00&\fs160\be0.5\fax0.5\fay0\xshad4\yshad4\pos(1406.23,722.11)\alpha&H00&\t(320,440,\alpha&HFF&)}C{\alpha&H00&\t(324,444,\alpha&HFF&)}o{\alpha&H00&\t(329,449,\alpha&HFF&)}m{\alpha&H00&\t(333,453,\alpha&HFF&)}p{\alpha&H00&\t(338,458,\alpha&HFF&)}e{\alpha&H00&\t(342,462,\alpha&HFF&)}n{\alpha&H00&\t(347,467,\alpha&HFF&)}d{\alpha&H00&\t(352,472,\alpha&HFF&)}i{\alpha&H00&\t(356,476,\alpha&HFF&)}u{\alpha&H00&\t(361,481,\alpha&HFF&)}m {\alpha&H00&\t(365,485,\alpha&HFF&)}o{\alpha&H00&\t(370,490,\alpha&HFF&)}f\N{\alpha&H00&\t(375,495,\alpha&HFF&)}S{\alpha&H00&\t(379,499,\alpha&HFF&)}e{\alpha&H00&\t(384,504,\alpha&HFF&)}c{\alpha&H00&\t(388,508,\alpha&HFF&)}r{\alpha&H00&\t(393,513,\alpha&HFF&)}e{\alpha&H00&\t(398,518,\alpha&HFF&)}t  {\alpha&H00&\t(402,522,\alpha&HFF&)}A{\alpha&H00&\t(407,527,\alpha&HFF&)}l{\alpha&H00&\t(411,531,\alpha&HFF&)}c{\alpha&H00&\t(416,536,\alpha&HFF&)}h{\alpha&H00&\t(420,540,\alpha&HFF&)}e{\alpha&H00&\t(425,545,\alpha&HFF&)}m{\alpha&H00&\t(430,550,\alpha&HFF&)}i{\alpha&H00&\t(434,554,\alpha&HFF&)}c{\alpha&H00&\t(439,559,\alpha&HFF&)}a{\alpha&H00&\t(443,563,\alpha&HFF&)}l {\alpha&H00&\t(448,568,\alpha&HFF&)}P{\alpha&H00&\t(453,573,\alpha&HFF&)}r{\alpha&H00&\t(457,577,\alpha&HFF&)}a{\alpha&H00&\t(462,582,\alpha&HFF&)}c{\alpha&H00&\t(466,586,\alpha&HFF&)}t{\alpha&H00&\t(471,591,\alpha&HFF&)}i{\alpha&H00&\t(476,596,\alpha&HFF&)}c{\alpha&H00&\t(480,600,\alpha&HFF&)}e{\alpha&H00&\t(485,605,\alpha&HFF&)}s \N{\alpha&H00&\t(489,609,\alpha&HFF&)}f{\alpha&H00&\t(494,614,\alpha&HFF&)}r{\alpha&H00&\t(499,619,\alpha&HFF&)}o{\alpha&H00&\t(503,623,\alpha&HFF&)}m {\alpha&H00&\t(508,628,\alpha&HFF&)}t{\alpha&H00&\t(512,632,\alpha&HFF&)}h{\alpha&H00&\t(517,637,\alpha&HFF&)}e\N{\alpha&H00&\t(521,641,\alpha&HFF&)}Q{\alpha&H00&\t(526,646,\alpha&HFF&)}i{\alpha&H00&\t(531,651,\alpha&HFF&)}n {\alpha&H00&\t(535,655,\alpha&HFF&)}a{\alpha&H00&\t(540,660,\alpha&HFF&)}n{\alpha&H00&\t(544,664,\alpha&HFF&)}d {\alpha&H00&\t(549,669,\alpha&HFF&)}H{\alpha&H00&\t(554,674,\alpha&HFF&)}a{\alpha&H00&\t(558,678,\alpha&HFF&)}n {\alpha&H00&\t(563,683,\alpha&HFF&)}D{\alpha&H00&\t(567,687,\alpha&HFF&)}y{\alpha&H00&\t(572,692,\alpha&HFF&)}n{\alpha&H00&\t(577,697,\alpha&HFF&)}a{\alpha&H00&\t(581,701,\alpha&HFF&)}s{\alpha&H00&\t(586,706,\alpha&HFF&)}t{\alpha&H00&\t(590,710,\alpha&HFF&)}i{\alpha&H00&\t(595,715,\alpha&HFF&)}e{\alpha&H00&\t(600,720,\alpha&HFF&)}s
+Dialogue: 0,0:00:00.02,0:00:00.06,Theatre,,0,0,0,,{=625=742}{\alpha&HFF&\pos(946.08,739.41)}Q Theatre\NZhou Mingrui's bad day
 Dialogue: 0,0:00:00.06,0:00:00.10,Theatre,,0,0,0,,{=625}{\alpha&HF9&\pos(966.08,735.41)}Q Theatre\NZhou Mingrui's bad day
 Dialogue: 0,0:00:00.10,0:00:00.14,Theatre,,0,0,0,,{=625}{\alpha&HF2&\pos(975.95,733.77)}Q Theatre\NZhou Mingrui's bad day
 Dialogue: 0,0:00:00.14,0:00:00.18,Theatre,,0,0,0,,{=625}{\alpha&HEC&\pos(977.25,738.81)}Q Theatre\NZhou Mingrui's bad day
@@ -606,7 +604,7 @@ Dialogue: 0,0:00:03.54,0:00:03.58,Theatre,,0,0,0,,{=625}{\alpha&HD0&\pos(965.29,
 Dialogue: 0,0:00:03.58,0:00:03.62,Theatre,,0,0,0,,{=625}{\alpha&HD8&\pos(965.75,736.01)}Q Theatre\NZhou Mingrui's bad day
 Dialogue: 0,0:00:03.62,0:00:03.66,Theatre,,0,0,0,,{=625}{\alpha&HE4&\pos(965.54,735.92)}Q Theatre\NZhou Mingrui's bad day
 Dialogue: 0,0:00:03.66,0:00:03.70,Theatre,,0,0,0,,{=625}{\alpha&HF0&\pos(965.54,735.92)}Q Theatre\NZhou Mingrui's bad day
-Dialogue: 0,0:00:03.70,0:00:03.74,Theatre,,0,0,0,,{=625}{\alpha&HFF&\pos(965.54,735.92)}Q Theatre\NZhou Mingrui's bad day
+Dialogue: 0,0:00:03.70,0:00:03.74,Theatre,,0,0,0,,{=625=743}{\alpha&HFF&\pos(965.54,735.92)}Q Theatre\NZhou Mingrui's bad day
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"originalText"#3A"{\\be1\\p1\\c&H2B1D04&\\fax0.011899\\fscx4079.56\\fscy1078.75\\frz12.1416\\frx5.2854\\fry1.8159\\org(901.01#2C581.02)\\pos(898.34#2C640.35)}m 0 0 l 12 0 12 11 0 11{\\\\p0}"#2C"uuid"#3A"7f69937a-6b71-4f0f-b47b-3a98b2a30b42"}
@@ -951,3 +949,5 @@ Data: 738,_aegi_folddata,e0;0;315
 Data: 739,_aegi_folddata,e1;0;315
 Data: 740,_aegi_folddata,e0;0;298
 Data: 741,_aegi_folddata,e1;0;298
+Data: 742,_aegi_folddata,e0;1;316
+Data: 743,_aegi_folddata,e1;1;316
