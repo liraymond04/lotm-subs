@@ -20,9 +20,9 @@ Video Position: 630
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,41,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,1.51481,1.51481,2,10,10,8,1
 Style: TBHX; Twitter SRC - EN,Cambria,36,&H0061C5EC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1.70417,2,10,10,158,1
-Style: Consolas,Arial,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,8,8,86,1
-Style: Consolas-shadow1,Arial,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,84,1
-Style: Consolas-shadow2,Arial,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,84,1
+Style: Consolas,Consolas,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,8,8,86,1
+Style: Consolas-shadow1,Consolas,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,84,1
+Style: Consolas-shadow2,Consolas,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,84,1
 Style: Theatre,The Immortal Condensed,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
@@ -87,9 +87,9 @@ Dialogue: 10,0:01:01.02,0:01:01.82,Consolas,,0,0,0,,Subtle and elegant,
 Dialogue: 1,0:01:01.98,0:01:02.54,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}for one gold pound.
 Dialogue: 0,0:01:01.98,0:01:02.54,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}for one gold pound.
 Dialogue: 10,0:01:01.98,0:01:02.54,Consolas,,0,0,0,,for one gold pound.
-Dialogue: 1,0:01:03.82,0:01:05.38,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}For esteemed customers such as your yourself,
-Dialogue: 0,0:01:03.82,0:01:05.38,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}For esteemed customers such as your yourself,
-Dialogue: 10,0:01:03.82,0:01:05.38,Consolas,,0,0,0,,For esteemed customers such as your yourself,
+Dialogue: 1,0:01:03.82,0:01:05.38,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}For esteemed customers such as yourself,
+Dialogue: 0,0:01:03.82,0:01:05.38,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}For esteemed customers such as yourself,
+Dialogue: 10,0:01:03.82,0:01:05.38,Consolas,,0,0,0,,For esteemed customers such as yourself,
 Dialogue: 1,0:01:05.58,0:01:07.94,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}you can enjoy our diamond membership discount right now.
 Dialogue: 0,0:01:05.58,0:01:07.94,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}you can enjoy our diamond membership discount right now.
 Dialogue: 10,0:01:05.58,0:01:07.94,Consolas,,0,0,0,,you can enjoy our diamond membership discount right now.
