@@ -63,9 +63,9 @@ Dialogue: 10,0:00:38.54,0:00:39.86,Consolas,,0,0,0,,Ten soli and threepence.
 Dialogue: 1,0:00:42.06,0:00:42.70,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This one?
 Dialogue: 0,0:00:42.06,0:00:42.70,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This one?
 Dialogue: 10,0:00:42.06,0:00:42.70,Consolas,,0,0,0,,This one?
-Dialogue: 1,0:00:45.06,0:00:46.90,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Can you even afford it? You're just asking―
-Dialogue: 0,0:00:45.06,0:00:46.90,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Can you even afford it? You're just asking―
-Dialogue: 10,0:00:45.06,0:00:46.90,Consolas,,0,0,0,,Can you even afford it? You're just asking―
+Dialogue: 1,0:00:45.06,0:00:46.90,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Can you even afford it? You're just asking―—
+Dialogue: 0,0:00:45.06,0:00:46.90,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Can you even afford it? You're just asking―—
+Dialogue: 10,0:00:45.06,0:00:46.90,Consolas,,0,0,0,,Can you even afford it? You're just asking―—
 Dialogue: 1,0:00:48.34,0:00:49.42,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}What kind of person
 Dialogue: 0,0:00:48.34,0:00:49.42,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}What kind of person
 Dialogue: 10,0:00:48.34,0:00:49.42,Consolas,,0,0,0,,What kind of person
@@ -102,12 +102,12 @@ Dialogue: 10,0:01:08.90,0:01:09.74,Consolas,,0,0,0,,20% off store-wide!
 Dialogue: 1,0:01:12.38,0:01:12.82,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Very good.
 Dialogue: 0,0:01:12.38,0:01:12.82,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Very good.
 Dialogue: 10,0:01:12.38,0:01:12.82,Consolas,,0,0,0,,Very good.
-Dialogue: 1,0:01:13.82,0:01:14.98,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Then I'll have―
-Dialogue: 0,0:01:13.82,0:01:14.98,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Then I'll have―
-Dialogue: 10,0:01:13.82,0:01:14.98,Consolas,,0,0,0,,Then I'll have―
-Dialogue: 1,0:01:24.74,0:01:25.18,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}―this one.
-Dialogue: 0,0:01:24.74,0:01:25.18,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}―this one.
-Dialogue: 10,0:01:24.74,0:01:25.18,Consolas,,0,0,0,,―this one.
+Dialogue: 1,0:01:13.82,0:01:14.98,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Then I'll have―—
+Dialogue: 0,0:01:13.82,0:01:14.98,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Then I'll have―—
+Dialogue: 10,0:01:13.82,0:01:14.98,Consolas,,0,0,0,,Then I'll have―—
+Dialogue: 1,0:01:24.74,0:01:25.18,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}―—this one.
+Dialogue: 0,0:01:24.74,0:01:25.18,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}―—this one.
+Dialogue: 10,0:01:24.74,0:01:25.18,Consolas,,0,0,0,,―—this one.
 Dialogue: 1,0:01:27.78,0:01:28.74,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Silver-inlaid driftwood,
 Dialogue: 0,0:01:27.78,0:01:28.74,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Silver-inlaid driftwood,
 Dialogue: 10,0:01:27.78,0:01:28.74,Consolas,,0,0,0,,Silver-inlaid driftwood,
