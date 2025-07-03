@@ -13,8 +13,8 @@ Video File: mysticism_class_1.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 40
-Active Line: 1011
+Scroll Position: 47
+Active Line: 1042
 Video Position: 1686
 
 [V4+ Styles]
@@ -1027,10 +1027,10 @@ Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=816=1134}{\fscx129.86\fscy129.
 Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=816=1135}{\fscx132.84\fscy132.84\1a&H00&\fs70\pos(-90.46,329.98)\c&H4FA0CB&\blur3.613058650043}Intis Republic
 Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=816=1138}{\fscx135.58\fscy135.58\1a&H00&\fs70\c&H4FA0CB&\blur3.4196759709457\pos(-118.84,325.39)}Intis Republic
 Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=845=1149}{\fscx127\fscy127\alpha&H00&\blur0.0004999999999999\fs70\c&H74C8FD&\b0\pos(719.98,52.32)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=845=1144}{\fscx127.27\fscy127.27\alpha&H00&\blur0.069528979421689\fs70\c&H74C8FD&\b0\pos(720,51.63)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=845=1145}{\fscx128.13\fscy128.13\alpha&H00&\blur0.24063329631686\fs70\c&H74C8FD&\b0\pos(720.08,49.23)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=845=1146}{\fscx129.86\fscy129.86\alpha&H00&\blur0.47470670598379\fs70\c&H74C8FD&\b0\pos(720.22,44.49)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=845=1147}{\fscx132.84\fscy132.84\alpha&H00&\blur0.82179470958968\fs70\c&H74C8FD&\b0\pos(720.44,36.28)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=845}{\fscx127.27\fscy127.27\alpha&H00&\blur0.069528979421689\fs70\c&H74C8FD&\b0\pos(720,51.63)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=845}{\fscx128.13\fscy128.13\alpha&H00&\blur0.24063329631686\fs70\c&H74C8FD&\b0\pos(720.08,49.23)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=845}{\fscx129.86\fscy129.86\alpha&H00&\blur0.47470670598379\fs70\c&H74C8FD&\b0\pos(720.22,44.49)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=845}{\fscx132.84\fscy132.84\alpha&H00&\blur0.82179470958968\fs70\c&H74C8FD&\b0\pos(720.44,36.28)\clip(0,25.9,1919,1079)}Feysac Empire
 Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=845=1150}{\fscx135.58\fscy135.58\alpha&H00&\blur1.2873585780885\fs70\c&H74C8FD&\b0\pos(731.7,30.05)\clip(0,25.9,1919,1079)}Feysac Empire
 Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=852=1165}{\org(1300.57,545.21)\an8\fscx60\fscy60\1a&H00&\fs70\c&H48A4D9&\blur0.062018142506847\pos(1300.57,545.21)}Loen Kingdom
 Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=852=1160}{\org(1300.57,545.21)\an8\fscx60.13\fscy60.13\1a&H00&\fs70\c&H48A4D9&\blur0.19182569236432\pos(1301.82,545.56)}Loen Kingdom
@@ -1069,13 +1069,12 @@ Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=852=1214}{\org(1300.57,545.21)
 Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=852=1215}{\org(1300.57,545.21)\an8\fscx61.38\fscy61.38\1a&H00&\fs80\c&H57A7D5&\blur0.90898272263992\pos(1299.36,639.35)}Capital: Backlund
 Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=852=1216}{\org(1300.57,545.21)\an8\fscx62.79\fscy62.79\1a&H00&\fs80\c&H57A7D5&\blur1.5197317632157\pos(1312.88,644.8)}Capital: Backlund
 Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=852=1219}{\org(1300.57,545.21)\an8\fscx64.08\fscy64.08\1a&H00&\fs80\c&H57A7D5&\blur2.490293456387\pos(1334.24,656.35)}Capital: Backlund
-Dialogue: 0,0:01:06.94,0:01:07.22,Board,,0,0,0,,{=1229=1236}{\fscx93.67\fscy93.67\1a&H00&\blur0\be0.5\fs60\c&H767676&\pos(1224.76,322.42)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.22,0:01:07.30,Board,,0,0,0,,{=1229=1230}{\fscx93.67\fscy93.67\1a&H00&\blur0.00099999999999909\be0.5\fs60\c&H767676&\pos(1224.76,322.43)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=1229=1231}{\fscx93.87\fscy93.87\1a&H00&\blur0.1096585609973\be0.5\fs60\c&H767676&\pos(1225.85,322.31)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1229=1232}{\fscx94.51\fscy94.51\1a&H00&\blur0.35378665887792\be0.5\fs60\c&H767676&\pos(1229.34,321.73)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=1229=1233}{\fscx95.78\fscy95.78\1a&H00&\blur0.70896896970178\be0.5\fs60\c&H767676&\pos(1236.35,320.67)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=1229=1234}{\fscx97.98\fscy97.98\1a&H00&\blur1.2222356564918\be0.5\fs60\c&H767676&\pos(1248.43,318.81)}Hornacis Mountain Range
-Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=1229=1237}{\fscx100\fscy100\1a&H00&\blur2.3477329490383\be0.5\fs60\c&H767676&\pos(1271.34,313.68)}Hornacis Mountain Range
+Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=1318=1324}{\fscx100\fscy100\1a&H00&\blur0\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=1318=1319}{\fscx100.21\fscy100.21\1a&H00&\blur0.11960351165414\be0.5\fs60\c&H767676&\pos(1271.75,318.27)}Hornacis Mountain Range
+Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1318=1320}{\fscx100.89\fscy100.89\1a&H00&\blur0.38486491136501\be0.5\fs60\c&H767676&\pos(1275.55,317.66)}Hornacis Mountain Range
+Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=1318=1321}{\fscx102.25\fscy102.25\1a&H00&\blur0.77103177625829\be0.5\fs60\c&H767676&\pos(1283.18,316.55)}Hornacis Mountain Range
+Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=1318=1322}{\fscx104.6\fscy104.6\1a&H00&\blur1.3305156894979\be0.5\fs60\c&H767676&\pos(1296.34,314.59)}Hornacis Mountain Range
+Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=1318=1325}{\fscx106.75\fscy106.75\1a&H00&\blur2.4698366342736\be0.5\fs60\c&H767676&\pos(1320.61,310.01)}Hornacis Mountain Range
 Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=1259=1265}{\fscx100\fscy100\1a&H00&\blur0\be0.5\fs100\c&H434343&\pos(1645.06,607.79)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
 Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=1259=1260}{\fscx100.21\fscy100.21\1a&H00&\blur0.20397303743387\be0.5\fs100\c&H434343&\pos(1647.04,608.28)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
 Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1259=1261}{\fscx100.89\fscy100.89\1a&H00&\blur0.64821369933072\be0.5\fs100\c&H434343&\pos(1653.38,609.63)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
@@ -1088,12 +1087,12 @@ Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1282=1284}{\fscx100.89\fscy100
 Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=1282=1285}{\fscx102.25\fscy102.25\1a&H00&\blur0.96328240926533\be0.5\fs60\c&H696969&\pos(1283.16,842.08)}Desi Bay
 Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=1282=1286}{\fscx104.6\fscy104.6\1a&H00&\blur1.6595110725753\be0.5\fs60\c&H696969&\pos(1296.32,852.19)}Desi Bay
 Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=1282=1289}{\blur2.928082819867\fscx106.75\fscy106.75\1a&H00&\be0.5\fs60\c&H696969&\pos(1320.94,868.04)}Desi Bay
-Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=1120=1126}{\fscx97.8\fscy97.8\1a&H00&\blur0\be0.5\fs120\c&H555555&\pos(1555.46,944.95)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
-Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=1120=1121}{\fscx98.01\fscy98.01\1a&H00&\blur0.43100348026436\be0.5\fs120\c&H555555&\pos(1557.25,946.15)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
-Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1120=1122}{\fscx98.67\fscy98.67\1a&H00&\blur1.3576818478569\be0.5\fs120\c&H555555&\pos(1562.98,949.79)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
-Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=1120=1123}{\fscx100\fscy100\1a&H00&\blur2.7377961940218\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
-Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=1120=1124}{\fscx102.3\fscy102.3\1a&H00&\blur4.7194919218068\be0.5\fs120\c&H555555&\pos(1594.34,969.96)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
-Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=1120=1127}{\fscx104.4\fscy104.4\1a&H00&\blur7.6285139923789\be0.5\fs120\c&H555555&\pos(1630.84,995.03)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:06.94,0:01:07.30,Board,,0,0,0,,{=1305=1311}{\fscx100\fscy100\1a&H00&\blur0\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:07.30,0:01:07.34,Board,,0,0,0,,{=1305=1306}{\fscx100.21\fscy100.21\1a&H00&\blur0.22049489790014\be0.5\fs120\c&H555555&\pos(1576.32,958.43)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:07.34,0:01:07.38,Board,,0,0,0,,{=1305=1307}{\fscx100.89\fscy100.89\1a&H00&\blur0.69410373864432\be0.5\fs120\c&H555555&\pos(1582.18,962.15)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:07.38,0:01:07.42,Board,,0,0,0,,{=1305=1308}{\fscx102.25\fscy102.25\1a&H00&\blur1.399420594389\be0.5\fs120\c&H555555&\pos(1593.95,969.72)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:07.42,0:01:07.46,Board,,0,0,0,,{=1305=1309}{\fscx104.6\fscy104.6\1a&H00&\blur2.4124398438096\be0.5\fs120\c&H555555&\pos(1614.24,982.77)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:07.46,0:01:07.50,Board,,0,0,0,,{=1305=1312}{\blur4.5331173600515\fscx106.75\fscy106.75\1a&H00&\be0.5\fs120\c&H555555&\pos(1652.87,1006.49)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Comment: 0,0:01:06.94,0:01:07.50,Consolas,,0,0,0,,{\pos(-24,0)}/home/liray/mpv-shot0021.bmp
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{\pos(-24,0)}/home/liray/mpv-shot0021.bmp
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{=32}/home/liray/mpv-shot0021.bmp
@@ -1710,104 +1709,23 @@ Data: 838,_aegi_folddata,e1;1;459
 Data: 845,a-mo,e{"uuid"#3A"d127cb5e-8179-4032-8b28-c8d855acea34"#2C"originalText"#3A"{\\alpha&H00&\\blur0\\fs70\\c&H74C8FD&\\b0\\pos(967.75#2C265.76)\\clip(0#2C25.9#2C1919#2C1079)}Feysac Empire"}
 Data: 848,_aegi_folddata,e0;1;463
 Data: 849,_aegi_folddata,e1;1;463
-Data: 850,_aegi_folddata,e1;0;464
-Data: 851,_aegi_folddata,e0;0;465
 Data: 852,a-mo,e{"uuid"#3A"e3179439-91f6-44b3-8f30-33a2b64a5ea0"#2C"originalText"#3A"{\\fs70\\c&H48A4D9&\\pos(1424.9#2C724.11)\\blur0}Loen Kingdom"}
 Data: 855,_aegi_folddata,e0;1;466
 Data: 856,_aegi_folddata,e1;1;466
-Data: 859,_aegi_folddata,e0;0;467
 Data: 860,_aegi_folddata,e0;1;468
 Data: 861,_aegi_folddata,e1;1;468
 Data: 864,_aegi_folddata,e0;1;469
 Data: 865,_aegi_folddata,e1;1;469
 Data: 944,a-mo,e{"uuid"#3A"f6685753-e557-4c4e-bef6-3c4cf2017172"#2C"originalText"#3A"{\\blur0\\fs70\\c&H4FA0CB&\\pos(704.38#2C974.9)\\iclip(m 408.03 990.18 l 422.1 958.8 414.52 926.33 393.96 900.36 370.15 876.55 351.75 847.33 339.84 817.03 332.27 784.57 325.77 752.1 346.34 726.13 346.34 693.67 326.85 665.53 296.55 650.38 282.48 620.08 250.01 615.75 237.02 646.05 220.79 676.35 198.06 700.16 187.24 731.54 182.67 778.66 203.07 799.55 201.57 827.2 198.28 865.78 197.2 894.56 197.75 928.93 199.36 954.86 201.62 989.36 207.94 1035.35 325.48 1034.95 327.46 991.75 374.9 951.98 385.27 994.7)}Feynapotter Kingdom"}
-Data: 945,_aegi_folddata,e1;0;471
-Data: 946,_aegi_folddata,e1;0;472
-Data: 947,_aegi_folddata,e1;0;473
-Data: 948,_aegi_folddata,e1;0;474
-Data: 949,_aegi_folddata,e1;0;475
-Data: 950,_aegi_folddata,e1;0;476
-Data: 951,_aegi_folddata,e1;0;477
-Data: 952,_aegi_folddata,e1;0;478
-Data: 953,_aegi_folddata,e1;0;479
-Data: 954,_aegi_folddata,e1;0;480
-Data: 955,_aegi_folddata,e1;0;481
-Data: 956,_aegi_folddata,e1;0;482
-Data: 957,_aegi_folddata,e1;0;483
-Data: 958,_aegi_folddata,e1;0;484
-Data: 959,_aegi_folddata,e1;0;485
-Data: 960,_aegi_folddata,e1;0;486
-Data: 961,_aegi_folddata,e1;0;487
-Data: 962,_aegi_folddata,e1;0;488
-Data: 963,_aegi_folddata,e1;0;489
-Data: 964,_aegi_folddata,e1;0;490
 Data: 966,_aegi_folddata,e0;1;492
 Data: 967,_aegi_folddata,e1;1;492
 Data: 973,a-mo,e{"uuid"#3A"1c4078da-fc61-42d0-8c61-374072db6777"#2C"originalText"#3A"{\\blur0\\alpha&H00&\\fs45\\c&H549DD1&\\pos(413.64#2C841.87)\\iclip(m 408.03 990.18 l 422.1 958.8 414.52 926.33 393.96 900.36 370.15 876.55 351.75 847.33 339.84 817.03 332.27 784.57 325.77 752.1 346.34 726.13 346.34 693.67 326.85 665.53 296.55 650.38 282.48 620.08 250.01 615.75 237.02 646.05 220.79 676.35 198.06 700.16 187.24 731.54 182.67 778.66 203.07 799.55 201.57 827.2 198.28 865.78 197.2 894.56 197.75 928.93 199.36 954.86 201.62 989.36 207.94 1035.35 325.48 1034.95 327.46 991.75 374.9 951.98 385.27 994.7)}Segar"}
-Data: 974,_aegi_folddata,e1;0;494
-Data: 975,_aegi_folddata,e1;0;495
-Data: 976,_aegi_folddata,e1;0;496
-Data: 977,_aegi_folddata,e1;0;497
-Data: 978,_aegi_folddata,e1;0;498
-Data: 979,_aegi_folddata,e1;0;499
-Data: 980,_aegi_folddata,e1;0;500
-Data: 981,_aegi_folddata,e1;0;501
-Data: 982,_aegi_folddata,e1;0;502
-Data: 983,_aegi_folddata,e1;0;503
-Data: 984,_aegi_folddata,e1;0;504
-Data: 985,_aegi_folddata,e1;0;505
-Data: 986,_aegi_folddata,e1;0;506
-Data: 987,_aegi_folddata,e1;0;507
-Data: 988,_aegi_folddata,e1;0;508
-Data: 989,_aegi_folddata,e1;0;509
-Data: 990,_aegi_folddata,e1;0;510
-Data: 991,_aegi_folddata,e1;0;511
-Data: 992,_aegi_folddata,e1;0;512
-Data: 993,_aegi_folddata,e1;0;513
 Data: 995,_aegi_folddata,e0;1;515
 Data: 996,_aegi_folddata,e1;1;515
 Data: 1021,a-mo,e{"uuid"#3A"02bd94e5-e04a-45f9-a49b-e1943ee8369e"#2C"originalText"#3A"{\\blur0\\alpha&H00&\\fs45\\c&H60A5DB&\\pos(579.78#2C809.2)\\iclip(m 408.03 990.18 l 422.1 958.8 414.52 926.33 393.96 900.36 370.15 876.55 351.75 847.33 339.84 817.03 332.27 784.57 325.77 752.1 346.34 726.13 346.34 693.67 326.85 665.53 296.55 650.38 282.48 620.08 250.01 615.75 237.02 646.05 220.79 676.35 198.06 700.16 187.24 731.54 182.67 778.66 203.07 799.55 201.57 827.2 198.28 865.78 197.2 894.56 197.75 928.93 199.36 954.86 201.62 989.36 207.94 1035.35 325.48 1034.95 327.46 991.75 374.9 951.98 385.27 994.7)}Lenburg"}
-Data: 1022,_aegi_folddata,e1;0;517
-Data: 1023,_aegi_folddata,e1;0;518
-Data: 1024,_aegi_folddata,e1;0;519
-Data: 1025,_aegi_folddata,e1;0;520
-Data: 1026,_aegi_folddata,e1;0;521
-Data: 1027,_aegi_folddata,e1;0;522
-Data: 1028,_aegi_folddata,e1;0;523
-Data: 1029,_aegi_folddata,e1;0;524
-Data: 1030,_aegi_folddata,e1;0;525
-Data: 1031,_aegi_folddata,e1;0;526
-Data: 1032,_aegi_folddata,e1;0;527
-Data: 1033,_aegi_folddata,e1;0;528
-Data: 1034,_aegi_folddata,e1;0;529
-Data: 1035,_aegi_folddata,e1;0;530
-Data: 1036,_aegi_folddata,e1;0;531
-Data: 1037,_aegi_folddata,e1;0;532
-Data: 1038,_aegi_folddata,e1;0;533
-Data: 1039,_aegi_folddata,e1;0;534
-Data: 1040,_aegi_folddata,e1;0;535
 Data: 1042,_aegi_folddata,e0;1;537
 Data: 1043,_aegi_folddata,e1;1;537
 Data: 1068,a-mo,e{"uuid"#3A"cc0ffdfa-59ab-460e-92d1-c6786dfb0417"#2C"originalText"#3A"{\\blur0\\alpha&H00&\\fs45\\c&H60A5DB&\\pos(1108.17#2C900.55)}Masin"}
-Data: 1069,_aegi_folddata,e1;0;539
-Data: 1070,_aegi_folddata,e1;0;540
-Data: 1071,_aegi_folddata,e1;0;541
-Data: 1072,_aegi_folddata,e1;0;542
-Data: 1073,_aegi_folddata,e1;0;543
-Data: 1074,_aegi_folddata,e1;0;544
-Data: 1075,_aegi_folddata,e1;0;545
-Data: 1076,_aegi_folddata,e1;0;546
-Data: 1077,_aegi_folddata,e1;0;547
-Data: 1078,_aegi_folddata,e1;0;548
-Data: 1079,_aegi_folddata,e1;0;549
-Data: 1080,_aegi_folddata,e1;0;550
-Data: 1081,_aegi_folddata,e1;0;551
-Data: 1082,_aegi_folddata,e1;0;552
-Data: 1083,_aegi_folddata,e1;0;553
-Data: 1084,_aegi_folddata,e1;0;554
-Data: 1085,_aegi_folddata,e1;0;555
-Data: 1086,_aegi_folddata,e1;0;556
-Data: 1087,_aegi_folddata,e1;0;557
 Data: 1089,_aegi_folddata,e0;1;559
 Data: 1090,_aegi_folddata,e1;1;559
 Data: 1091,_aegi_folddata,e0;1;560
@@ -1875,39 +1793,53 @@ Data: 1215,_aegi_folddata,e1;0;625
 Data: 1216,_aegi_folddata,e1;0;626
 Data: 1218,_aegi_folddata,e0;1;628
 Data: 1219,_aegi_folddata,e1;1;628
-Data: 1222,_aegi_folddata,e1;0;629
 Data: 1229,a-mo,e{"originalText"#3A"{\\blur0\\be0.5\\fs60\\c&H767676&\\pos(1270.56#2C318.39)}Hornacis Mountain Range"#2C"uuid"#3A"8dc74ef4-cb52-4b05-bfd6-15f9a7803419"}
 Data: 1230,_aegi_folddata,e1;0;630
 Data: 1231,_aegi_folddata,e1;0;631
 Data: 1232,_aegi_folddata,e1;0;632
 Data: 1233,_aegi_folddata,e1;0;633
 Data: 1234,_aegi_folddata,e1;0;634
-Data: 1235,_aegi_folddata,e1;0;635
 Data: 1236,_aegi_folddata,e0;1;636
 Data: 1237,_aegi_folddata,e1;1;636
-Data: 1238,_aegi_folddata,e0;0;561
-Data: 1239,_aegi_folddata,e1;0;561
-Data: 1240,_aegi_folddata,e1;0;637
 Data: 1259,a-mo,e{"originalText"#3A"{\\blur0\\be0.5\\fs100\\c&H434343&\\pos(1645.06#2C607.79)}S{\\c&H3E3E3E&}u{\\c&H393939&}n{\\c&H343434&}i{\\c&H2F2F2F&}a{\\c&H292929&} {\\c&H242424&}S{\\c&H1F1F1F&}e{\\c&H1A1A1A&}a"#2C"uuid"#3A"8e1d07ee-ff28-4fd2-840a-451bf157674d"}
 Data: 1260,_aegi_folddata,e1;0;638
 Data: 1261,_aegi_folddata,e1;0;639
 Data: 1262,_aegi_folddata,e1;0;640
 Data: 1263,_aegi_folddata,e1;0;641
-Data: 1264,_aegi_folddata,e1;0;642
 Data: 1265,_aegi_folddata,e0;1;643
 Data: 1266,_aegi_folddata,e1;1;643
-Data: 1267,_aegi_folddata,e0;0;562
-Data: 1268,_aegi_folddata,e1;0;562
-Data: 1269,_aegi_folddata,e1;0;644
 Data: 1282,a-mo,e{"originalText"#3A"{\\blur0\\be0.5\\fs60\\c&H696969&\\pos(1270.54#2C832.36)}Desi Bay"#2C"uuid"#3A"9bb9b095-a7e7-4b6d-8dc1-da1227a7aa82"}
 Data: 1283,_aegi_folddata,e1;0;645
 Data: 1284,_aegi_folddata,e1;0;646
 Data: 1285,_aegi_folddata,e1;0;647
 Data: 1286,_aegi_folddata,e1;0;648
-Data: 1287,_aegi_folddata,e1;0;649
 Data: 1288,_aegi_folddata,e0;1;650
 Data: 1289,_aegi_folddata,e1;1;650
-Data: 1290,_aegi_folddata,e0;0;578
-Data: 1291,_aegi_folddata,e1;0;578
 Data: 1292,_aegi_folddata,e0;0;599
 Data: 1293,_aegi_folddata,e1;0;599
+Data: 1294,_aegi_folddata,e0;0;563
+Data: 1295,_aegi_folddata,e1;0;563
+Data: 1296,_aegi_folddata,e1;0;651
+Data: 1297,_aegi_folddata,e0;0;570
+Data: 1298,_aegi_folddata,e1;0;570
+Data: 1305,a-mo,e{"originalText"#3A"{\\blur0\\be0.5\\fs120\\c&H555555&\\pos(1574.49#2C957.2)}B{\\c&H515151&}e{\\c&H4C4C4C&}r{\\c&H484848&}s{\\c&H444444&}e{\\c&H404040&}r{\\c&H3B3B3B&}k{\\c&H373737&} {\\c&H333333&}S{\\c&H2E2E2E&}e{\\c&H2A2A2A&}a"#2C"uuid"#3A"4779d36e-dfb5-4501-8ef9-ca2c2b530530"}
+Data: 1306,_aegi_folddata,e1;0;652
+Data: 1307,_aegi_folddata,e1;0;653
+Data: 1308,_aegi_folddata,e1;0;654
+Data: 1309,_aegi_folddata,e1;0;655
+Data: 1310,_aegi_folddata,e1;0;656
+Data: 1311,_aegi_folddata,e0;1;657
+Data: 1312,_aegi_folddata,e1;1;657
+Data: 1313,_aegi_folddata,e0;0;560
+Data: 1314,_aegi_folddata,e1;0;560
+Data: 1315,_aegi_folddata,e0;0;636
+Data: 1316,_aegi_folddata,e1;0;636
+Data: 1317,_aegi_folddata,e1;0;658
+Data: 1318,a-mo,e{"originalText"#3A"{\\blur0\\be0.5\\fs60\\c&H767676&\\pos(1270.56#2C318.39)}Hornacis Mountain Range"#2C"uuid"#3A"a6fab713-f687-448f-8853-ceebed8b575c"}
+Data: 1319,_aegi_folddata,e1;0;659
+Data: 1320,_aegi_folddata,e1;0;660
+Data: 1321,_aegi_folddata,e1;0;661
+Data: 1322,_aegi_folddata,e1;0;662
+Data: 1323,_aegi_folddata,e1;0;663
+Data: 1324,_aegi_folddata,e0;1;664
+Data: 1325,_aegi_folddata,e1;1;664
