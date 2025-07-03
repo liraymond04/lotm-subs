@@ -13,9 +13,9 @@ Video File: mysticism_class_1.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 35
-Active Line: 922
-Video Position: 1482
+Scroll Position: 26
+Active Line: 730
+Video Position: 1222
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -758,46 +758,46 @@ Dialogue: 0,0:00:43.70,0:00:43.74,Board,,0,0,0,,{\alpha&H19&\fs45\c&H60A5DB&\pos
 Dialogue: 0,0:00:43.74,0:00:43.78,Board,,0,0,0,,{\alpha&H00&\fs45\c&H60A5DB&\pos(1108.17,900.55)}Masin
 Dialogue: 0,0:00:43.78,0:00:47.38,Board,,0,0,0,,{=708}{\alpha&H00&\fs45\c&H60A5DB&\pos(1108.17,900.55)}Masin
 Dialogue: 0,0:00:47.38,0:00:47.42,Board,,0,0,0,,{=816=837}{\fscx100\fscy100\1a&H00&\fs70\pos(357.33,486.85)\c&H4FA0CB&\blur0}Intis Republic
-Dialogue: 0,0:00:47.42,0:00:47.46,Board,,0,0,0,,{=816=817}{\fscx100.17\fscy100.17\1a&H00&\fs70\pos(354.67,485.8)\c&H4FA0CB&\blur0.14298688751071}Intis Republic
-Dialogue: 0,0:00:47.46,0:00:47.50,Board,,0,0,0,,{=816=818}{\fscx100.73\fscy100.73\1a&H00&\fs70\pos(346.14,482.7)\c&H4FA0CB&\blur0.45379207793879}Intis Republic
-Dialogue: 0,0:00:47.50,0:00:47.54,Board,,0,0,0,,{=816=819}{\fscx101.61\fscy101.61\1a&H00&\fs70\pos(332.63,477.65)\c&H4FA0CB&\blur0.72114942973007}Intis Republic
-Dialogue: 0,0:00:47.54,0:00:47.58,Board,,0,0,0,,{=816=820}{\fscx102.78\fscy102.78\1a&H00&\fs70\pos(314.78,471.02)\c&H4FA0CB&\blur0.95207588983232}Intis Republic
-Dialogue: 0,0:00:47.58,0:00:47.62,Board,,0,0,0,,{=816=821}{\fscx104.19\fscy104.19\1a&H00&\fs70\pos(293.29,462.99)\c&H4FA0CB&\blur1.1470625527843}Intis Republic
-Dialogue: 0,0:00:47.62,0:00:47.66,Board,,0,0,0,,{=816=822}{\fscx106.28\fscy106.28\1a&H00&\fs70\pos(266.02,453.62)\c&H4FA0CB&\blur1.4417435624965}Intis Republic
-Dialogue: 0,0:00:47.66,0:00:47.70,Board,,0,0,0,,{=816=823}{\fscx110.45\fscy110.45\1a&H00&\fs70\pos(207.35,432.57)\c&H4FA0CB&\blur3.1165972630419}Intis Republic
-Dialogue: 0,0:00:47.70,0:00:47.74,Board,,0,0,0,,{=816=824}{\fscx110.95\fscy110.95\1a&H00&\fs70\pos(204.14,432.1)\c&H4FA0CB&\blur3.16221128197508}Intis Republic
-Dialogue: 0,0:00:47.74,0:00:47.78,Board,,0,0,0,,{=816=825}{\fscx112.97\fscy112.97\1a&H00&\fs70\pos(154.85,410.71)\c&H4FA0CB&\blur2.6865573695717}Intis Republic
-Dialogue: 0,0:00:47.78,0:00:47.82,Board,,0,0,0,,{=816=826}{\fscx115.5\fscy115.5\1a&H00&\fs70\pos(120.65,398.68)\c&H4FA0CB&\blur1.8127057814218}Intis Republic
-Dialogue: 0,0:00:47.82,0:00:47.86,Board,,0,0,0,,{=816=827}{\fscx117.47\fscy117.47\1a&H00&\fs70\pos(90.36,387.38)\c&H4FA0CB&\blur1.6164576239419}Intis Republic
-Dialogue: 0,0:00:47.86,0:00:47.90,Board,,0,0,0,,{=816=828}{\fscx119.37\fscy119.37\1a&H00&\fs70\pos(61.37,376.58)\c&H4FA0CB&\blur1.5468193979906}Intis Republic
-Dialogue: 0,0:00:47.90,0:00:47.94,Board,,0,0,0,,{=816=829}{\fscx121.15\fscy121.15\1a&H00&\fs70\pos(34.24,366.48)\c&H4FA0CB&\blur1.4474519853867}Intis Republic
-Dialogue: 0,0:00:47.94,0:00:47.98,Board,,0,0,0,,{=816=830}{\fscx122.75\fscy122.75\1a&H00&\fs70\pos(9.61,357.3)\c&H4FA0CB&\blur1.3142576802134}Intis Republic
-Dialogue: 0,0:00:47.98,0:00:48.02,Board,,0,0,0,,{=816=831}{\fscx124.17\fscy124.17\1a&H00&\fs70\pos(-12,349.24)\c&H4FA0CB&\blur1.1532082422529}Intis Republic
-Dialogue: 0,0:00:48.02,0:00:48.06,Board,,0,0,0,,{=816=832}{\fscx125.34\fscy125.34\1a&H00&\fs70\pos(-29.83,342.59)\c&H4FA0CB&\blur0.95148751962388}Intis Republic
-Dialogue: 0,0:00:48.06,0:00:48.10,Board,,0,0,0,,{=816=833}{\fscx126.22\fscy126.22\1a&H00&\fs70\pos(-43.32,337.57)\c&H4FA0CB&\blur0.71968830058575}Intis Republic
-Dialogue: 0,0:00:48.10,0:00:48.14,Board,,0,0,0,,{=816=834}{\fscx126.77\fscy126.77\1a&H00&\fs70\pos(-51.83,334.37)\c&H4FA0CB&\blur0.45458800028157}Intis Republic
-Dialogue: 0,0:00:48.14,0:00:48.18,Board,,0,0,0,,{=816=835}{\fscx127\fscy127\1a&H00&\fs70\pos(-55.26,333.11)\c&H4FA0CB&\blur0.18270536390593}Intis Republic
-Dialogue: 0,0:00:48.18,0:01:07.18,Board,,0,0,0,,{=816=838}{\fscx127\fscy127\1a&H00&\fs70\pos(-55.27,333.11)\c&H4FA0CB&\blur0.00050000000000026}Intis Republic
+Dialogue: 0,0:00:47.42,0:00:47.46,Board,,0,0,0,,{=816}{\fscx100.17\fscy100.17\1a&H00&\fs70\pos(354.67,485.8)\c&H4FA0CB&\blur0.14298688751071}Intis Republic
+Dialogue: 0,0:00:47.46,0:00:47.50,Board,,0,0,0,,{=816}{\fscx100.73\fscy100.73\1a&H00&\fs70\pos(346.14,482.7)\c&H4FA0CB&\blur0.45379207793879}Intis Republic
+Dialogue: 0,0:00:47.50,0:00:47.54,Board,,0,0,0,,{=816}{\fscx101.61\fscy101.61\1a&H00&\fs70\pos(332.63,477.65)\c&H4FA0CB&\blur0.72114942973007}Intis Republic
+Dialogue: 0,0:00:47.54,0:00:47.58,Board,,0,0,0,,{=816}{\fscx102.78\fscy102.78\1a&H00&\fs70\pos(314.78,471.02)\c&H4FA0CB&\blur0.95207588983232}Intis Republic
+Dialogue: 0,0:00:47.58,0:00:47.62,Board,,0,0,0,,{=816}{\fscx104.19\fscy104.19\1a&H00&\fs70\pos(293.29,462.99)\c&H4FA0CB&\blur1.1470625527843}Intis Republic
+Dialogue: 0,0:00:47.62,0:00:47.66,Board,,0,0,0,,{=816}{\fscx106.28\fscy106.28\1a&H00&\fs70\pos(266.02,453.62)\c&H4FA0CB&\blur1.4417435624965}Intis Republic
+Dialogue: 0,0:00:47.66,0:00:47.70,Board,,0,0,0,,{=816}{\fscx110.45\fscy110.45\1a&H00&\fs70\pos(207.35,432.57)\c&H4FA0CB&\blur3.1165972630419}Intis Republic
+Dialogue: 0,0:00:47.70,0:00:47.74,Board,,0,0,0,,{=816}{\fscx110.95\fscy110.95\1a&H00&\fs70\pos(204.14,432.1)\c&H4FA0CB&\blur3.16221128197508}Intis Republic
+Dialogue: 0,0:00:47.74,0:00:47.78,Board,,0,0,0,,{=816}{\fscx112.97\fscy112.97\1a&H00&\fs70\pos(154.85,410.71)\c&H4FA0CB&\blur2.6865573695717}Intis Republic
+Dialogue: 0,0:00:47.78,0:00:47.82,Board,,0,0,0,,{=816}{\fscx115.5\fscy115.5\1a&H00&\fs70\pos(120.65,398.68)\c&H4FA0CB&\blur1.8127057814218}Intis Republic
+Dialogue: 0,0:00:47.82,0:00:47.86,Board,,0,0,0,,{=816}{\fscx117.47\fscy117.47\1a&H00&\fs70\pos(90.36,387.38)\c&H4FA0CB&\blur1.6164576239419}Intis Republic
+Dialogue: 0,0:00:47.86,0:00:47.90,Board,,0,0,0,,{=816}{\fscx119.37\fscy119.37\1a&H00&\fs70\pos(61.37,376.58)\c&H4FA0CB&\blur1.5468193979906}Intis Republic
+Dialogue: 0,0:00:47.90,0:00:47.94,Board,,0,0,0,,{=816}{\fscx121.15\fscy121.15\1a&H00&\fs70\pos(34.24,366.48)\c&H4FA0CB&\blur1.4474519853867}Intis Republic
+Dialogue: 0,0:00:47.94,0:00:47.98,Board,,0,0,0,,{=816}{\fscx122.75\fscy122.75\1a&H00&\fs70\pos(9.61,357.3)\c&H4FA0CB&\blur1.3142576802134}Intis Republic
+Dialogue: 0,0:00:47.98,0:00:48.02,Board,,0,0,0,,{=816}{\fscx124.17\fscy124.17\1a&H00&\fs70\pos(-12,349.24)\c&H4FA0CB&\blur1.1532082422529}Intis Republic
+Dialogue: 0,0:00:48.02,0:00:48.06,Board,,0,0,0,,{=816}{\fscx125.34\fscy125.34\1a&H00&\fs70\pos(-29.83,342.59)\c&H4FA0CB&\blur0.95148751962388}Intis Republic
+Dialogue: 0,0:00:48.06,0:00:48.10,Board,,0,0,0,,{=816}{\fscx126.22\fscy126.22\1a&H00&\fs70\pos(-43.32,337.57)\c&H4FA0CB&\blur0.71968830058575}Intis Republic
+Dialogue: 0,0:00:48.10,0:00:48.14,Board,,0,0,0,,{=816}{\fscx126.77\fscy126.77\1a&H00&\fs70\pos(-51.83,334.37)\c&H4FA0CB&\blur0.45458800028157}Intis Republic
+Dialogue: 0,0:00:48.14,0:00:48.18,Board,,0,0,0,,{=816}{\fscx127\fscy127\1a&H00&\fs70\pos(-55.26,333.11)\c&H4FA0CB&\blur0.18270536390593}Intis Republic
+Dialogue: 0,0:00:48.18,0:01:06.94,Board,,0,0,0,,{=816=838}{\fscx127\fscy127\1a&H00&\fs70\pos(-55.27,333.11)\c&H4FA0CB&\blur0.00050000000000026}Intis Republic
 Dialogue: 0,0:00:47.38,0:00:47.42,Board,,0,0,0,,{=845=848}{\fscx100\fscy100\alpha&H00&\blur0\fs70\c&H74C8FD&\b0\pos(967.75,265.76)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.42,0:00:47.46,Board,,0,0,0,,{=842=845}{\fscx100.17\fscy100.17\alpha&H00&\blur0.10808908363012\fs70\c&H74C8FD&\b0\pos(966.12,264.34)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.46,0:00:47.50,Board,,0,0,0,,{=842=845}{\fscx100.73\fscy100.73\alpha&H00&\blur0.33445365897236\fs70\c&H74C8FD&\b0\pos(961.03,260)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.50,0:00:47.54,Board,,0,0,0,,{=842=845}{\fscx101.61\fscy101.61\alpha&H00&\blur0.53674248946771\fs70\c&H74C8FD&\b0\pos(952.9,252.99)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.54,0:00:47.58,Board,,0,0,0,,{=842=845}{\fscx102.78\fscy102.78\alpha&H00&\blur0.70621951261629\fs70\c&H74C8FD&\b0\pos(942.2,243.77)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.58,0:00:47.62,Board,,0,0,0,,{=842=845}{\fscx104.19\fscy104.19\alpha&H00&\blur0.85264778777641\fs70\c&H74C8FD&\b0\pos(929.28,232.64)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.62,0:00:47.66,Board,,0,0,0,,{=842=845}{\fscx106.28\fscy106.28\alpha&H00&\blur1.0074225776704\fs70\c&H74C8FD&\b0\pos(914.79,218.64)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.66,0:00:47.70,Board,,0,0,0,,{=842=845}{\fscx110.45\fscy110.45\alpha&H00&\blur2.2471322279741\fs70\c&H74C8FD&\b0\pos(881.57,188.37)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.70,0:00:47.74,Board,,0,0,0,,{=842=845}{\fscx110.95\fscy110.95\alpha&H00&\blur2.378857466355444\fs70\c&H74C8FD&\b0\pos(881.42,186.8)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.74,0:00:47.78,Board,,0,0,0,,{=842=845}{\fscx112.97\fscy112.97\alpha&H00&\blur2.2562468836544\fs70\c&H74C8FD&\b0\pos(844.44,160.94)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.78,0:00:47.82,Board,,0,0,0,,{=842=845}{\fscx115.5\fscy115.5\alpha&H00&\blur1.2872456059354\fs70\c&H74C8FD&\b0\pos(825.66,143.33)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.82,0:00:47.86,Board,,0,0,0,,{=842=845}{\fscx117.47\fscy117.47\alpha&H00&\blur1.2019586099363\fs70\c&H74C8FD&\b0\pos(807.43,127.66)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.86,0:00:47.90,Board,,0,0,0,,{=842=845}{\fscx119.37\fscy119.37\alpha&H00&\blur1.1483249757799\fs70\c&H74C8FD&\b0\pos(790.03,112.67)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.90,0:00:47.94,Board,,0,0,0,,{=842=845}{\fscx121.15\fscy121.15\alpha&H00&\blur1.0753265783007\fs70\c&H74C8FD&\b0\pos(773.73,98.64)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.94,0:00:47.98,Board,,0,0,0,,{=842=845}{\fscx122.75\fscy122.75\alpha&H00&\blur0.97608004282436\fs70\c&H74C8FD&\b0\pos(758.93,85.91)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:47.98,0:00:48.02,Board,,0,0,0,,{=842=845}{\fscx124.17\fscy124.17\alpha&H00&\blur0.85644848064551\fs70\c&H74C8FD&\b0\pos(745.97,74.71)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:48.02,0:00:48.06,Board,,0,0,0,,{=842=845}{\fscx125.34\fscy125.34\alpha&H00&\blur0.70697736880327\fs70\c&H74C8FD&\b0\pos(735.25,65.49)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:48.06,0:00:48.10,Board,,0,0,0,,{=842=845}{\fscx126.22\fscy126.22\alpha&H00&\blur0.53462697275764\fs70\c&H74C8FD&\b0\pos(727.15,58.51)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:48.10,0:00:48.14,Board,,0,0,0,,{=842=845}{\fscx126.77\fscy126.77\alpha&H00&\blur0.33819668833387\fs70\c&H74C8FD&\b0\pos(722.03,54.09)\clip(0,25.9,1919,1079)}Feysac Empire
-Dialogue: 0,0:00:48.14,0:00:48.18,Board,,0,0,0,,{=842=845}{\fscx127\fscy127\alpha&H00&\blur0.13509348614941\fs70\c&H74C8FD&\b0\pos(719.98,52.33)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.42,0:00:47.46,Board,,0,0,0,,{=845}{\fscx100.17\fscy100.17\alpha&H00&\blur0.10808908363012\fs70\c&H74C8FD&\b0\pos(966.12,264.34)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.46,0:00:47.50,Board,,0,0,0,,{=845}{\fscx100.73\fscy100.73\alpha&H00&\blur0.33445365897236\fs70\c&H74C8FD&\b0\pos(961.03,260)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.50,0:00:47.54,Board,,0,0,0,,{=845}{\fscx101.61\fscy101.61\alpha&H00&\blur0.53674248946771\fs70\c&H74C8FD&\b0\pos(952.9,252.99)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.54,0:00:47.58,Board,,0,0,0,,{=845}{\fscx102.78\fscy102.78\alpha&H00&\blur0.70621951261629\fs70\c&H74C8FD&\b0\pos(942.2,243.77)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.58,0:00:47.62,Board,,0,0,0,,{=845}{\fscx104.19\fscy104.19\alpha&H00&\blur0.85264778777641\fs70\c&H74C8FD&\b0\pos(929.28,232.64)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.62,0:00:47.66,Board,,0,0,0,,{=845}{\fscx106.28\fscy106.28\alpha&H00&\blur1.0074225776704\fs70\c&H74C8FD&\b0\pos(914.79,218.64)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.66,0:00:47.70,Board,,0,0,0,,{=845}{\fscx110.45\fscy110.45\alpha&H00&\blur2.2471322279741\fs70\c&H74C8FD&\b0\pos(881.57,188.37)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.70,0:00:47.74,Board,,0,0,0,,{=845}{\fscx110.95\fscy110.95\alpha&H00&\blur2.378857466355444\fs70\c&H74C8FD&\b0\pos(881.42,186.8)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.74,0:00:47.78,Board,,0,0,0,,{=845}{\fscx112.97\fscy112.97\alpha&H00&\blur2.2562468836544\fs70\c&H74C8FD&\b0\pos(844.44,160.94)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.78,0:00:47.82,Board,,0,0,0,,{=845}{\fscx115.5\fscy115.5\alpha&H00&\blur1.2872456059354\fs70\c&H74C8FD&\b0\pos(825.66,143.33)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.82,0:00:47.86,Board,,0,0,0,,{=845}{\fscx117.47\fscy117.47\alpha&H00&\blur1.2019586099363\fs70\c&H74C8FD&\b0\pos(807.43,127.66)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.86,0:00:47.90,Board,,0,0,0,,{=845}{\fscx119.37\fscy119.37\alpha&H00&\blur1.1483249757799\fs70\c&H74C8FD&\b0\pos(790.03,112.67)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.90,0:00:47.94,Board,,0,0,0,,{=845}{\fscx121.15\fscy121.15\alpha&H00&\blur1.0753265783007\fs70\c&H74C8FD&\b0\pos(773.73,98.64)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.94,0:00:47.98,Board,,0,0,0,,{=845}{\fscx122.75\fscy122.75\alpha&H00&\blur0.97608004282436\fs70\c&H74C8FD&\b0\pos(758.93,85.91)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:47.98,0:00:48.02,Board,,0,0,0,,{=845}{\fscx124.17\fscy124.17\alpha&H00&\blur0.85644848064551\fs70\c&H74C8FD&\b0\pos(745.97,74.71)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:48.02,0:00:48.06,Board,,0,0,0,,{=845}{\fscx125.34\fscy125.34\alpha&H00&\blur0.70697736880327\fs70\c&H74C8FD&\b0\pos(735.25,65.49)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:48.06,0:00:48.10,Board,,0,0,0,,{=845}{\fscx126.22\fscy126.22\alpha&H00&\blur0.53462697275764\fs70\c&H74C8FD&\b0\pos(727.15,58.51)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:48.10,0:00:48.14,Board,,0,0,0,,{=845}{\fscx126.77\fscy126.77\alpha&H00&\blur0.33819668833387\fs70\c&H74C8FD&\b0\pos(722.03,54.09)\clip(0,25.9,1919,1079)}Feysac Empire
+Dialogue: 0,0:00:48.14,0:00:48.18,Board,,0,0,0,,{=845}{\fscx127\fscy127\alpha&H00&\blur0.13509348614941\fs70\c&H74C8FD&\b0\pos(719.98,52.33)\clip(0,25.9,1919,1079)}Feysac Empire
 Dialogue: 0,0:00:48.18,0:01:07.18,Board,,0,0,0,,{=845=849}{\fscx127\fscy127\alpha&H00&\blur0.0004999999999999\fs70\c&H74C8FD&\b0\pos(719.98,52.32)\clip(0,25.9,1919,1079)}Feysac Empire
 Dialogue: 0,0:00:47.38,0:00:47.42,Board,,0,0,0,,{=852=855}{\fscx100\fscy100\1a&H00&\fs70\c&H48A4D9&\pos(1424.9,724.11)\blur0}Loen Kingdom
 Dialogue: 0,0:00:47.42,0:00:47.46,Board,,0,0,0,,{=851=852}{\fscx100.17\fscy100.17\1a&H00&\fs70\c&H48A4D9&\pos(1424.05,723.46)\blur0.053502336397586}Loen Kingdom
@@ -949,6 +949,76 @@ Dialogue: 0,0:00:55.94,0:00:55.98,Board,,0,0,0,,{=852=859}{\alpha&H10&\org(1300.
 Dialogue: 0,0:00:55.98,0:00:56.02,Board,,0,0,0,,{=852=859}{\alpha&H00&\org(1300.57,545.21)\an8\fscx60.03\fscy60.03\fs80\c&H57A7D5\pos(1286.38,634.09)}Capital: Backlund
 Dialogue: 0,0:00:56.02,0:01:06.94,Board,,0,0,0,,{=852=865}{\org(1300.57,545.21)\an8\fscx60.03\fscy60.03\1a&H00&\fs80\c&H57A7D5&\blur0.062018142506847\pos(1286.38,634.09)}Capital: Backlund
 Comment: 0,0:00:31.86,0:00:47.42,Board,,0,0,0,,{\fs70\pos(357.33,486.85)\c&H4FA0CB&}Intis Republic
+Comment: 0,0:00:58.10,0:00:58.62,Board,,0,0,0,,{=1091}{\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.10,0:00:58.14,Board,,0,0,0,,{\alpha&HFF&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.14,0:00:58.18,Board,,0,0,0,,{\alpha&HEA&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.18,0:00:58.22,Board,,0,0,0,,{\alpha&HD5&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.22,0:00:58.26,Board,,0,0,0,,{\alpha&HBF&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.26,0:00:58.30,Board,,0,0,0,,{\alpha&HAA&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.30,0:00:58.34,Board,,0,0,0,,{\alpha&H95&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.34,0:00:58.38,Board,,0,0,0,,{\alpha&H80&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.38,0:00:58.42,Board,,0,0,0,,{\alpha&H6A&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.42,0:00:58.46,Board,,0,0,0,,{\alpha&H55&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.46,0:00:58.50,Board,,0,0,0,,{\alpha&H40&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.50,0:00:58.54,Board,,0,0,0,,{\alpha&H2A&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.54,0:00:58.58,Board,,0,0,0,,{\alpha&H15&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.58,0:00:58.62,Board,,0,0,0,,{\alpha&H00&\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Dialogue: 0,0:00:58.62,0:01:06.94,Board,,0,0,0,,{=1092}{\be0.5\fs60\c&H767676&\pos(1270.56,318.39)}Hornacis Mountain Range
+Comment: 0,0:01:00.50,0:01:01.14,Board,,0,0,0,,{=1095}{\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.50,0:01:00.54,Board,,0,0,0,,{\alpha&HFF&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.54,0:01:00.58,Board,,0,0,0,,{\alpha&HEE&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.58,0:01:00.62,Board,,0,0,0,,{\alpha&HDD&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.62,0:01:00.66,Board,,0,0,0,,{\alpha&HCC&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.66,0:01:00.70,Board,,0,0,0,,{\alpha&HBB&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.70,0:01:00.74,Board,,0,0,0,,{\alpha&HAA&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.74,0:01:00.78,Board,,0,0,0,,{\alpha&H99&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.78,0:01:00.82,Board,,0,0,0,,{\alpha&H88&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.82,0:01:00.86,Board,,0,0,0,,{\alpha&H77&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.86,0:01:00.90,Board,,0,0,0,,{\alpha&H66&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.90,0:01:00.94,Board,,0,0,0,,{\alpha&H55&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.94,0:01:00.98,Board,,0,0,0,,{\alpha&H44&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:00.98,0:01:01.02,Board,,0,0,0,,{\alpha&H33&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:01.02,0:01:01.06,Board,,0,0,0,,{\alpha&H22&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:01.06,0:01:01.10,Board,,0,0,0,,{\alpha&H11&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:01.10,0:01:01.14,Board,,0,0,0,,{\alpha&H00&\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Dialogue: 0,0:01:01.14,0:01:06.94,Board,,0,0,0,,{=1096}{\be0.5\fs100\c&H434343&\pos(1645.06,607.79)\clip(1468.15,523.11,1829.93,601.92)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
+Comment: 0,0:01:02.38,0:01:02.98,Board,,0,0,0,,{=1099}{\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.38,0:01:02.42,Board,,0,0,0,,{\alpha&HFF&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.42,0:01:02.46,Board,,0,0,0,,{\alpha&HED&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.46,0:01:02.50,Board,,0,0,0,,{\alpha&HDB&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.50,0:01:02.54,Board,,0,0,0,,{\alpha&HC8&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.54,0:01:02.58,Board,,0,0,0,,{\alpha&HB6&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.58,0:01:02.62,Board,,0,0,0,,{\alpha&HA4&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.62,0:01:02.66,Board,,0,0,0,,{\alpha&H92&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.66,0:01:02.70,Board,,0,0,0,,{\alpha&H80&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.70,0:01:02.74,Board,,0,0,0,,{\alpha&H6D&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.74,0:01:02.78,Board,,0,0,0,,{\alpha&H5B&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.78,0:01:02.82,Board,,0,0,0,,{\alpha&H49&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.82,0:01:02.86,Board,,0,0,0,,{\alpha&H37&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.86,0:01:02.90,Board,,0,0,0,,{\alpha&H24&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.90,0:01:02.94,Board,,0,0,0,,{\alpha&H12&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.94,0:01:02.98,Board,,0,0,0,,{\alpha&H00&\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Dialogue: 0,0:01:02.98,0:01:06.94,Board,,0,0,0,,{=1100}{\be0.5\fs60\c&H696969&\pos(1270.54,832.36)}Desi Bay
+Comment: 0,0:01:04.38,0:01:05.10,Board,,0,0,0,,{=1101}{\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.38,0:01:04.42,Board,,0,0,0,,{\alpha&HFF&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.42,0:01:04.46,Board,,0,0,0,,{\alpha&HF0&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.46,0:01:04.50,Board,,0,0,0,,{\alpha&HE1&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.50,0:01:04.54,Board,,0,0,0,,{\alpha&HD2&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.54,0:01:04.58,Board,,0,0,0,,{\alpha&HC3&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.58,0:01:04.62,Board,,0,0,0,,{\alpha&HB4&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.62,0:01:04.66,Board,,0,0,0,,{\alpha&HA5&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.66,0:01:04.70,Board,,0,0,0,,{\alpha&H96&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.70,0:01:04.74,Board,,0,0,0,,{\alpha&H87&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.74,0:01:04.78,Board,,0,0,0,,{\alpha&H78&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.78,0:01:04.82,Board,,0,0,0,,{\alpha&H69&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.82,0:01:04.86,Board,,0,0,0,,{\alpha&H5A&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.86,0:01:04.90,Board,,0,0,0,,{\alpha&H4B&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.90,0:01:04.94,Board,,0,0,0,,{\alpha&H3C&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.94,0:01:04.98,Board,,0,0,0,,{\alpha&H2D&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:04.98,0:01:05.02,Board,,0,0,0,,{\alpha&H1E&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:05.02,0:01:05.06,Board,,0,0,0,,{\alpha&H0F&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:05.06,0:01:05.10,Board,,0,0,0,,{\alpha&H00&\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Dialogue: 0,0:01:05.10,0:01:06.94,Board,,0,0,0,,{=1102}{\be0.5\fs120\c&H555555&\pos(1574.49,957.2)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{\pos(-24,0)}/home/liray/mpv-shot0021.bmp
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{=32}/home/liray/mpv-shot0021.bmp
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{\p1\an7\pos(-24,133)}{\alpha&HFF&}m 0 0 l 0 1 724 1 724 0{\alpha&H00&\c&H060606&}m 0 0 l 0 1 88 1 88 0{\c&H080808&}m 0 0 l 0 1 40 1 40 0{\c&H090909&}m 0 0 l 0 1 101 1 101 0{\c&H0A0A0A&}m 0 0 l 0 1 23 1 23 0{\c&H0B0B0B&}m 0 0 l 0 1 31 1 31 0{\c&H090909&}m 0 0 l 0 1 93 1 93 0{\c&H0A0A0A&}m 0 0 l 0 1 39 1 39 0{\c&H0C0C0C&}m 0 0 l 0 1 52 1 52 0{\c&H0A0A0A&}m 0 0 l 0 1 42 1 42 0{\c&H0B0B0B&}m 0 0 l 0 1 50 1 50 0{\c&H0C0C0C&}m 0 0 l 0 1 31 1 31 0{\c&H0C0D0C&}m 0 0 l 0 1 46 1 46 0{\c&H0D0D0D&}m 0 0 l 0 1 26 1 26 0{\c&H0F0F0F&}m 0 0 l 0 1 27 1 27 0{\c&H0C0C0C&}m 0 0 l 0 1 80 1 80 0{\c&H0D0D0D&}m 0 0 l 0 1 31 1 31 0{\c&H0B0C0B&}m 0 0 l 0 1 39 1 39 0{\c&H0A0A0A&}m 0 0 l 0 1 25 1 25 0{\c&H090909&}m 0 0 l 0 1 29 1 29 0{\c&H080808&}m 0 0 l 0 1 41 1 41 0{\c&H060606&}m 0 0 l 0 1 71 1 71 0{\c&H040404&}m 0 0 l 0 1 42 1 42 0{\c&H030303&}m 0 0 l 0 1 1 1 1 0{\alpha&HFF&\c&H000000&}m 0 0 l 0 1 148 1 148 0
@@ -1559,25 +1629,6 @@ Data: 694,_aegi_folddata,e1;1;424
 Data: 707,_aegi_folddata,e0;1;437
 Data: 708,_aegi_folddata,e1;1;437
 Data: 816,a-mo,e{"uuid"#3A"ea4d37f3-270d-4557-baba-b29a2096247d"#2C"originalText"#3A"{\\fs70\\pos(357.33#2C486.85)\\c&H4FA0CB&\\blur0}Intis Republic"}
-Data: 817,_aegi_folddata,e1;0;439
-Data: 818,_aegi_folddata,e1;0;440
-Data: 819,_aegi_folddata,e1;0;441
-Data: 820,_aegi_folddata,e1;0;442
-Data: 821,_aegi_folddata,e1;0;443
-Data: 822,_aegi_folddata,e1;0;444
-Data: 823,_aegi_folddata,e1;0;445
-Data: 824,_aegi_folddata,e1;0;446
-Data: 825,_aegi_folddata,e1;0;447
-Data: 826,_aegi_folddata,e1;0;448
-Data: 827,_aegi_folddata,e1;0;449
-Data: 828,_aegi_folddata,e1;0;450
-Data: 829,_aegi_folddata,e1;0;451
-Data: 830,_aegi_folddata,e1;0;452
-Data: 831,_aegi_folddata,e1;0;453
-Data: 832,_aegi_folddata,e1;0;454
-Data: 833,_aegi_folddata,e1;0;455
-Data: 834,_aegi_folddata,e1;0;456
-Data: 835,_aegi_folddata,e1;0;457
 Data: 837,_aegi_folddata,e0;1;459
 Data: 838,_aegi_folddata,e1;1;459
 Data: 842,_aegi_folddata,e0;0;462
@@ -1640,7 +1691,6 @@ Data: 992,_aegi_folddata,e1;0;512
 Data: 993,_aegi_folddata,e1;0;513
 Data: 995,_aegi_folddata,e0;1;515
 Data: 996,_aegi_folddata,e1;1;515
-Data: 999,_aegi_folddata,e1;0;516
 Data: 1021,a-mo,e{"uuid"#3A"02bd94e5-e04a-45f9-a49b-e1943ee8369e"#2C"originalText"#3A"{\\blur0\\alpha&H00&\\fs45\\c&H60A5DB&\\pos(579.78#2C809.2)\\iclip(m 408.03 990.18 l 422.1 958.8 414.52 926.33 393.96 900.36 370.15 876.55 351.75 847.33 339.84 817.03 332.27 784.57 325.77 752.1 346.34 726.13 346.34 693.67 326.85 665.53 296.55 650.38 282.48 620.08 250.01 615.75 237.02 646.05 220.79 676.35 198.06 700.16 187.24 731.54 182.67 778.66 203.07 799.55 201.57 827.2 198.28 865.78 197.2 894.56 197.75 928.93 199.36 954.86 201.62 989.36 207.94 1035.35 325.48 1034.95 327.46 991.75 374.9 951.98 385.27 994.7)}Lenburg"}
 Data: 1022,_aegi_folddata,e1;0;517
 Data: 1023,_aegi_folddata,e1;0;518
@@ -1661,12 +1711,8 @@ Data: 1037,_aegi_folddata,e1;0;532
 Data: 1038,_aegi_folddata,e1;0;533
 Data: 1039,_aegi_folddata,e1;0;534
 Data: 1040,_aegi_folddata,e1;0;535
-Data: 1041,_aegi_folddata,e1;0;536
 Data: 1042,_aegi_folddata,e0;1;537
 Data: 1043,_aegi_folddata,e1;1;537
-Data: 1044,_aegi_folddata,e0;0;437
-Data: 1045,_aegi_folddata,e1;0;437
-Data: 1046,_aegi_folddata,e1;0;538
 Data: 1068,a-mo,e{"uuid"#3A"cc0ffdfa-59ab-460e-92d1-c6786dfb0417"#2C"originalText"#3A"{\\blur0\\alpha&H00&\\fs45\\c&H60A5DB&\\pos(1108.17#2C900.55)}Masin"}
 Data: 1069,_aegi_folddata,e1;0;539
 Data: 1070,_aegi_folddata,e1;0;540
@@ -1687,6 +1733,19 @@ Data: 1084,_aegi_folddata,e1;0;554
 Data: 1085,_aegi_folddata,e1;0;555
 Data: 1086,_aegi_folddata,e1;0;556
 Data: 1087,_aegi_folddata,e1;0;557
-Data: 1088,_aegi_folddata,e1;0;558
 Data: 1089,_aegi_folddata,e0;1;559
 Data: 1090,_aegi_folddata,e1;1;559
+Data: 1091,_aegi_folddata,e0;1;560
+Data: 1092,_aegi_folddata,e1;1;560
+Data: 1093,_aegi_folddata,e0;0;560
+Data: 1094,_aegi_folddata,e1;0;560
+Data: 1095,_aegi_folddata,e0;1;561
+Data: 1096,_aegi_folddata,e1;1;561
+Data: 1097,_aegi_folddata,e0;0;561
+Data: 1098,_aegi_folddata,e1;0;561
+Data: 1099,_aegi_folddata,e0;1;562
+Data: 1100,_aegi_folddata,e1;1;562
+Data: 1101,_aegi_folddata,e0;1;563
+Data: 1102,_aegi_folddata,e1;1;563
+Data: 1103,_aegi_folddata,e0;0;459
+Data: 1104,_aegi_folddata,e1;0;459
