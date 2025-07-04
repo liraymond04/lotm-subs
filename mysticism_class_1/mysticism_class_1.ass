@@ -12,10 +12,10 @@ Audio File: mysticism_class_1.mp4
 Video File: mysticism_class_1.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.096296
-Scroll Position: 111
-Active Line: 2429
-Video Position: 3457
+Video Zoom Percent: 0.750000
+Scroll Position: 95
+Active Line: 1928
+Video Position: 2720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1958,7 +1958,7 @@ Dialogue: 0,0:01:49.50,0:01:49.58,Board,,0,0,0,,{=2543}{\fscx137.97\fscy137.97\1
 Dialogue: 0,0:01:49.58,0:01:49.62,Board,,0,0,0,,{=2543}{\fscx137.97\fscy137.97\1a&H00&\be0\blur0.00049999999999955\fs80\c&H434343&\pos(2326.81,687.69)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
 Dialogue: 0,0:01:49.62,0:01:49.66,Board,,0,0,0,,{=2543}{\fscx137.97\fscy137.97\1a&H00&\be0\blur0.00049999999999955\fs80\c&H434343&\pos(2326.81,687.7)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
 Dialogue: 0,0:01:49.66,0:01:49.70,Board,,0,0,0,,{=2543=2551}{\fscx137.97\fscy137.97\1a&H00&\be0\blur0.00049999999999955\fs80\c&H434343&\pos(2326.81,687.69)}S{\c&H3E3E3E&}u{\c&H393939&}n{\c&H343434&}i{\c&H2F2F2F&}a{\c&H292929&} {\c&H242424&}S{\c&H1F1F1F&}e{\c&H1A1A1A&}a
-Dialogue: 0,0:01:48.38,0:01:49.70,Board,,0,0,0,,{=1282=2553}{\fscx100\fscy100\1a&H00&\blur0\be0\fs48\c&H696969&\pos(1402.23,880.2)}Desi Bay
+Comment: 0,0:01:48.38,0:01:49.70,Board,,0,0,0,,{=1282=2825}{\fscx100\fscy100\1a&H00&\blur0\be0\fs48\c&H696969&\pos(1402.23,880.2)}Desi Bay
 Comment: 0,0:01:44.86,0:01:45.22,Board,,0,0,0,,{=1282}{\fscx100\fscy100\blur0\be0\fs48\c&H696969&\pos(1402.23,880.2)}Desi Bay
 Dialogue: 0,0:01:44.86,0:01:44.90,Board,,0,0,0,,{=1282}{\alpha&HFF&\fscx100\fscy100\blur0\be0\fs48\c&H696969&\pos(1402.23,880.2)}Desi Bay
 Dialogue: 0,0:01:44.90,0:01:44.94,Board,,0,0,0,,{=1282}{\alpha&HDF&\fscx100\fscy100\blur0\be0\fs48\c&H696969&\pos(1402.23,880.2)}Desi Bay
@@ -2006,7 +2006,7 @@ Dialogue: 0,0:01:53.70,0:01:53.74,Board,,0,0,0,,{=1282}{\alpha&H6D&\fscx137.97\f
 Dialogue: 0,0:01:53.74,0:01:53.78,Board,,0,0,0,,{=1282}{\alpha&H92&\fscx137.97\fscy137.97\blur0\be0.5\fs48\c&H696969&\pos(1923.18,929.25)}Desi Bay
 Dialogue: 0,0:01:53.78,0:01:53.82,Board,,0,0,0,,{=1282}{\alpha&HB6&\fscx137.97\fscy137.97\blur0\be0.5\fs48\c&H696969&\pos(1923.18,929.25)}Desi Bay
 Dialogue: 0,0:01:53.82,0:01:53.86,Board,,0,0,0,,{=1282}{\alpha&HDB&\fscx137.97\fscy137.97\blur0\be0.5\fs48\c&H696969&\pos(1923.18,929.25)}Desi Bay
-Dialogue: 0,0:01:53.86,0:01:53.90,Board,,0,0,0,,{=1282=2554}{\alpha&HFF&\fscx137.97\fscy137.97\blur0\be0.5\fs48\c&H696969&\pos(1923.18,929.25)}Desi Bay
+Dialogue: 0,0:01:53.86,0:01:53.90,Board,,0,0,0,,{=1282=2826}{\alpha&HFF&\fscx137.97\fscy137.97\blur0\be0.5\fs48\c&H696969&\pos(1923.18,929.25)}Desi Bay
 Comment: 0,0:01:48.38,0:01:49.70,Board,,0,0,0,,{=1305=2578}{\fscx100\fscy100\1a&H00&\blur0\fs93\c&H555555&\pos(1641.3,977.19)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Comment: 0,0:01:44.86,0:01:45.22,Board,,0,0,0,,{=1305}{\fscx100\fscy100\blur0\fs93\c&H555555&\pos(1641.3,977.19)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Dialogue: 0,0:01:44.86,0:01:44.90,Board,,0,0,0,,{=1305}{\alpha&HFF&\fscx100\fscy100\blur0\fs93\c&H555555&\pos(1641.3,977.19)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
@@ -2858,6 +2858,8 @@ Dialogue: 0,0:02:15.62,0:02:15.66,Board,,0,0,0,,{=1305}{\1a&H00&\fscx136.72\fscy
 Dialogue: 0,0:02:15.66,0:02:15.70,Board,,0,0,0,,{=1305}{\1a&H00&\fscx137.8\fscy137.8\blur1.7438360014634\fs93\c&H555555&\pos(2254.24,948.18)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Dialogue: 0,0:02:15.70,0:02:15.74,Board,,0,0,0,,{=1305}{\1a&H00&\fscx137.79\fscy137.79\blur0.009433981132048\fs93\c&H555555&\pos(2254.16,948.13)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
 Dialogue: 0,0:02:15.74,0:02:15.78,Board,,0,0,0,,{=1305=2777}{\1a&H00&\fscx137.96\fscy137.96\blur0.28021598812347\fs93\c&H555555&\pos(2256.96,948.02)}B{\c&H515151&}e{\c&H4C4C4C&}r{\c&H484848&}s{\c&H444444&}e{\c&H404040&}r{\c&H3B3B3B&}k{\c&H373737&} {\c&H333333&}S{\c&H2E2E2E&}e{\c&H2A2A2A&}a
+Comment: 0,0:02:16.78,0:02:24.06,Board,,0,0,0,,{\alpha&H00&\\fs60\c&H54A0D1&\pos(642.93,109.2)}Feynapotter Kingdom
+Dialogue: 0,0:02:17.98,0:02:18.02,Board,,0,0,0,,{\alpha&H00&\\fs60\c&H54A0D1&\pos(642.93,109.2)}Feynapotter Kingdom
 Comment: 0,0:01:48.38,0:01:49.70,Board,,0,0,0,,{\fs70\pos(357.33,486.85)\c&H4FA0CB&}Intis Republic
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{\pos(-24,0)}/home/liray/mpv-shot0021.bmp
 Comment: 0,0:00:05.54,0:00:17.58,Consolas,,0,0,0,,{=32}/home/liray/mpv-shot0021.bmp
@@ -3651,3 +3653,7 @@ Data: 2819,_aegi_folddata,e0;0;1436
 Data: 2820,_aegi_folddata,e1;0;1436
 Data: 2821,_aegi_folddata,e0;1;1436
 Data: 2822,_aegi_folddata,e1;1;1436
+Data: 2823,_aegi_folddata,e0;0;1361
+Data: 2824,_aegi_folddata,e1;0;1361
+Data: 2825,_aegi_folddata,e0;0;1332
+Data: 2826,_aegi_folddata,e1;0;1332
