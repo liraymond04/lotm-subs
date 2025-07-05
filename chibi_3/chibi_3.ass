@@ -12,17 +12,17 @@ Audio File: chibi_3.mp4
 Video File: chibi_3.mp4
 Video AR Mode: 4
 Video AR Value: 2.344322
-Video Zoom Percent: 1.000000
-Scroll Position: 106
-Active Line: 653
-Video Position: 1554
+Video Zoom Percent: 1.375000
+Scroll Position: 21
+Active Line: 339
+Video Position: 1778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,27,&H004D384E,&H0000FFFF,&H00000000,&H64000000,0,0,0,0,90,100,0,0,1,0,0,2,7,7,5,1
-Style: Consolas,Consolas,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,8,8,56,1
-Style: Consolas-shadow1,Consolas,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,54,1
-Style: Consolas-shadow2,Consolas,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,12,8,54,1
+Style: Consolas,Consolas,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,8,8,58,1
+Style: Consolas-shadow1,Consolas,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,11,8,56,1
+Style: Consolas-shadow2,Consolas,28,&H00FFFFFF,&H0000FFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,0,0,2,11,8,56,1
 Style: Theatre,The Immortal Condensed,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
@@ -344,7 +344,7 @@ Dialogue: 0,0:01:10.38,0:01:12.30,Consolas,,0,0,0,,{\alpha&H00&\be1\p1\c&HE3D2D4
 Dialogue: 0,0:01:10.38,0:01:12.30,Consolas,,0,0,0,,{\alpha&H00&\be1\p1\c&HE3D2D4&\fax0.005246\fscx436.10\fscy302.19\frz-0.9867\frx20.4728\fry12.6455\org(1040.62,126.4)\pos(1040.48,145.28)\clip(1079,103,1081,152)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HE3D2D4&}
 Dialogue: 0,0:01:10.38,0:01:12.30,Consolas,,0,0,0,,{\alpha&H00&\be1\p1\c&HE2D1D3&\fax0.005246\fscx436.10\fscy302.19\frz-0.9867\frx20.4728\fry12.6455\org(1040.62,126.4)\pos(1040.48,145.28)\clip(1081,103,1083,152)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HE2D1D3&}
 Dialogue: 0,0:01:10.38,0:01:12.30,Consolas,,0,0,0,,{=14}{\alpha&H00&\be1\p1\c&HE2D1D3&\fax0.005246\fscx436.10\fscy302.19\frz-0.9867\frx20.4728\fry12.6455\org(1040.62,126.4)\pos(1040.48,145.28)\clip(1083,103,1085,152)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HE2D1D3&}
-Comment: 10,0:01:10.38,0:01:11.22,Default,,0,0,0,,{=17}{\fs36\pos(1036.51,145)}Soli
+Comment: 10,0:01:10.38,0:01:11.22,Default,,0,0,0,,{=101}{\fs36\pos(1036.51,145)}Soli
 Dialogue: 10,0:01:10.38,0:01:10.42,Default,,0,0,0,,{\alpha&HFF&\fs36\pos(1036.51,145)}Soli
 Dialogue: 10,0:01:10.42,0:01:10.46,Default,,0,0,0,,{\alpha&HF2&\fs36\pos(1036.51,145)}Soli
 Dialogue: 10,0:01:10.46,0:01:10.50,Default,,0,0,0,,{\alpha&HE6&\fs36\pos(1036.51,145)}Soli
@@ -366,7 +366,7 @@ Dialogue: 10,0:01:11.06,0:01:11.10,Default,,0,0,0,,{\alpha&H26&\fs36\pos(1036.51
 Dialogue: 10,0:01:11.10,0:01:11.14,Default,,0,0,0,,{\alpha&H19&\fs36\pos(1036.51,145)}Soli
 Dialogue: 10,0:01:11.14,0:01:11.18,Default,,0,0,0,,{\alpha&H0D&\fs36\pos(1036.51,145)}Soli
 Dialogue: 10,0:01:11.18,0:01:11.22,Default,,0,0,0,,{\alpha&H00&\fs36\pos(1036.51,145)}Soli
-Dialogue: 10,0:01:11.22,0:01:12.30,Default,,0,0,0,,{=18}{\fs36\pos(1036.51,145)}Soli
+Dialogue: 10,0:01:11.22,0:01:12.30,Default,,0,0,0,,{=102}{\fs36\pos(1036.51,145)}Soli
 Comment: 10,0:01:31.54,0:01:32.18,Theatre,,0,0,0,,{=19}{\blur0.6\c&H101630&\fax0.092610\fscx68.09\fscy59.49\frz36.6251\frx6.1957\fry1.6837\org(886.69,414.56)\pos(883.85,441.33)}Contract Terminated
 Dialogue: 10,0:01:31.54,0:01:31.58,Theatre,,0,0,0,,{\alpha&HFF&\blur0.6\c&H101630&\fax0.092610\fscx68.09\fscy59.49\frz36.6251\frx6.1957\fry1.6837\org(886.69,414.56)\pos(883.85,441.33)}Contract Terminated
 Dialogue: 10,0:01:31.58,0:01:31.62,Theatre,,0,0,0,,{\alpha&HEE&\blur0.6\c&H101630&\fax0.092610\fscx68.09\fscy59.49\frz36.6251\frx6.1957\fry1.6837\org(886.69,414.56)\pos(883.85,441.33)}Contract Terminated
@@ -386,7 +386,7 @@ Dialogue: 10,0:01:32.10,0:01:32.14,Theatre,,0,0,0,,{\alpha&H11&\blur0.6\c&H10163
 Dialogue: 10,0:01:32.14,0:01:32.18,Theatre,,0,0,0,,{\alpha&H00&\blur0.6\c&H101630&\fax0.092610\fscx68.09\fscy59.49\frz36.6251\frx6.1957\fry1.6837\org(886.69,414.56)\pos(883.85,441.33)}Contract Terminated
 Dialogue: 10,0:01:32.18,0:01:32.26,Theatre,,0,0,0,,{=20}{\blur0.6\c&H101630&\fax0.092610\fscx68.09\fscy59.49\frz36.6251\frx6.1957\fry1.6837\org(886.69,414.56)\pos(883.85,441.33)}Contract Terminated
 Comment: 10,0:00:00.10,0:01:38.74,Consolas,,0,0,0,,Motion Track
-Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=25}{\alpha&H00&\be1\p1\c&HDCCACC&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(919,322,921,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HEFE3E6&}
+Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=22}{\alpha&H00&\be1\p1\c&HDCCACC&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(919,322,921,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HEFE3E6&}
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HDCC9CB&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(921,322,923,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HEEE2E5&}
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HDBC9CB&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(923,322,925,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HEDE1E4&}
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HDBC8CA&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(925,322,927,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HEDE0E3&}
@@ -433,7 +433,7 @@ Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HC
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HCCB3B4&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(1007,322,1009,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCDB4B5&}
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HCCB2B3&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(1009,322,1011,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCDB3B4&}
 Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=21}{\alpha&H00&\be1\p1\c&HCBB2B3&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(1011,322,1013,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCCB2B3&}
-Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=26}{\alpha&H00&\be1\p1\c&HCBB1B2&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(1013,322,1015,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCBB1B2&}
+Dialogue: 0,0:01:42.50,0:01:44.34,Consolas,,0,0,0,,{=23}{\alpha&H00&\be1\p1\c&HCBB1B2&\fax-0.012167\fscx727.07\fscy419.23\frz-0.2811\frx3.3805\fry-15.8506\org(963.54,344.83)\pos(964.1,371.04)\clip(1013,322,1015,375)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCBB1B2&}
 Comment: 8,0:01:42.50,0:01:43.50,Default,,0,0,0,,{=27}{\fs50\c&H725E69&\pos(959.88,369.84)}Soli
 Comment: 8,0:01:42.50,0:01:43.50,Default,,0,0,0,,{=27}{\fs50\c&H725E69&\pos(959.88,369.84)}Soli
 Comment: 8,0:01:42.50,0:01:43.42,Default,,0,0,0,,{=24}{\alpha&H12&\fs50\c&H725E69&\pos(959.88,369.84)}Soli
@@ -513,7 +513,7 @@ Dialogue: 0,0:01:01.86,0:01:03.50,Consolas,,0,0,0,,{=50}{\alpha&H00&\be1\p1\c&HB
 Dialogue: 0,0:01:01.86,0:01:03.50,Consolas,,0,0,0,,{=51}{\alpha&H00&\be1\p1\c&HB99D9A&\fax-0.012163\fscx727.08\fscy419.23\frz-0.2815\frx3.3802\fry-15.8501\org(1092.19,455.64)\pos(1092.74,481.85)\clip(1049,473,1122,475)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HBA9E9A&}
 Dialogue: 0,0:01:01.86,0:01:03.50,Consolas,,0,0,0,,{=52}{\alpha&H00&\be1\p1\c&HB99D99&\fax-0.012163\fscx727.08\fscy419.23\frz-0.2815\frx3.3802\fry-15.8501\org(1092.19,455.64)\pos(1092.74,481.85)\clip(1049,475,1122,477)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HB99D99&}
 Dialogue: 0,0:01:01.86,0:01:03.50,Consolas,,0,0,0,,{=55}{\alpha&H00&\be1\p1\c&HB89C98&\fax-0.012163\fscx727.08\fscy419.23\frz-0.2815\frx3.3802\fry-15.8501\org(1092.19,455.64)\pos(1092.74,481.85)\clip(1049,477,1122,479)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HB89C98&}
-Comment: 8,0:01:01.82,0:01:02.74,Default,,0,0,0,,{=64}{\fs40\c&HF5E6EA&\pos(1078.36,469.19)}Soli
+Comment: 8,0:01:01.82,0:01:02.74,Default,,0,0,0,,{=58}{\fs40\c&HF5E6EA&\pos(1078.36,469.19)}Soli
 Dialogue: 8,0:01:01.82,0:01:01.86,Default,,0,0,0,,{=30}{\alpha&HFF&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
 Dialogue: 8,0:01:01.86,0:01:01.90,Default,,0,0,0,,{=30}{\alpha&HF3&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
 Dialogue: 8,0:01:01.90,0:01:01.94,Default,,0,0,0,,{=30}{\alpha&HE8&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
@@ -537,7 +537,7 @@ Dialogue: 8,0:01:02.58,0:01:02.62,Default,,0,0,0,,{=30}{\alpha&H23&\fs40\c&H6A4B
 Dialogue: 8,0:01:02.62,0:01:02.66,Default,,0,0,0,,{=30}{\alpha&H17&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
 Dialogue: 8,0:01:02.66,0:01:02.70,Default,,0,0,0,,{=30}{\alpha&H0C&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
 Dialogue: 8,0:01:02.70,0:01:02.74,Default,,0,0,0,,{=30}{\alpha&H00&\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
-Dialogue: 8,0:01:02.74,0:01:03.50,Default,,0,0,0,,{=65}{\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
+Dialogue: 8,0:01:02.74,0:01:03.50,Default,,0,0,0,,{=59}{\fs40\c&H6A4B63&\pos(1078.36,469.19)}Soli
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=61}{\alpha&H00&\be1\p1\c&HF5E6EA&\clip(1033,6,1035,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCBB1B2&}
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=60}{\alpha&H00&\be1\p1\c&HF5E5E9&\clip(1035,6,1037,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCBB1B2&}
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=60}{\alpha&H00&\be1\p1\c&HF4E5E9&\clip(1037,6,1039,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HCBB1B2&}
@@ -652,7 +652,7 @@ Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=60}{\alpha&H00&\be1\p1\c&HC
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=60}{\alpha&H00&\be1\p1\c&HC7ACAA&\clip(1255,6,1257,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HC6ABA9&}
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=60}{\alpha&H00&\be1\p1\c&HC6ACAA&\clip(1257,6,1259,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HC6ABA9&}
 Dialogue: 0,0:01:01.30,0:01:03.50,Consolas,,0,0,0,,{=62}{\alpha&H00&\be1\p1\c&HC6ABA9&\clip(1259,6,1261,60)\fax0.007852\fscx1625.78\fscy389.77\frz-1.0698\frx11.6792\fry4.6093\org(1152.39,30.74)\pos(1151.59,55.1)}m 0 0 l 14.75 0 14.75 12.5 0 12.5{\\p0\c&HC6ABA9&}
-Comment: 8,0:01:01.26,0:01:02.74,Default,,0,0,0,,{=99}{\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
+Comment: 8,0:01:01.26,0:01:02.74,Default,,0,0,0,,{=97}{\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Dialogue: 8,0:01:01.26,0:01:01.30,Default,,0,0,0,,{=70}{\alpha&HFF&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Dialogue: 8,0:01:01.30,0:01:01.34,Default,,0,0,0,,{=71}{\alpha&HF5&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Dialogue: 8,0:01:01.34,0:01:01.38,Default,,0,0,0,,{=72}{\alpha&HEB&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
@@ -680,7 +680,7 @@ Dialogue: 8,0:01:02.18,0:01:02.22,Default,,0,0,0,,{=93}{\alpha&H1D&\fs35\c&H6A4B
 Dialogue: 8,0:01:02.22,0:01:02.26,Default,,0,0,0,,{=94}{\alpha&H14&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Dialogue: 8,0:01:02.26,0:01:03.50,Default,,0,0,0,,{=95}{\alpha&H0A&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Comment: 8,0:01:02.30,0:01:02.34,Default,,0,0,0,,{=96}{\alpha&H00&\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
-Comment: 8,0:01:02.74,0:01:03.50,Default,,0,0,0,,{=100}{\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
+Comment: 8,0:01:02.74,0:01:03.50,Default,,0,0,0,,{=98}{\fs35\c&H6A4B63&\org(1134.16,36.28)\pos(1134.16,53.78)}1 gold pound = 20 soli
 Comment: 10,0:00:00.10,0:01:38.74,Consolas,,0,0,0,,Motion Track
 
 [Aegisub Extradata]
@@ -777,3 +777,5 @@ Data: 97,_aegi_folddata,e0;1;69
 Data: 98,_aegi_folddata,e1;1;69
 Data: 99,_aegi_folddata,e0;0;69
 Data: 100,_aegi_folddata,e1;0;69
+Data: 101,_aegi_folddata,e0;0;4
+Data: 102,_aegi_folddata,e1;0;4
