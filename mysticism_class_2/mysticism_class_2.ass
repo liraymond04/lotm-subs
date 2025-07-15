@@ -157,16 +157,36 @@ Comment: 0,0:02:47.54,0:02:49.98,Consolas,,0,0,0,,或者神秘学知识掌握的
 Dialogue: 0,0:02:47.54,0:02:49.98,Consolas,,0,0,0,,or you grasp more mysticism knowledge,
 Comment: 0,0:02:49.98,0:02:52.94,Consolas,,0,0,0,,还能以此判断对方的寿命长短
 Dialogue: 0,0:02:49.98,0:02:52.94,Consolas,,0,0,0,,you can even determine the lifespan of others.
-Dialogue: 0,0:02:53.26,0:02:54.66,Consolas,,0,0,0,,内层的星灵体
-Dialogue: 0,0:02:54.66,0:02:57.58,Consolas,,0,0,0,,对应颜色表示当前的情绪
-Dialogue: 0,0:02:57.66,0:03:07.06,Consolas,,0,0,0,,红色热情亢奋
-Dialogue: 0,0:03:07.06,0:03:09.98,Consolas,,0,0,0,,蓝色冷静处在思考之中
-Dialogue: 0,0:03:09.98,0:03:12.90,Consolas,,0,0,0,,白色光明积极向上
-Dialogue: 0,0:03:12.90,0:03:16.14,Consolas,,0,0,0,,暗色忧郁悲伤沉默
-Dialogue: 0,0:03:16.22,0:03:19.86,Consolas,,0,0,0,,紫色则表示灵性占据主导
-Dialogue: 0,0:03:19.90,0:03:21.50,Consolas,,0,0,0,,冷淡疏离
-Dialogue: 0,0:03:22.46,0:03:24.78,Consolas,,0,0,0,,聪明的年轻人们
-Dialogue: 0,0:03:24.82,0:03:27.62,Consolas,,0,0,0,,今天的神秘学课堂就到这里啦
-Dialogue: 0,0:03:27.62,0:03:30.38,Consolas,,0,0,0,,最后我要留给你们一个作业
-Dialogue: 0,0:03:30.38,0:03:32.02,Consolas,,0,0,0,,开启你们的灵视
-Dialogue: 0,0:03:32.14,0:03:37.54,Consolas,,0,0,0,,看看我当前的情绪是怎样的
+Comment: 0,0:02:53.26,0:02:54.66,Consolas,,0,0,0,,内层的星灵体
+Dialogue: 0,0:02:53.26,0:02:54.66,Consolas,,0,0,0,,The inner layer of the Astral Projection's
+Comment: 0,0:02:54.66,0:02:57.58,Consolas,,0,0,0,,对应颜色表示当前的情绪
+Dialogue: 0,0:02:54.66,0:02:57.58,Consolas,,0,0,0,,corresponding colors represent prevailing emotions.
+Comment: 0,0:02:57.66,0:03:07.06,Consolas,,0,0,0,,红色热情亢奋
+Dialogue: 0,0:02:57.66,0:02:59.80,Consolas,,0,0,0,,Red means passion and excitement.
+Comment: 0,0:02:59.80,0:03:07.06,Consolas,,0,0,0,,橘色温暖满足
+Dialogue: 0,0:02:59.80,0:03:02.40,Consolas,,0,0,0,,Orange means warmth and satisfaction.
+Comment: 0,0:02:59.80,0:03:02.40,Consolas,,0,0,0,,黄色快乐外向
+Dialogue: 0,0:03:02.40,0:03:04.33,Consolas,,0,0,0,,Yellow means happiness and extroversion.
+Comment: 0,0:03:04.32,0:03:06.97,Consolas,,0,0,0,,绿色平静祥和
+Dialogue: 0,0:03:04.33,0:03:06.97,Consolas,,0,0,0,,Green means calm and peace.
+; Dialogue: 0,0:02:57.66,0:03:07.06,Consolas,,0,0,0,,Red means passion and excitement.
+Comment: 0,0:03:07.06,0:03:09.98,Consolas,,0,0,0,,蓝色冷静处在思考之中
+Dialogue: 0,0:03:07.06,0:03:09.98,Consolas,,0,0,0,,Blue means coldness and stillness that one is in thought.
+Comment: 0,0:03:09.98,0:03:12.90,Consolas,,0,0,0,,白色光明积极向上
+Dialogue: 0,0:03:09.98,0:03:12.90,Consolas,,0,0,0,,White means brightness, an eagerness to improve.
+Comment: 0,0:03:12.90,0:03:16.14,Consolas,,0,0,0,,暗色忧郁悲伤沉默
+Dialogue: 0,0:03:12.90,0:03:16.14,Consolas,,0,0,0,,Dark colors mean worry, sorrow, and silence.
+Comment: 0,0:03:16.22,0:03:19.86,Consolas,,0,0,0,,紫色则表示灵性占据主导
+Dialogue: 0,0:03:16.22,0:03:19.86,Consolas,,0,0,0,,Purple means that spirituality is taking control of the lead,
+Comment: 0,0:03:19.90,0:03:21.50,Consolas,,0,0,0,,冷淡疏离
+Dialogue: 0,0:03:19.90,0:03:21.81,Consolas,,0,0,0,,coldness and estrangement...
+Comment: 0,0:03:22.46,0:03:24.78,Consolas,,0,0,0,,聪明的年轻人们
+Dialogue: 0,0:03:22.46,0:03:24.78,Consolas,,0,0,0,,Smart youngsters,
+Comment: 0,0:03:24.82,0:03:27.62,Consolas,,0,0,0,,今天的神秘学课堂就到这里啦
+Dialogue: 0,0:03:24.82,0:03:27.62,Consolas,,0,0,0,,today's mysticism class will stop right here!
+Comment: 0,0:03:27.62,0:03:30.38,Consolas,,0,0,0,,最后我要留给你们一个作业
+Dialogue: 0,0:03:27.62,0:03:30.38,Consolas,,0,0,0,,Lastly, I want to leave you with an assignment
+Comment: 0,0:03:30.38,0:03:32.02,Consolas,,0,0,0,,开启你们的灵视
+Dialogue: 0,0:03:30.38,0:03:32.02,Consolas,,0,0,0,,to activate your Spirit Vision.
+Comment: 0,0:03:32.14,0:03:37.54,Consolas,,0,0,0,,看看我当前的情绪是怎样的
+Dialogue: 0,0:03:32.14,0:03:37.54,Consolas,,0,0,0,,Take a look at what my current emotions are like!
