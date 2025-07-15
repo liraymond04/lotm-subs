@@ -80,7 +80,7 @@ Dialogue: 0,0:01:06.46,0:01:08.46,Consolas,,0,0,0,,if you were to become a Beyon
 Comment: 0,0:01:08.46,0:01:10.86,Consolas,,0,0,0,,会选择哪条途径呢
 Dialogue: 0,0:01:08.46,0:01:10.86,Consolas,,0,0,0,,which Pathway would you chose?
 Comment: 0,0:01:11.02,0:01:11.74,Consolas,,0,0,0,,哈哈哈
-Dialogue: 0,0:01:11.02,0:01:11.74,Consolas,,0,0,0,,Hahaha,
+Dialogue: 0,0:01:11.02,0:01:11.74,Consolas,,0,0,0,,Hahaha
 Comment: 0,0:01:11.74,0:01:14.74,Consolas,,0,0,0,,接下来要介绍的是值夜者组织
 Dialogue: 0,0:01:11.74,0:01:14.74,Consolas,,0,0,0,,Next, let me introduce the Nighthawks,
 Comment: 0,0:01:14.82,0:01:16.74,Consolas,,0,0,0,,也是我所在的组织
@@ -92,41 +92,71 @@ Dialogue: 0,0:01:18.06,0:01:20.30,Consolas,,0,0,0,,are affiliated with the Churc
 Comment: 0,0:01:20.30,0:01:22.18,Consolas,,0,0,0,,官方非凡者组织
 Dialogue: 0,0:01:20.30,0:01:22.18,Consolas,,0,0,0,,As an official Beyonder organziation,
 Comment: 0,0:01:22.34,0:01:25.78,Consolas,,0,0,0,,负责处理鲁恩王国境内的超凡事件
-Dialogue: 0,0:01:22.34,0:01:25.78,Consolas,,0,0,0,,they are responsible for handling supernatural incidents within the Loen Kingdom.
-Dialogue: 0,0:01:25.86,0:01:28.46,Consolas,,0,0,0,,对抗邪教与隐秘组织
-Dialogue: 0,0:01:28.54,0:01:31.98,Consolas,,0,0,0,,以及自身对抗魔药带来的失控风险
-Dialogue: 0,0:01:32.14,0:01:35.06,Consolas,,0,0,0,,我所在的廷根值夜者小队
-Dialogue: 0,0:01:35.06,0:01:37.78,Consolas,,0,0,0,,主要负责的是廷根市北区
-Dialogue: 0,0:01:37.78,0:01:40.54,Consolas,,0,0,0,,西区和金梧桐区等区域
-Dialogue: 0,0:01:40.54,0:01:43.62,Consolas,,0,0,0,,与女神信徒相关的超自然事件
-Dialogue: 0,0:01:43.94,0:01:47.02,Consolas,,0,0,0,,目前正式队员有队长邓恩
-Dialogue: 0,0:01:47.34,0:01:50.18,Consolas,,0,0,0,,伦纳德、弗莱、洛耀
-Dialogue: 0,0:01:50.18,0:01:52.22,Consolas,,0,0,0,,科恩黎和西迦
-Dialogue: 0,0:01:52.58,0:01:55.90,Consolas,,0,0,0,,文职人员有我、罗珊、布莱特
-Dialogue: 0,0:01:56.02,0:01:58.14,Consolas,,0,0,0,,以及刚刚加入值夜者小队
-Dialogue: 0,0:01:58.14,0:02:01.18,Consolas,,0,0,0,,暂时挂靠文职人员的克莱恩
-Dialogue: 0,0:02:01.50,0:02:02.58,Consolas,,0,0,0,,哈哈哈对了
-Dialogue: 0,0:02:02.66,0:02:03.74,Consolas,,0,0,0,,对外介绍
-Dialogue: 0,0:02:03.74,0:02:06.94,Consolas,,0,0,0,,记得说我们是黑荆棘安保公司啊
-Dialogue: 0,0:02:06.98,0:02:09.42,Consolas,,0,0,0,,偶尔我们也会接一些找猫
-Dialogue: 0,0:02:09.42,0:02:10.30,Consolas,,0,0,0,,找狗的委托小任务
-Dialogue: 0,0:02:10.30,0:02:11.22,Consolas,,0,0,0,,找狗的委托小任务
-Dialogue: 0,0:02:11.22,0:02:15.02,Consolas,,0,0,0,,赚到钱可是有不少额外补贴的哦
-Dialogue: 0,0:02:15.02,0:02:18.74,Consolas,,0,0,0,,下面我开始教你神秘领域最常见
-Dialogue: 0,0:02:18.82,0:02:20.30,Consolas,,0,0,0,,掌握最简单
-Dialogue: 0,0:02:20.30,0:02:22.70,Consolas,,0,0,0,,后续也最有前途的能力
-Dialogue: 0,0:02:22.70,0:02:23.90,Consolas,,0,0,0,,灵视
-Dialogue: 0,0:02:23.90,0:02:24.34,Consolas,,0,0,0,,
-Dialogue: 0,0:02:24.34,0:02:28.66,Consolas,,0,0,0,,灵视是非凡者通过灵性感知灵界
-Dialogue: 0,0:02:28.74,0:02:31.74,Consolas,,0,0,0,,观察目标气场与灵体的能力
-Dialogue: 0,0:02:31.98,0:02:32.94,Consolas,,0,0,0,,用灵视
-Dialogue: 0,0:02:32.94,0:02:36.86,Consolas,,0,0,0,,除了能直接看到一些灵体，鬼魂和怨灵
-Dialogue: 0,0:02:36.94,0:02:39.14,Consolas,,0,0,0,,还能看到别人的以太体
-Dialogue: 0,0:02:39.22,0:02:42.58,Consolas,,0,0,0,,通过它不同的厚度、亮度、颜色
-Dialogue: 0,0:02:42.58,0:02:45.74,Consolas,,0,0,0,,来判断对方的健康和情绪状态
-Dialogue: 0,0:02:46.02,0:02:47.54,Consolas,,0,0,0,,如果灵视提升
-Dialogue: 0,0:02:47.54,0:02:49.98,Consolas,,0,0,0,,或者神秘学知识掌握的更多
-Dialogue: 0,0:02:49.98,0:02:52.94,Consolas,,0,0,0,,还能以此判断对方的寿命长短
+Dialogue: 0,0:01:22.34,0:01:25.78,Consolas,,0,0,0,,they are responsible for handling supernatural incidents within the Loen Kingdom;
+Comment: 0,0:01:25.86,0:01:28.46,Consolas,,0,0,0,,对抗邪教与隐秘组织
+Dialogue: 0,0:01:25.86,0:01:28.46,Consolas,,0,0,0,,confronting evil cults and secret organizations,
+Comment: 0,0:01:28.54,0:01:31.98,Consolas,,0,0,0,,以及自身对抗魔药带来的失控风险
+Dialogue: 0,0:01:28.54,0:01:31.98,Consolas,,0,0,0,,and managing one's own risk of losing control brought by potions.
+Comment: 0,0:01:32.14,0:01:35.06,Consolas,,0,0,0,,我所在的廷根值夜者小队
+Dialogue: 0,0:01:32.14,0:01:35.06,Consolas,,0,0,0,,The Tingen Nighthawks squad I belong to
+Comment: 0,0:01:35.06,0:01:37.78,Consolas,,0,0,0,,主要负责的是廷根市北区
+Dialogue: 0,0:01:35.06,0:01:37.78,Consolas,,0,0,0,,is mainly responsible for Tingen's North Borough,
+Comment: 0,0:01:37.78,0:01:40.54,Consolas,,0,0,0,,西区和金梧桐区等区域
+Dialogue: 0,0:01:37.78,0:01:40.54,Consolas,,0,0,0,,West Borough, and the Golden Indus Borough, among other areas,
+Comment: 0,0:01:40.54,0:01:43.62,Consolas,,0,0,0,,与女神信徒相关的超自然事件
+Dialogue: 0,0:01:40.54,0:01:43.62,Consolas,,0,0,0,,and supernatural incidents related to the followers of the Goddess.
+Comment: 0,0:01:43.94,0:01:47.02,Consolas,,0,0,0,,目前正式队员有队长邓恩
+Dialogue: 0,0:01:43.94,0:01:47.02,Consolas,,0,0,0,,The current official members include Captain Dunn,
+Comment: 0,0:01:47.34,0:01:50.18,Consolas,,0,0,0,,伦纳德、弗莱、洛耀
+Dialogue: 0,0:01:47.34,0:01:50.18,Consolas,,0,0,0,,Leonard, Frye, Royale,
+Comment: 0,0:01:50.18,0:01:52.22,Consolas,,0,0,0,,科恩黎和西迦
+Dialogue: 0,0:01:50.18,0:01:52.22,Consolas,,0,0,0,,Kenley, and Seeka.
+Comment: 0,0:01:52.58,0:01:55.90,Consolas,,0,0,0,,文职人员有我、罗珊、布莱特
+Dialogue: 0,0:01:52.58,0:01:55.90,Consolas,,0,0,0,,The civilian staff has me, Rozanne, and Bredt.
+Comment: 0,0:01:56.02,0:01:58.14,Consolas,,0,0,0,,以及刚刚加入值夜者小队
+Dialogue: 0,0:01:56.02,0:01:58.14,Consolas,,0,0,0,,as well as the just recently added member of the Nighthawks squad
+Comment: 0,0:01:58.14,0:02:01.18,Consolas,,0,0,0,,暂时挂靠文职人员的克莱恩
+Dialogue: 0,0:01:58.14,0:02:01.18,Consolas,,0,0,0,,who is temporarily operating under civilian staff, Klein.
+Comment: 0,0:02:01.50,0:02:02.58,Consolas,,0,0,0,,哈哈哈对了
+Dialogue: 0,0:02:01.50,0:02:02.58,Consolas,,0,0,0,,Hahaha, right,
+Comment: 0,0:02:02.66,0:02:03.74,Consolas,,0,0,0,,对外介绍
+Dialogue: 0,0:02:02.66,0:02:03.74,Consolas,,0,0,0,,when introducing ourselves to outsiders,
+Comment: 0,0:02:03.74,0:02:06.94,Consolas,,0,0,0,,记得说我们是黑荆棘安保公司啊
+Dialogue: 0,0:02:03.74,0:02:06.94,Consolas,,0,0,0,,remember to say we're from the Blackthorn Security Company!
+Comment: 0,0:02:06.98,0:02:09.42,Consolas,,0,0,0,,偶尔我们也会接一些找猫
+Dialogue: 0,0:02:06.98,0:02:09.42,Consolas,,0,0,0,,Occasionally, we will also take on a few small tasks like
+Comment: 0,0:02:09.42,0:02:11.22,Consolas,,0,0,0,,找狗的委托小任务
+Dialogue: 0,0:02:09.42,0:02:11.22,Consolas,,0,0,0,,finding lost cats or dogs,
+Comment: 0,0:02:11.22,0:02:15.02,Consolas,,0,0,0,,赚到钱可是有不少额外补贴的哦
+Dialogue: 0,0:02:11.22,0:02:15.02,Consolas,,0,0,0,,and the money we earn provides quite a bit of extra bonuses!
+Comment: 0,0:02:15.02,0:02:18.74,Consolas,,0,0,0,,下面我开始教你神秘领域最常见
+Dialogue: 0,0:02:15.02,0:02:18.74,Consolas,,0,0,0,,Next up, I'll begin teaching you the most common,
+Comment: 0,0:02:18.82,0:02:20.30,Consolas,,0,0,0,,掌握最简单
+Dialogue: 0,0:02:18.82,0:02:20.30,Consolas,,0,0,0,,easiest to grasp,
+Comment: 0,0:02:20.30,0:02:22.70,Consolas,,0,0,0,,后续也最有前途的能力
+Dialogue: 0,0:02:20.30,0:02:22.70,Consolas,,0,0,0,,and most useful ability in the future of mysticism.
+Comment: 0,0:02:22.70,0:02:23.90,Consolas,,0,0,0,,灵视
+Dialogue: 0,0:02:22.70,0:02:23.90,Consolas,,0,0,0,,Spirit Vision!
+Comment: 0,0:02:24.34,0:02:28.66,Consolas,,0,0,0,,灵视是非凡者通过灵性感知灵界
+Dialogue: 0,0:02:24.34,0:02:28.66,Consolas,,0,0,0,,Spirit Vision is the ability of Beyonders to use spiritual sensitivity to perceive the spirit world.
+Comment: 0,0:02:28.74,0:02:31.74,Consolas,,0,0,0,,观察目标气场与灵体的能力
+Dialogue: 0,0:02:28.74,0:02:31.74,Consolas,,0,0,0,,The ability to observe a target's aura and Soul Body.
+Comment: 0,0:02:31.98,0:02:32.94,Consolas,,0,0,0,,用灵视
+Dialogue: 0,0:02:31.98,0:02:32.94,Consolas,,0,0,0,,Using Spirit Vision,
+Comment: 0,0:02:32.94,0:02:36.86,Consolas,,0,0,0,,除了能直接看到一些灵体，鬼魂和怨灵
+Dialogue: 0,0:02:32.94,0:02:36.86,Consolas,,0,0,0,,you can not only directly see certain spiritual bodies, ghosts, and specters,
+Comment: 0,0:02:36.94,0:02:39.14,Consolas,,0,0,0,,还能看到别人的以太体
+Dialogue: 0,0:02:36.94,0:02:39.14,Consolas,,0,0,0,,but you can also see others' Ether Bodies.
+Comment: 0,0:02:39.22,0:02:42.58,Consolas,,0,0,0,,通过它不同的厚度、亮度、颜色
+Dialogue: 0,0:02:39.22,0:02:42.58,Consolas,,0,0,0,,From their thickness, brightness, and color
+Comment: 0,0:02:42.58,0:02:45.74,Consolas,,0,0,0,,来判断对方的健康和情绪状态
+Dialogue: 0,0:02:42.58,0:02:45.74,Consolas,,0,0,0,,you can determine their health and emotional state.
+Comment: 0,0:02:46.02,0:02:47.54,Consolas,,0,0,0,,如果灵视提升
+Dialogue: 0,0:02:46.02,0:02:47.54,Consolas,,0,0,0,,If your Spirit Vision improves
+Comment: 0,0:02:47.54,0:02:49.98,Consolas,,0,0,0,,或者神秘学知识掌握的更多
+Dialogue: 0,0:02:47.54,0:02:49.98,Consolas,,0,0,0,,or you grasp more mysticism knowledge,
+Comment: 0,0:02:49.98,0:02:52.94,Consolas,,0,0,0,,还能以此判断对方的寿命长短
+Dialogue: 0,0:02:49.98,0:02:52.94,Consolas,,0,0,0,,you can even determine the lifespan of others.
 Dialogue: 0,0:02:53.26,0:02:54.66,Consolas,,0,0,0,,内层的星灵体
 Dialogue: 0,0:02:54.66,0:02:57.58,Consolas,,0,0,0,,对应颜色表示当前的情绪
 Dialogue: 0,0:02:57.66,0:03:07.06,Consolas,,0,0,0,,红色热情亢奋
@@ -135,10 +165,8 @@ Dialogue: 0,0:03:09.98,0:03:12.90,Consolas,,0,0,0,,白色光明积极向上
 Dialogue: 0,0:03:12.90,0:03:16.14,Consolas,,0,0,0,,暗色忧郁悲伤沉默
 Dialogue: 0,0:03:16.22,0:03:19.86,Consolas,,0,0,0,,紫色则表示灵性占据主导
 Dialogue: 0,0:03:19.90,0:03:21.50,Consolas,,0,0,0,,冷淡疏离
-Dialogue: 0,0:03:21.82,0:03:22.46,Consolas,,0,0,0,,
 Dialogue: 0,0:03:22.46,0:03:24.78,Consolas,,0,0,0,,聪明的年轻人们
 Dialogue: 0,0:03:24.82,0:03:27.62,Consolas,,0,0,0,,今天的神秘学课堂就到这里啦
 Dialogue: 0,0:03:27.62,0:03:30.38,Consolas,,0,0,0,,最后我要留给你们一个作业
 Dialogue: 0,0:03:30.38,0:03:32.02,Consolas,,0,0,0,,开启你们的灵视
 Dialogue: 0,0:03:32.14,0:03:37.54,Consolas,,0,0,0,,看看我当前的情绪是怎样的
-Dialogue: 0,0:03:37.82,0:03:40.78,Consolas,,0,0,0,,
