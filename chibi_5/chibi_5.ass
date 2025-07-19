@@ -12,10 +12,10 @@ Audio File: chibi_5.mp4
 Video File: chibi_5.mp4
 Video AR Mode: 4
 Video AR Value: 2.347188
-Video Zoom Percent: 0.875000
-Scroll Position: 220
-Active Line: 301
-Video Position: 72
+Video Zoom Percent: 0.625000
+Scroll Position: 199
+Active Line: 286
+Video Position: 92
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -316,20 +316,21 @@ Dialogue: 0,0:00:02.98,0:00:03.02,Theatre,,0,0,0,,{=9}{\alpha&H80&\fs104.872\pos
 Dialogue: 0,0:00:03.02,0:00:03.06,Theatre,,0,0,0,,{=9}{\alpha&H80&\fs104.872\pos(967.4,740.94)}Q Theatre\NOld Neil's Penny Pinching strategy
 Dialogue: 0,0:00:03.06,0:00:03.10,Theatre,,0,0,0,,{=9}{\alpha&H80&\fs104.872\pos(968.77,741.37)}Q Theatre\NOld Neil's Penny Pinching strategy
 Dialogue: 0,0:00:03.10,0:00:03.14,Theatre,,0,0,0,,{=9}{\alpha&H88&\fs104.872\pos(969.49,740.75)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.14,0:00:03.18,Theatre,,0,0,0,,{=9}{\alpha&H91&\fs104.872\pos(966.04,742.91)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.18,0:00:03.22,Theatre,,0,0,0,,{=9}{\alpha&H99&\fs104.872\pos(964.29,743.31)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.22,0:00:03.26,Theatre,,0,0,0,,{=9}{\alpha&HA2&\fs104.872\pos(961.03,744.44)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.26,0:00:03.30,Theatre,,0,0,0,,{=9}{\alpha&HAA&\fs104.872\pos(958.95,745.07)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.30,0:00:03.34,Theatre,,0,0,0,,{=9}{\alpha&HB3&\fs104.872\pos(967.1,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.34,0:00:03.38,Theatre,,0,0,0,,{=9}{\alpha&HBB&\fs104.872\pos(968.44,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.38,0:00:03.42,Theatre,,0,0,0,,{=9}{\alpha&HC4&\fs104.872\pos(967.1,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.42,0:00:03.46,Theatre,,0,0,0,,{=9}{\alpha&HCC&\fs104.872\pos(964.14,739.61)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.46,0:00:03.50,Theatre,,0,0,0,,{=9}{\alpha&HD5&\fs104.872\pos(970.74,743.33)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.50,0:00:03.54,Theatre,,0,0,0,,{=9}{\alpha&HDD&\fs104.872\pos(968.78,742.97)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.54,0:00:03.58,Theatre,,0,0,0,,{=9}{\alpha&HE6&\fs104.872\pos(964.05,741.79)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.58,0:00:03.62,Theatre,,0,0,0,,{=9}{\alpha&HEE&\fs104.872\pos(963.13,741.39)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.62,0:00:03.66,Theatre,,0,0,0,,{=9}{\alpha&HF7&\fs104.872\pos(969.84,744.26)}Q Theatre\NOld Neil's Penny Pinching strategy
-Dialogue: 0,0:00:03.66,0:00:03.70,Theatre,,0,0,0,,{=9}{\alpha&HFF&\fs104.872\pos(969.38,744.18)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.14,0:00:03.18,Theatre,,0,0,0,,{=9}{\alpha&H90&\fs104.872\pos(966.04,742.91)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.18,0:00:03.22,Theatre,,0,0,0,,{=9}{\alpha&H98&\fs104.872\pos(964.29,743.31)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.22,0:00:03.26,Theatre,,0,0,0,,{=9}{\alpha&HA0&\fs104.872\pos(961.03,744.44)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.26,0:00:03.30,Theatre,,0,0,0,,{=9}{\alpha&HA8&\fs104.872\pos(958.95,745.07)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.30,0:00:03.34,Theatre,,0,0,0,,{=9}{\alpha&HB0&\fs104.872\pos(967.1,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.34,0:00:03.38,Theatre,,0,0,0,,{=9}{\alpha&HB8&\fs104.872\pos(968.44,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.38,0:00:03.42,Theatre,,0,0,0,,{=9}{\alpha&HC0&\fs104.872\pos(967.1,742.66)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.42,0:00:03.46,Theatre,,0,0,0,,{=9}{\alpha&HC7&\fs104.872\pos(964.14,739.61)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.46,0:00:03.50,Theatre,,0,0,0,,{=9}{\alpha&HCF&\fs104.872\pos(970.74,743.33)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.50,0:00:03.54,Theatre,,0,0,0,,{=9}{\alpha&HD7&\fs104.872\pos(968.78,742.97)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.54,0:00:03.58,Theatre,,0,0,0,,{=9}{\alpha&HDF&\fs104.872\pos(964.05,741.79)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.58,0:00:03.62,Theatre,,0,0,0,,{=9}{\alpha&HE7&\fs104.872\pos(963.13,741.39)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.62,0:00:03.66,Theatre,,0,0,0,,{=9}{\alpha&HEF&\fs104.872\pos(969.84,744.26)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.66,0:00:03.70,Theatre,,0,0,0,,{=9}{\alpha&HF7&\fs104.872\pos(969.38,744.18)}Q Theatre\NOld Neil's Penny Pinching strategy
+Dialogue: 0,0:00:03.70,0:00:03.74,Theatre,,0,0,0,,{=9}{\alpha&HFF&\fs104.872\pos(969.38,744.18)}Q Theatre\NOld Neil's Penny Pinching strategy
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
