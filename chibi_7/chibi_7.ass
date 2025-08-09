@@ -13,9 +13,9 @@ Video File: chibi_7.mp4
 Video AR Mode: 4
 Video AR Value: 2.347188
 Video Zoom Percent: 0.750000
-Scroll Position: 21
-Active Line: 27
-Video Position: 395
+Scroll Position: 153
+Active Line: 162
+Video Position: 3203
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -187,9 +187,9 @@ Dialogue: 1,0:01:32.11,0:01:32.83,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\
 Dialogue: 0,0:01:32.11,0:01:32.83,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Yes, father!
 Dialogue: 10,0:01:32.11,0:01:32.83,Consolas,,0,0,0,,Yes, father!
 Comment: 0,0:01:35.36,0:01:35.95,Consolas,,0,0,0,,考试
-Dialogue: 1,0:01:35.36,0:01:35.95,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Exam!
-Dialogue: 0,0:01:35.36,0:01:35.95,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Exam!
-Dialogue: 10,0:01:35.36,0:01:35.95,Consolas,,0,0,0,,Exam!
+Dialogue: 1,0:01:35.36,0:01:35.95,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Exams!
+Dialogue: 0,0:01:35.36,0:01:35.95,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Exams!
+Dialogue: 10,0:01:35.36,0:01:35.95,Consolas,,0,0,0,,Exams!
 Comment: 0,0:01:36.75,0:01:37.39,Consolas,,0,0,0,,每年
 Dialogue: 1,0:01:36.75,0:01:37.26,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Every year
 Dialogue: 0,0:01:36.75,0:01:37.26,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}Every year
@@ -235,9 +235,9 @@ Dialogue: 1,0:02:04.47,0:02:05.27,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\
 Dialogue: 0,0:02:04.47,0:02:05.27,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}That's to be expected!
 Dialogue: 10,0:02:04.47,0:02:05.27,Consolas,,0,0,0,,That's to be expected!
 Comment: 0,0:02:06.03,0:02:07.99,Consolas,,0,0,0,,这可是愚者先生给的建议
-Dialogue: 1,0:02:06.03,0:02:07.99,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This is a proposal given by Mr. Fool.
-Dialogue: 0,0:02:06.03,0:02:07.99,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This is a proposal given by Mr. Fool.
-Dialogue: 10,0:02:06.03,0:02:07.99,Consolas,,0,0,0,,This is a proposal given by Mr. Fool.
+Dialogue: 1,0:02:06.03,0:02:07.99,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This is a proposal given by {\i1}Mr. Fool{\i0}.
+Dialogue: 0,0:02:06.03,0:02:07.99,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}This is a proposal given by {\i1}Mr. Fool{\i0}.
+Dialogue: 10,0:02:06.03,0:02:07.99,Consolas,,0,0,0,,This is a proposal given by {\i1}Mr. Fool{\i0}.
 Comment: 0,0:02:08.51,0:02:09.87,Consolas,,0,0,0,,是神的建议
 Dialogue: 1,0:02:08.51,0:02:09.87,Consolas-shadow1,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}It's a god's proposal!
 Dialogue: 0,0:02:08.51,0:02:09.87,Consolas-shadow2,,0,0,0,,{\c&H000000&\blur1.5\fscx100\fscy100}It's a god's proposal!
