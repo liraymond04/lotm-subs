@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_645c99538" segtype="sentence" srclang="zh-CN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>人类通过服食魔药</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250817T054712Z" creationid="liray" creationdate="20250817T054559Z">
+        <seg>By consuming potions, humanity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>掌握不同的非凡能力</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250817T055000Z" creationid="liray" creationdate="20250817T055000Z">
+        <seg>harnessed various Beyonder abilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>非凡世界</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250817T054345Z" creationid="liray" creationdate="20250817T054322Z">
+        <seg>The world of Beyonders.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

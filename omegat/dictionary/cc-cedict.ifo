@@ -1,0 +1,12 @@
+StarDict's dict ifo file
+version=3.0.0
+wordcount=110136
+idxfilesize=1847986
+synwordcount=178437
+bookname=CC-CEDICT 漢英辭典
+sametypesequence=h
+author=Paul Denisowski et al.
+email=
+website=http://www.mdbg.net/chindict/chindict.php?page=cedict
+description=CC-CEDICT is a continuation of the CEDICT project started by Paul Denisowski in 1997 with the aim to provide a complete downloadable Chinese to English dictionary with pronunciation in pinyin for the Chinese characters. <br/> <br/> This version created by:<br/> Simon Wiles (http://simonwiles.net/projects/cc-cedict/) <br><br>CC-CEDICT release: 2014-10-04<br><br>CC-CEDICT<br>Community maintained free Chinese-English dictionary.<br><br>Published by MDBG<br><br>License:<br>Creative Commons Attribution-Share Alike 3.0<br>http://creativecommons.org/licenses/by-sa/3.0/<br><br>Referenced works:<br>CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski<br><br>CC-CEDICT can be downloaded from:<br>http://www.mdbg.net/chindict/chindict.php?page=cc-cedict<br><br>Additions and corrections can be sent through:<br>http://cc-cedict.org/editor/editor.php<br><br>For more information about CC-CEDICT see:<br>http://cc-cedict.org/wiki/<br>
+date=CC-CEDICT release: 2014-10-04

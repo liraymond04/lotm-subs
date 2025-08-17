@@ -18,3 +18,9 @@ results/
 # video files
 *.mp4
 !*_subbed.mp4
+
+# omegat
+**/omegat/last_entry.properties
+**/omegat/project_stats.json
+**/omegat/project_stats.txt
+**/omegat/project_stats_match.txt
