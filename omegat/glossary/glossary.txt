@@ -15,3 +15,36 @@
 通灵者	Spirit Medium
 戴莉	Daly
 胡德·欧根	Hood Eugen
+心灵世界	Mind World
+仪式魔法	ritualistic magic
+通灵术	mediumship ritual
+廷根	Tingen
+心理医生	Psychiatrist
+梦魔	Nightmare
+观众	Spectator
+途径	Pathway
+心理炼金会	Psychology Alchemists
+兰尔乌斯	Lanevus
+偷盗者	Marauder
+真实造物者	True Creator
+极光会	Aurora Order
+西里斯	Sirius
+梅纳德	Maynard
+雪伦夫人	Madam Sharon
+约翰·梅纳德	John Maynard
+弗莱	Frye
+非凡者	Beyonder
+神弃之地	Forsaken Land of the Gods
+罗塞尔	Roselle
+罗塞尔大帝	Emperor Roselle
+正义小姐	Miss Justice
+海盗将军	Pirate Admiral
+飓风中将	Vice Admiral Hurricane
+齐林格斯	Qilangos
+鲁恩	Loen
+鲁恩语	Loenese
+弗萨克	Feysac
+弗萨克语	Feysac
+古弗萨克语	Ancient Feysac
+巨人语	Jotun
+黑暗之民	People of the Dark
