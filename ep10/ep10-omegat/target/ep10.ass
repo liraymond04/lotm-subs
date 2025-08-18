@@ -12,8 +12,10 @@ Audio File: ../../ep10.mp4
 Video File: ../../ep10.mp4
 Video AR Mode: 4
 Video AR Value: 2.347188
-Video Zoom Percent: 0.625000
-Video Position: 1079
+Video Zoom Percent: 0.750000
+Scroll Position: 475
+Active Line: 1243
+Video Position: 47381
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,6 +26,7 @@ Style: Wanted Order,Dreamhour,48,&H00000000,&H000000FF,&H00000000,&H00000000,0,0
 Style: Languages,Dreamhour,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,10,10,10,1
 Style: Heading,Dreamhour,48,&H00E1E5E7,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,3,2,10,10,10,1
 Style: Heading - Copy,Dreamhour,48,&H00E1E5E7,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.01,0,2,10,10,10,1
+Style: Heading - Derrick,Dreamhour,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Theatre,The Immortal Condensed,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
@@ -887,6 +890,44 @@ Dialogue: 0,0:20:25.74,0:20:27.62,Consolas,,0,0,0,,{\be1}I think this is somethi
 Dialogue: 0,0:20:28.14,0:20:29.06,Consolas,,0,0,0,,{\be1}There's a deep connection.
 Dialogue: 0,0:20:33.82,0:20:35.46,Consolas,,0,0,0,,{\be1}This situation may be rather serious.
 Dialogue: 0,0:20:38.70,0:20:40.78,Consolas,,0,0,0,,{\be1}We must re-investigate Lanevus.
+Comment: 0,0:20:47.06,0:20:47.78,Heading,,0,0,0,,{=647}{\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.06,0:20:47.10,Heading,,0,0,0,,{=603}{\alpha&HFF&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.10,0:20:47.14,Heading,,0,0,0,,{=604}{\alpha&HE2&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.14,0:20:47.18,Heading,,0,0,0,,{=605}{\alpha&HC7&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.18,0:20:47.22,Heading,,0,0,0,,{=606}{\alpha&HAD&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.22,0:20:47.26,Heading,,0,0,0,,{=607}{\alpha&H95&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.26,0:20:47.30,Heading,,0,0,0,,{=608}{\alpha&H7F&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.30,0:20:47.34,Heading,,0,0,0,,{=609}{\alpha&H6B&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.34,0:20:47.38,Heading,,0,0,0,,{=610}{\alpha&H58&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.38,0:20:47.42,Heading,,0,0,0,,{=611}{\alpha&H47&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.42,0:20:47.46,Heading,,0,0,0,,{=612}{\alpha&H38&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.46,0:20:47.50,Heading,,0,0,0,,{=613}{\alpha&H2B&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.50,0:20:47.54,Heading,,0,0,0,,{=614}{\alpha&H20&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.54,0:20:47.58,Heading,,0,0,0,,{=615}{\alpha&H16&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.58,0:20:47.62,Heading,,0,0,0,,{=616}{\alpha&H0E&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.62,0:20:47.66,Heading,,0,0,0,,{=617}{\alpha&H08&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.66,0:20:47.70,Heading,,0,0,0,,{=626}{\alpha&H04&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.70,0:20:47.74,Heading,,0,0,0,,{=627}{\alpha&H01&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.74,0:20:47.78,Heading,,0,0,0,,{=628}{\alpha&H00&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:47.78,0:20:50.46,Heading,,0,0,0,,{=602}{\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Comment: 0,0:20:50.46,0:20:51.14,Heading,,0,0,0,,{=629}{\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.46,0:20:50.50,Heading,,0,0,0,,{=630}{\alpha&H00&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.50,0:20:50.54,Heading,,0,0,0,,{=631}{\alpha&H01&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.54,0:20:50.58,Heading,,0,0,0,,{=632}{\alpha&H04&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.58,0:20:50.62,Heading,,0,0,0,,{=633}{\alpha&H09&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.62,0:20:50.66,Heading,,0,0,0,,{=634}{\alpha&H10&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.66,0:20:50.70,Heading,,0,0,0,,{=635}{\alpha&H19&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.70,0:20:50.74,Heading,,0,0,0,,{=636}{\alpha&H24&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.74,0:20:50.78,Heading,,0,0,0,,{=637}{\alpha&H31&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.78,0:20:50.82,Heading,,0,0,0,,{=638}{\alpha&H40&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.82,0:20:50.86,Heading,,0,0,0,,{=639}{\alpha&H51&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.86,0:20:50.90,Heading,,0,0,0,,{=640}{\alpha&H64&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.90,0:20:50.94,Heading,,0,0,0,,{=641}{\alpha&H79&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.94,0:20:50.98,Heading,,0,0,0,,{=642}{\alpha&H8F&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:50.98,0:20:51.02,Heading,,0,0,0,,{=643}{\alpha&HA8&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:51.02,0:20:51.06,Heading,,0,0,0,,{=644}{\alpha&HC3&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:51.06,0:20:51.10,Heading,,0,0,0,,{=645}{\alpha&HE0&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
+Dialogue: 0,0:20:51.10,0:20:51.14,Heading,,0,0,0,,{=648}{\alpha&HFF&\an6\fs80\shad2\be0.5\pos(1490.11,228.44)}South Borough\NSteel Factory
 Dialogue: 0,0:21:05.22,0:21:07.70,Consolas,,0,0,0,,{\be1}Wife of MP Maynard bellowed,
 Dialogue: 0,0:21:08.22,0:21:10.50,Consolas,,0,0,0,,{\be1}"You shameless bitch."
 Dialogue: 0,0:21:11.62,0:21:12.90,Consolas,,0,0,0,,{\be1}You shameless bitch!
@@ -920,31 +961,31 @@ Dialogue: 0,0:21:17.78,0:21:17.82,Heading - Copy,,0,0,0,,{=168}{\alpha&H02&\an6\
 Dialogue: 0,0:21:17.82,0:21:17.86,Heading - Copy,,0,0,0,,{=169}{\alpha&H01&\an6\fs80\blur30\pos(252.73,183.9)}Sharon Khoy
 Dialogue: 0,0:21:17.86,0:21:17.90,Heading - Copy,,0,0,0,,{=170}{\alpha&H00&\an6\fs80\blur30\pos(252.73,183.9)}Sharon Khoy
 Dialogue: 0,0:21:17.90,0:21:21.98,Heading - Copy,,0,0,0,,{=172}{\an6\fs80\blur30\pos(252.73,183.9)}Sharon Khoy
-Comment: 0,0:21:16.98,0:21:17.86,Heading - Copy,,0,0,0,,{=199}{\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:16.98,0:21:17.02,Heading - Copy,,0,0,0,,{=176}{\alpha&HFF&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.02,0:21:17.06,Heading - Copy,,0,0,0,,{=177}{\alpha&HE8&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.06,0:21:17.10,Heading - Copy,,0,0,0,,{=178}{\alpha&HD3&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.10,0:21:17.14,Heading - Copy,,0,0,0,,{=179}{\alpha&HBE&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.14,0:21:17.18,Heading - Copy,,0,0,0,,{=180}{\alpha&HAB&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.18,0:21:17.22,Heading - Copy,,0,0,0,,{=181}{\alpha&H98&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.22,0:21:17.26,Heading - Copy,,0,0,0,,{=182}{\alpha&H87&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.26,0:21:17.30,Heading - Copy,,0,0,0,,{=183}{\alpha&H77&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.30,0:21:17.34,Heading - Copy,,0,0,0,,{=184}{\alpha&H67&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.34,0:21:17.38,Heading - Copy,,0,0,0,,{=185}{\alpha&H59&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.38,0:21:17.42,Heading - Copy,,0,0,0,,{=186}{\alpha&H4C&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.42,0:21:17.46,Heading - Copy,,0,0,0,,{=187}{\alpha&H40&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.46,0:21:17.50,Heading - Copy,,0,0,0,,{=188}{\alpha&H35&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.50,0:21:17.54,Heading - Copy,,0,0,0,,{=189}{\alpha&H2B&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.54,0:21:17.58,Heading - Copy,,0,0,0,,{=190}{\alpha&H22&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.58,0:21:17.62,Heading - Copy,,0,0,0,,{=191}{\alpha&H1A&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.62,0:21:17.66,Heading - Copy,,0,0,0,,{=192}{\alpha&H13&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.66,0:21:17.70,Heading - Copy,,0,0,0,,{=193}{\alpha&H0D&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.70,0:21:17.74,Heading - Copy,,0,0,0,,{=194}{\alpha&H08&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.74,0:21:17.78,Heading - Copy,,0,0,0,,{=195}{\alpha&H05&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.78,0:21:17.82,Heading - Copy,,0,0,0,,{=196}{\alpha&H02&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.82,0:21:17.86,Heading - Copy,,0,0,0,,{=197}{\alpha&H01&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.86,0:21:17.90,Heading - Copy,,0,0,0,,{=198}{\alpha&H00&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
-Dialogue: 0,0:21:17.90,0:21:21.98,Heading - Copy,,0,0,0,,{=200}{\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow.
+Comment: 0,0:21:16.98,0:21:17.86,Heading - Copy,,0,0,0,,{=199}{\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:16.98,0:21:17.02,Heading - Copy,,0,0,0,,{=176}{\alpha&HFF&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.02,0:21:17.06,Heading - Copy,,0,0,0,,{=177}{\alpha&HE8&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.06,0:21:17.10,Heading - Copy,,0,0,0,,{=178}{\alpha&HD3&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.10,0:21:17.14,Heading - Copy,,0,0,0,,{=179}{\alpha&HBE&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.14,0:21:17.18,Heading - Copy,,0,0,0,,{=180}{\alpha&HAB&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.18,0:21:17.22,Heading - Copy,,0,0,0,,{=181}{\alpha&H98&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.22,0:21:17.26,Heading - Copy,,0,0,0,,{=182}{\alpha&H87&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.26,0:21:17.30,Heading - Copy,,0,0,0,,{=183}{\alpha&H77&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.30,0:21:17.34,Heading - Copy,,0,0,0,,{=184}{\alpha&H67&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.34,0:21:17.38,Heading - Copy,,0,0,0,,{=185}{\alpha&H59&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.38,0:21:17.42,Heading - Copy,,0,0,0,,{=186}{\alpha&H4C&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.42,0:21:17.46,Heading - Copy,,0,0,0,,{=187}{\alpha&H40&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.46,0:21:17.50,Heading - Copy,,0,0,0,,{=188}{\alpha&H35&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.50,0:21:17.54,Heading - Copy,,0,0,0,,{=189}{\alpha&H2B&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.54,0:21:17.58,Heading - Copy,,0,0,0,,{=190}{\alpha&H22&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.58,0:21:17.62,Heading - Copy,,0,0,0,,{=191}{\alpha&H1A&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.62,0:21:17.66,Heading - Copy,,0,0,0,,{=192}{\alpha&H13&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.66,0:21:17.70,Heading - Copy,,0,0,0,,{=193}{\alpha&H0D&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.70,0:21:17.74,Heading - Copy,,0,0,0,,{=194}{\alpha&H08&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.74,0:21:17.78,Heading - Copy,,0,0,0,,{=195}{\alpha&H05&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.78,0:21:17.82,Heading - Copy,,0,0,0,,{=196}{\alpha&H02&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.82,0:21:17.86,Heading - Copy,,0,0,0,,{=197}{\alpha&H01&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.86,0:21:17.90,Heading - Copy,,0,0,0,,{=198}{\alpha&H00&\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
+Dialogue: 0,0:21:17.90,0:21:21.98,Heading - Copy,,0,0,0,,{=200}{\an6\fs48\blur10\pos(249.58,227.69)}Baron Khoy's widow
 Dialogue: 0,0:21:21.86,0:21:24.02,Consolas,,0,0,0,,{\be1}These people are all members of the Conservative Party and the New Party.
 Dialogue: 0,0:21:24.46,0:21:25.74,Consolas,,0,0,0,,{\be1}They have a close relationship
 Dialogue: 0,0:21:26.46,0:21:27.22,Consolas,,0,0,0,,{\be1}with Madam Sharon.
@@ -1025,7 +1066,7 @@ Dialogue: 0,0:22:55.06,0:22:57.70,Consolas,,0,0,0,,{\be1}that the time of death 
 Dialogue: 0,0:22:58.74,0:23:00.02,Consolas,,0,0,0,,{\be1}The corpse has not been moved.
 Dialogue: 0,0:23:00.62,0:23:01.70,Consolas,,0,0,0,,{\be1}The butler discovered it this morning.
 Dialogue: 0,0:23:02.22,0:23:04.66,Consolas,,0,0,0,,{\be1}Madam Sharon was the last person the MP met while he was alive.
-Dialogue: 0,0:23:05.70,0:23:07.18,Consolas,,0,0,0,,{\be1}Ruling out the influence of supernatural factors,
+Dialogue: 0,0:23:05.66,0:23:07.18,Consolas,,0,0,0,,{\be1}Ruling out the influence of supernatural factors,
 Dialogue: 0,0:23:07.46,0:23:08.46,Consolas,,0,0,0,,{\be1}and also ruling out foul play,
 Dialogue: 0,0:23:09.26,0:23:11.06,Consolas,,0,0,0,,{\be1}the initial verdict is death due to sudden illness.
 Dialogue: 0,0:23:11.86,0:23:12.58,Consolas,,0,0,0,,{\be1}What did you find?
@@ -1149,6 +1190,30 @@ Dialogue: 0,0:26:56.42,0:26:56.46,Theatre,,0,0,0,,{=525=596}{\alpha&HE4&\fs104.8
 Dialogue: 0,0:26:56.46,0:26:56.50,Theatre,,0,0,0,,{=525=597}{\alpha&HED&\fs104.872\pos(964.48,566.15)}Easter Egg
 Dialogue: 0,0:26:56.50,0:26:56.54,Theatre,,0,0,0,,{=525=598}{\alpha&HF6&\fs104.872\pos(972.81,569.34)}Easter Egg
 Dialogue: 0,0:26:56.54,0:26:56.58,Theatre,,0,0,0,,{=525=619}{\alpha&HFF&\fs104.872\pos(969.28,567.51)}Easter Egg
+Comment: 0,0:27:19.74,0:27:20.62,Heading,,0,0,0,,{=677}{\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.74,0:27:19.78,Heading,,0,0,0,,{=655}{\alpha&HFF&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.78,0:27:19.82,Heading,,0,0,0,,{=656}{\alpha&HE7&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.82,0:27:19.86,Heading,,0,0,0,,{=657}{\alpha&HD1&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.86,0:27:19.90,Heading,,0,0,0,,{=658}{\alpha&HBB&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.90,0:27:19.94,Heading,,0,0,0,,{=659}{\alpha&HA7&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.94,0:27:19.98,Heading,,0,0,0,,{=660}{\alpha&H94&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:19.98,0:27:20.02,Heading,,0,0,0,,{=661}{\alpha&H82&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.02,0:27:20.06,Heading,,0,0,0,,{=662}{\alpha&H71&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.06,0:27:20.10,Heading,,0,0,0,,{=663}{\alpha&H62&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.10,0:27:20.14,Heading,,0,0,0,,{=664}{\alpha&H53&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.14,0:27:20.18,Heading,,0,0,0,,{=665}{\alpha&H46&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.18,0:27:20.22,Heading,,0,0,0,,{=666}{\alpha&H3A&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.22,0:27:20.26,Heading,,0,0,0,,{=667}{\alpha&H2F&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.26,0:27:20.30,Heading,,0,0,0,,{=668}{\alpha&H25&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.30,0:27:20.34,Heading,,0,0,0,,{=669}{\alpha&H1C&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.34,0:27:20.38,Heading,,0,0,0,,{=670}{\alpha&H15&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.38,0:27:20.42,Heading,,0,0,0,,{=671}{\alpha&H0E&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.42,0:27:20.46,Heading,,0,0,0,,{=672}{\alpha&H09&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.46,0:27:20.50,Heading,,0,0,0,,{=673}{\alpha&H05&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.50,0:27:20.54,Heading,,0,0,0,,{=674}{\alpha&H02&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.54,0:27:20.58,Heading,,0,0,0,,{=675}{\alpha&H01&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.58,0:27:20.62,Heading,,0,0,0,,{=676}{\alpha&H00&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
+Dialogue: 0,0:27:20.62,0:27:24.26,Heading,,0,0,0,,{=678}{\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
 Dialogue: 0,0:27:45.34,0:27:46.82,Consolas,,0,0,0,,{\be1\i1}O Magnificent Deity.
 Dialogue: 0,0:27:48.18,0:27:51.94,Consolas,,0,0,0,,{\be1\i1}I am willing to dedicate my life to you.
 Dialogue: 0,0:27:59.50,0:28:00.14,Consolas,,0,0,0,,{\be1}This is...
@@ -1209,6 +1274,51 @@ Dialogue: 0,0:30:54.66,0:30:57.30,Consolas,,0,0,0,,{\be1}This is an ancient anti
 Dialogue: 0,0:30:58.06,0:30:59.42,Consolas,,0,0,0,,{\be1\i1}Magnificient Deity.
 Dialogue: 0,0:31:00.18,0:31:01.82,Consolas,,0,0,0,,{\be1\i1}A land that was forsaken.
 Dialogue: 0,0:31:03.62,0:31:04.82,Consolas,,0,0,0,,{\be1}Forsaken Land of the Gods.
+Comment: 0,0:31:32.46,0:31:33.34,Heading - Derrick,,0,0,0,,{=726}{\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.46,0:31:32.50,Heading - Derrick,,0,0,0,,{=683}{\alpha&HFF&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.50,0:31:32.54,Heading - Derrick,,0,0,0,,{=684}{\alpha&HE7&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.54,0:31:32.58,Heading - Derrick,,0,0,0,,{=685}{\alpha&HD1&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.58,0:31:32.62,Heading - Derrick,,0,0,0,,{=686}{\alpha&HBB&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.62,0:31:32.66,Heading - Derrick,,0,0,0,,{=687}{\alpha&HA7&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.66,0:31:32.70,Heading - Derrick,,0,0,0,,{=688}{\alpha&H94&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.70,0:31:32.74,Heading - Derrick,,0,0,0,,{=689}{\alpha&H82&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.74,0:31:32.78,Heading - Derrick,,0,0,0,,{=690}{\alpha&H71&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.78,0:31:32.82,Heading - Derrick,,0,0,0,,{=691}{\alpha&H62&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.82,0:31:32.86,Heading - Derrick,,0,0,0,,{=692}{\alpha&H53&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.86,0:31:32.90,Heading - Derrick,,0,0,0,,{=693}{\alpha&H46&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.90,0:31:32.94,Heading - Derrick,,0,0,0,,{=694}{\alpha&H3A&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.94,0:31:32.98,Heading - Derrick,,0,0,0,,{=695}{\alpha&H2F&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:32.98,0:31:33.02,Heading - Derrick,,0,0,0,,{=696}{\alpha&H25&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.02,0:31:33.06,Heading - Derrick,,0,0,0,,{=697}{\alpha&H1C&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.06,0:31:33.10,Heading - Derrick,,0,0,0,,{=698}{\alpha&H15&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.10,0:31:33.14,Heading - Derrick,,0,0,0,,{=699}{\alpha&H0E&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.14,0:31:33.18,Heading - Derrick,,0,0,0,,{=700}{\alpha&H09&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.18,0:31:33.22,Heading - Derrick,,0,0,0,,{=701}{\alpha&H05&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.22,0:31:33.26,Heading - Derrick,,0,0,0,,{=702}{\alpha&H02&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.26,0:31:33.30,Heading - Derrick,,0,0,0,,{=703}{\alpha&H01&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.30,0:31:33.34,Heading - Derrick,,0,0,0,,{=704}{\alpha&H00&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:33.34,0:31:34.38,Heading - Derrick,,0,0,0,,{=682}{\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Comment: 0,0:31:34.38,0:31:35.18,Heading - Derrick,,0,0,0,,{=705}{\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.38,0:31:34.42,Heading - Derrick,,0,0,0,,{=706}{\alpha&H00&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.42,0:31:34.46,Heading - Derrick,,0,0,0,,{=707}{\alpha&H01&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.46,0:31:34.50,Heading - Derrick,,0,0,0,,{=708}{\alpha&H03&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.50,0:31:34.54,Heading - Derrick,,0,0,0,,{=709}{\alpha&H06&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.54,0:31:34.58,Heading - Derrick,,0,0,0,,{=710}{\alpha&H0B&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.58,0:31:34.62,Heading - Derrick,,0,0,0,,{=711}{\alpha&H12&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.62,0:31:34.66,Heading - Derrick,,0,0,0,,{=712}{\alpha&H19&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.66,0:31:34.70,Heading - Derrick,,0,0,0,,{=713}{\alpha&H23&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.70,0:31:34.74,Heading - Derrick,,0,0,0,,{=714}{\alpha&H2D&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.74,0:31:34.78,Heading - Derrick,,0,0,0,,{=715}{\alpha&H39&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.78,0:31:34.82,Heading - Derrick,,0,0,0,,{=716}{\alpha&H47&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.82,0:31:34.86,Heading - Derrick,,0,0,0,,{=717}{\alpha&H55&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.86,0:31:34.90,Heading - Derrick,,0,0,0,,{=718}{\alpha&H66&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.90,0:31:34.94,Heading - Derrick,,0,0,0,,{=719}{\alpha&H77&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.94,0:31:34.98,Heading - Derrick,,0,0,0,,{=720}{\alpha&H8A&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:34.98,0:31:35.02,Heading - Derrick,,0,0,0,,{=721}{\alpha&H9F&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:35.02,0:31:35.06,Heading - Derrick,,0,0,0,,{=722}{\alpha&HB5&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:35.06,0:31:35.10,Heading - Derrick,,0,0,0,,{=723}{\alpha&HCC&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:35.10,0:31:35.14,Heading - Derrick,,0,0,0,,{=724}{\alpha&HE5&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
+Dialogue: 0,0:31:35.14,0:31:35.18,Heading - Derrick,,0,0,0,,{=727}{\alpha&HFF&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
 Dialogue: 0,0:31:50.74,0:31:51.22,Consolas,,0,0,0,,{\be1}You——
 Dialogue: 0,0:31:53.26,0:31:53.78,Consolas,,0,0,0,,{\be1}Your Grace,
 Dialogue: 0,0:31:54.58,0:31:55.66,Consolas,,0,0,0,,{\be1}are you God?
@@ -1225,8 +1335,6 @@ Dialogue: 0,0:32:35.42,0:32:36.18,Consolas,,0,0,0,,{\be1}I choose
 Dialogue: 0,0:32:39.66,0:32:40.30,Consolas,,0,0,0,,{\be1}The Sun!
 
 [Aegisub Extradata]
-Data: 2,_aegi_folddata,e0;0;1
-Data: 3,_aegi_folddata,e1;0;1
 Data: 4,_aegi_folddata,e0;1;2
 Data: 5,_aegi_folddata,e1;1;2
 Data: 6,_aegi_folddata,e0;1;3
@@ -1384,9 +1492,7 @@ Data: 283,_aegi_folddata,e1;0;202
 Data: 284,_aegi_folddata,e1;0;203
 Data: 287,_aegi_folddata,e0;1;204
 Data: 288,_aegi_folddata,e1;1;204
-Data: 289,_aegi_folddata,e1;0;205
 Data: 525,a-mo,e{"originalText"#3A"{\\alpha&H80&\\fs104.872\\pos(966.12#2C565.07)}Easter Egg"#2C"uuid"#3A"03f32590-dd28-4ea8-a9c5-ffd97771755d"}
-Data: 526,_aegi_folddata,e1;0;206
 Data: 527,_aegi_folddata,e1;0;207
 Data: 528,_aegi_folddata,e1;0;208
 Data: 529,_aegi_folddata,e1;0;209
@@ -1459,9 +1565,6 @@ Data: 595,_aegi_folddata,e1;0;275
 Data: 596,_aegi_folddata,e1;0;276
 Data: 597,_aegi_folddata,e1;0;277
 Data: 598,_aegi_folddata,e1;0;278
-Data: 599,_aegi_folddata,e1;0;279
-Data: 600,_aegi_folddata,e1;0;280
-Data: 601,_aegi_folddata,e1;0;281
 Data: 602,_aegi_folddata,e1;0;282
 Data: 603,_aegi_folddata,e1;0;283
 Data: 604,_aegi_folddata,e1;0;284
@@ -1482,3 +1585,100 @@ Data: 618,_aegi_folddata,e0;1;280
 Data: 619,_aegi_folddata,e1;1;280
 Data: 620,_aegi_folddata,e0;1;1
 Data: 621,_aegi_folddata,e1;1;1
+Data: 626,_aegi_folddata,e1;0;298
+Data: 627,_aegi_folddata,e1;0;299
+Data: 628,_aegi_folddata,e1;0;300
+Data: 629,_aegi_folddata,e1;0;301
+Data: 630,_aegi_folddata,e1;0;302
+Data: 631,_aegi_folddata,e1;0;303
+Data: 632,_aegi_folddata,e1;0;304
+Data: 633,_aegi_folddata,e1;0;305
+Data: 634,_aegi_folddata,e1;0;306
+Data: 635,_aegi_folddata,e1;0;307
+Data: 636,_aegi_folddata,e1;0;308
+Data: 637,_aegi_folddata,e1;0;309
+Data: 638,_aegi_folddata,e1;0;310
+Data: 639,_aegi_folddata,e1;0;311
+Data: 640,_aegi_folddata,e1;0;312
+Data: 641,_aegi_folddata,e1;0;313
+Data: 642,_aegi_folddata,e1;0;314
+Data: 643,_aegi_folddata,e1;0;315
+Data: 644,_aegi_folddata,e1;0;316
+Data: 645,_aegi_folddata,e1;0;317
+Data: 647,_aegi_folddata,e0;1;319
+Data: 648,_aegi_folddata,e1;1;319
+Data: 653,_aegi_folddata,e1;0;320
+Data: 654,_aegi_folddata,e1;0;321
+Data: 655,_aegi_folddata,e1;0;322
+Data: 656,_aegi_folddata,e1;0;323
+Data: 657,_aegi_folddata,e1;0;324
+Data: 658,_aegi_folddata,e1;0;325
+Data: 659,_aegi_folddata,e1;0;326
+Data: 660,_aegi_folddata,e1;0;327
+Data: 661,_aegi_folddata,e1;0;328
+Data: 662,_aegi_folddata,e1;0;329
+Data: 663,_aegi_folddata,e1;0;330
+Data: 664,_aegi_folddata,e1;0;331
+Data: 665,_aegi_folddata,e1;0;332
+Data: 666,_aegi_folddata,e1;0;333
+Data: 667,_aegi_folddata,e1;0;334
+Data: 668,_aegi_folddata,e1;0;335
+Data: 669,_aegi_folddata,e1;0;336
+Data: 670,_aegi_folddata,e1;0;337
+Data: 671,_aegi_folddata,e1;0;338
+Data: 672,_aegi_folddata,e1;0;339
+Data: 673,_aegi_folddata,e1;0;340
+Data: 674,_aegi_folddata,e1;0;341
+Data: 675,_aegi_folddata,e1;0;342
+Data: 676,_aegi_folddata,e1;0;343
+Data: 677,_aegi_folddata,e0;1;344
+Data: 678,_aegi_folddata,e1;1;344
+Data: 679,_aegi_folddata,e0;0;344
+Data: 680,_aegi_folddata,e1;0;344
+Data: 681,_aegi_folddata,e1;0;345
+Data: 682,_aegi_folddata,e1;0;346
+Data: 683,_aegi_folddata,e1;0;347
+Data: 684,_aegi_folddata,e1;0;348
+Data: 685,_aegi_folddata,e1;0;349
+Data: 686,_aegi_folddata,e1;0;350
+Data: 687,_aegi_folddata,e1;0;351
+Data: 688,_aegi_folddata,e1;0;352
+Data: 689,_aegi_folddata,e1;0;353
+Data: 690,_aegi_folddata,e1;0;354
+Data: 691,_aegi_folddata,e1;0;355
+Data: 692,_aegi_folddata,e1;0;356
+Data: 693,_aegi_folddata,e1;0;357
+Data: 694,_aegi_folddata,e1;0;358
+Data: 695,_aegi_folddata,e1;0;359
+Data: 696,_aegi_folddata,e1;0;360
+Data: 697,_aegi_folddata,e1;0;361
+Data: 698,_aegi_folddata,e1;0;362
+Data: 699,_aegi_folddata,e1;0;363
+Data: 700,_aegi_folddata,e1;0;364
+Data: 701,_aegi_folddata,e1;0;365
+Data: 702,_aegi_folddata,e1;0;366
+Data: 703,_aegi_folddata,e1;0;367
+Data: 704,_aegi_folddata,e1;0;368
+Data: 705,_aegi_folddata,e1;0;369
+Data: 706,_aegi_folddata,e1;0;370
+Data: 707,_aegi_folddata,e1;0;371
+Data: 708,_aegi_folddata,e1;0;372
+Data: 709,_aegi_folddata,e1;0;373
+Data: 710,_aegi_folddata,e1;0;374
+Data: 711,_aegi_folddata,e1;0;375
+Data: 712,_aegi_folddata,e1;0;376
+Data: 713,_aegi_folddata,e1;0;377
+Data: 714,_aegi_folddata,e1;0;378
+Data: 715,_aegi_folddata,e1;0;379
+Data: 716,_aegi_folddata,e1;0;380
+Data: 717,_aegi_folddata,e1;0;381
+Data: 718,_aegi_folddata,e1;0;382
+Data: 719,_aegi_folddata,e1;0;383
+Data: 720,_aegi_folddata,e1;0;384
+Data: 721,_aegi_folddata,e1;0;385
+Data: 722,_aegi_folddata,e1;0;386
+Data: 723,_aegi_folddata,e1;0;387
+Data: 724,_aegi_folddata,e1;0;388
+Data: 725,_aegi_folddata,e1;0;389
+Data: 726,_aegi_folddata,e0;1;390
+Data: 727,_aegi_folddata,e1;1;390
