@@ -200,9 +200,9 @@ Dialogue: 0,0:17:16.72,0:17:18.83,Default,,0,0,0,,3-0217 cannot aimed at yoursel
 Dialogue: 0,0:17:19.56,0:17:20.95,Default,,0,0,0,,I'll drag her into a dream from a distance.
 Dialogue: 0,0:17:21.56,0:17:22.43,Default,,0,0,0,,You two make haste.
 Dialogue: 0,0:17:47.92,0:17:49.15,Default,,0,0,0,,Nightmare's control has strengthened.
-Dialogue: 0,0:18:13.84,0:18:14.35,Default,,0,0,0,,{\i1}Seal!
+Dialogue: 0,0:18:13.84,0:18:14.35,Default,,0,0,0,,[In Hermes]\N{\i1}Seal!
 Dialogue: 0,0:18:26.92,0:18:27.87,Default,,0,0,0,,It went so smoothly.
-Dialogue: 0,0:18:29.36,0:18:31.15,Default,,0,0,0,,{\i1}Black Flame.
+Dialogue: 0,0:18:29.36,0:18:31.15,Default,,0,0,0,,[In Hermes]\N{\i1}Black Flame.
 Dialogue: 0,0:18:32.28,0:18:32.95,Default,,0,0,0,,Mirror Substitution!
 Dialogue: 0,0:18:44.87,0:18:45.27,Default,,0,0,0,,Kenley!
 Dialogue: 0,0:18:51.87,0:18:53.03,Default,,0,0,0,,She's not under the control of Nightmare!
@@ -223,15 +223,15 @@ Dialogue: 0,0:19:37.56,0:19:38.55,Default,,0,0,0,,Only Sequence 8.
 Dialogue: 0,0:19:39.04,0:19:40.51,Default,,0,0,0,,So you were able to stay concealed from me.
 Dialogue: 0,0:19:40.87,0:19:41.47,Default,,0,0,0,,You...
 Dialogue: 0,0:19:41.92,0:19:43.19,Default,,0,0,0,,what secrets are you hiding?
-Dialogue: 0,0:19:44.04,0:19:44.67,Default,,0,0,0,,{\i1}Evernight
-Dialogue: 0,0:19:45.60,0:19:46.15,Default,,0,0,0,,{\i1}Slumber!
+Dialogue: 0,0:19:44.04,0:19:44.67,Default,,0,0,0,,[In Hermes]\N{\i1}Evernight
+Dialogue: 0,0:19:45.60,0:19:46.15,Default,,0,0,0,,[In Hermes]\N{\i1}Slumber!
 Dialogue: 0,0:20:13.32,0:20:14.39,Default,,0,0,0,,Mirror Substitution again!
 Dialogue: 0,0:20:38.32,0:20:40.15,Default,,0,0,0,,Insect that overestimates his capabilities.
-Dialogue: 0,0:20:48.39,0:20:49.19,Default,,0,0,0,,{\i1}Seal!
-Dialogue: 0,0:20:51.00,0:20:52.07,Default,,0,0,0,,{\i1}Pleasure!
+Dialogue: 0,0:20:48.39,0:20:49.19,Default,,0,0,0,,[In Hermes]\N{\i1}Seal!
+Dialogue: 0,0:20:51.00,0:20:52.07,Default,,0,0,0,,[In Hermes]\N{\i1}Pleasure!
 Dialogue: 0,0:20:55.84,0:20:57.11,Default,,0,0,0,,It cannot be destroyed.
 Dialogue: 0,0:21:03.28,0:21:03.95,Default,,0,0,0,,That statue!
-Dialogue: 0,0:21:14.12,0:21:15.19,Default,,0,0,0,,{\i1}Icy Frost!
+Dialogue: 0,0:21:14.12,0:21:15.19,Default,,0,0,0,,[In Hermes]\N{\i1}Icy Frost!
 Dialogue: 0,0:21:35.20,0:21:36.23,Default,,0,0,0,,Why bother?
 Dialogue: 0,0:21:37.20,0:21:38.47,Default,,0,0,0,,A futile struggle.
 Dialogue: 0,0:21:39.56,0:21:40.23,Default,,0,0,0,,Listen
@@ -255,17 +255,17 @@ Dialogue: 0,0:22:18.00,0:22:20.67,Default,,0,0,0,,attain sainthood and salvation
 Dialogue: 0,0:22:21.60,0:22:22.27,Default,,0,0,0,,And avoid
 Dialogue: 0,0:22:23.08,0:22:25.11,Default,,0,0,0,,the end of days.
 Dialogue: 0,0:22:25.28,0:22:26.11,Default,,0,0,0,,{\i}Sleep Demon.
-Dialogue: 0,0:22:33.48,0:22:34.11,Default,,0,0,0,,{\i1}Pleasure!
+Dialogue: 0,0:22:33.48,0:22:34.11,Default,,0,0,0,,[In Hermes]\N{\i1}Pleasure!
 Dialogue: 0,0:22:52.87,0:22:53.91,Default,,0,0,0,,Captain.
 Dialogue: 0,0:23:05.39,0:23:06.39,Default,,0,0,0,,Very good.
 Dialogue: 0,0:23:07.44,0:23:08.87,Default,,0,0,0,,The last remaining insect
 Dialogue: 0,0:23:09.00,0:23:10.79,Default,,0,0,0,,has finally shown up.
 Dialogue: 0,0:23:11.91,0:23:13.55,Default,,0,0,0,,You can go die together!
-Dialogue: 0,0:23:17.84,0:23:19.07,Default,,0,0,0,,{\i1}Hidden Form.
-Dialogue: 0,0:23:23.76,0:23:24.47,Default,,0,0,0,,{\i1}Illusion.
-Dialogue: 0,0:23:39.96,0:23:40.99,Default,,0,0,0,,{\i1}Blood Curse.
+Dialogue: 0,0:23:17.84,0:23:19.07,Default,,0,0,0,,[In Hermes]\N{\i1}Hidden Form.
+Dialogue: 0,0:23:23.76,0:23:24.47,Default,,0,0,0,,[In Hermes]\N{\i1}Illusion.
+Dialogue: 0,0:23:39.96,0:23:40.99,Default,,0,0,0,,[In Hermes]\N{\i1}Blood Curse.
 Dialogue: 0,0:23:46.36,0:23:47.19,Default,,0,0,0,,{\i1}Evernight
-Dialogue: 0,0:23:47.44,0:23:48.39,Default,,0,0,0,,{\i1}Purification!
+Dialogue: 0,0:23:47.44,0:23:48.39,Default,,0,0,0,,[In Hermes]\N{\i1}Purification!
 Dialogue: 0,0:24:01.87,0:24:02.55,Default,,0,0,0,,Too fast!
 Dialogue: 0,0:24:03.36,0:24:04.31,Default,,0,0,0,,It's impossible to lock on.
 Dialogue: 0,0:24:06.08,0:24:07.47,Default,,0,0,0,,I need to foresee her movements.

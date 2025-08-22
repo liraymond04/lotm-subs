@@ -304,8 +304,8 @@
       <tuv lang="zh-CN">
         <seg>冰霜</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T093403Z" creationid="liray" creationdate="20250822T093403Z">
-        <seg>{\i1}Icy Frost!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104614Z" creationid="liray" creationdate="20250822T093403Z">
+        <seg>[In Hermes]\N{\i1}Icy Frost!</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="zh-CN">
         <seg>净化</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T101526Z" creationid="liray" creationdate="20250822T101526Z">
-        <seg>{\i1}Purification!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104627Z" creationid="liray" creationdate="20250822T101526Z">
+        <seg>[In Hermes]\N{\i1}Purification!</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="zh-CN">
         <seg>封印</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T084242Z" creationid="liray" creationdate="20250822T084242Z">
-        <seg>{\i1}Seal!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104546Z" creationid="liray" creationdate="20250822T084242Z">
+        <seg>[In Hermes]\N{\i1}Seal!</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="zh-CN">
         <seg>幻现</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T101204Z" creationid="liray" creationdate="20250822T101204Z">
-        <seg>{\i1}Illusion.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104620Z" creationid="liray" creationdate="20250822T101204Z">
+        <seg>[In Hermes]\N{\i1}Illusion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1256,8 +1256,8 @@
       <tuv lang="zh-CN">
         <seg>欢愉</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T092513Z" creationid="liray" creationdate="20250822T092513Z">
-        <seg>{\i1}Pleasure!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104611Z" creationid="liray" creationdate="20250822T092513Z">
+        <seg>[In Hermes]\N{\i1}Pleasure!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="zh-CN">
         <seg>沉眠</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T091643Z" creationid="liray" creationdate="20250822T091632Z">
-        <seg>{\i1}Slumber!</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104608Z" creationid="liray" creationdate="20250822T091632Z">
+        <seg>[In Hermes]\N{\i1}Slumber!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,8 +1568,8 @@
       <tuv lang="zh-CN">
         <seg>藏形</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T100943Z" creationid="liray" creationdate="20250822T100943Z">
-        <seg>{\i1}Hidden Form.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104617Z" creationid="liray" creationdate="20250822T100943Z">
+        <seg>[In Hermes]\N{\i1}Hidden Form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="zh-CN">
         <seg>血咒</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T101402Z" creationid="liray" creationdate="20250822T101402Z">
-        <seg>{\i1}Blood Curse.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104624Z" creationid="liray" creationdate="20250822T101402Z">
+        <seg>[In Hermes]\N{\i1}Blood Curse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,16 +1992,16 @@
       <tuv lang="zh-CN">
         <seg>黑夜</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T101504Z" creationid="liray" creationdate="20250822T091525Z">
-        <seg>{\i1}Evernight</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104603Z" creationid="liray" creationdate="20250822T091525Z">
+        <seg>[In Hermes]\N{\i1}Evernight</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>黑焰</seg>
       </tuv>
-      <tuv lang="en-US" changeid="liray" changedate="20250822T085042Z" creationid="liray" creationdate="20250822T085042Z">
-        <seg>{\i1}Black Flame.</seg>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T104559Z" creationid="liray" creationdate="20250822T085042Z">
+        <seg>[In Hermes]\N{\i1}Black Flame.</seg>
       </tuv>
     </tu>
     <tu>
