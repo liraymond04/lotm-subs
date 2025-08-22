@@ -1,0 +1,2105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_645c99538" segtype="sentence" srclang="zh-CN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>3-0217</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T081648Z" creationid="liray" creationdate="20250822T081648Z">
+        <seg>3-0217.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>3-0217不能对着自己和队友</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083640Z" creationid="liray" creationdate="20250822T083313Z">
+        <seg>3-0217 cannot aimed at yourself or your teammates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一切都是假象</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085547Z" creationid="liray" creationdate="20250822T085547Z">
+        <seg>It's all an illusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一条改革与振兴之路</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T162827Z" creationid="liray" creationdate="20250821T162827Z">
+        <seg>A road to reform and revitalization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一起去死吧 一走</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100910Z" creationid="liray" creationdate="20250822T100751Z">
+        <seg>You can go die together!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>下午耍小花招</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T090359Z" creationid="liray" creationdate="20250822T090350Z">
+        <seg>Playing little tricks this afternoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不像我认识的任何一种药粉</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170419Z" creationid="liray" creationdate="20250821T170419Z">
+        <seg>is unlike any powder I recognize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不再有危险和疯狂</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103310Z" creationid="liray" creationdate="20250822T103310Z">
+        <seg>no longer harbor any danger or madness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不出两日</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T040830Z" creationid="liray" creationdate="20250822T040609Z">
+        <seg>In less than two days,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不对</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T063723Z" creationid="liray" creationdate="20250822T063723Z">
+        <seg>That's not right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不属于这个时代的愚者</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073214Z" creationid="liray" creationdate="20250822T073136Z">
+        <seg>[In Hermes]\N{\i1}The Fool that doesn’t belong to this era,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不幸死于心疾</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T031854Z" creationid="liray" creationdate="20250821T031735Z">
+        <seg>sadly passed away due to heart disease.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不能直视</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082707Z" creationid="liray" creationdate="20250822T082707Z">
+        <seg>Do not look directly at it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不自量力的虫子</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T092417Z" creationid="liray" creationdate="20250822T092411Z">
+        <seg>Insect that overestimates his capabilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不要</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085951Z" creationid="liray" creationdate="20250822T085951Z">
+        <seg>No!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不要随意更改召唤物的具体描述</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072205Z" creationid="liray" creationdate="20250822T072205Z">
+        <seg>don't change the actual description of the summoning object,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不需要通过神灵</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T071412Z" creationid="liray" creationdate="20250822T071328Z">
+        <seg>No need to go through a god.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>与暴行</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163318Z" creationid="liray" creationdate="20250821T163258Z">
+        <seg>and savagery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>严惩凶手</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T214144Z" creationid="liray" creationdate="20250820T214144Z">
+        <seg>Punish the murderer!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>丧钟</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093857Z" creationid="liray" creationdate="20250822T093857Z">
+        <seg>Your death knell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>也受到魔药的影响了吧</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T064643Z" creationid="liray" creationdate="20250822T064643Z">
+        <seg>Did she also receive the effects of the potion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>也没有人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T010940Z" creationid="liray" creationdate="20250822T010921Z">
+        <seg>Yet no one</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>也能让她们化为尘埃</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083157Z" creationid="liray" creationdate="20250822T083132Z">
+        <seg>it can turn them to dust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>人们对前路茫然</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032520Z" creationid="liray" creationdate="20250821T032327Z">
+        <seg>People are unsure of what lies ahead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>人类通过服食魔药</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211516Z" creationid="liray" creationdate="20250820T211516Z">
+        <seg>Humanity through consuming potions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>从序列九开始</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211548Z" creationid="liray" creationdate="20250820T211548Z">
+        <seg>start from Sequence 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>任何造谣</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T031913Z" creationid="liray" creationdate="20250821T031913Z">
+        <seg>Any rumors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>任我摆弄的愧儡</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T040358Z" creationid="liray" creationdate="20250822T035846Z">
+        <seg>dancing on my strings atop the altar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>会影响我对王国的渗透</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041501Z" creationid="liray" creationdate="20250822T041101Z">
+        <seg>will disrupt my infiltration of the kingdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>似乎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T075229Z" creationid="liray" creationdate="20250822T075229Z">
+        <seg>It seems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但梅纳德这种意外</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041030Z" creationid="liray" creationdate="20250822T041030Z">
+        <seg>But an accident like Maynard's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>何必呢</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093445Z" creationid="liray" creationdate="20250822T093445Z">
+        <seg>Why bother?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T091151Z" creationid="liray" creationdate="20250822T090936Z">
+        <seg>You...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你们抓紧时间</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083821Z" creationid="liray" creationdate="20250822T083821Z">
+        <seg>You two make haste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你们这是公然违背权利与自由约章</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T035056Z" creationid="liray" creationdate="20250821T034521Z">
+        <seg>You are flagrantly violating the Charter of Rights and Freedoms!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你进行得很顺利</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174901Z" creationid="liray" creationdate="20250821T174847Z">
+        <seg>you are advancing very smoothly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>做得很好</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164612Z" creationid="liray" creationdate="20250821T164612Z">
+        <seg>Very well done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>冰霜</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093403Z" creationid="liray" creationdate="20250822T093403Z">
+        <seg>{\i1}Icy Frost!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>冲破桔</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164442Z" creationid="liray" creationdate="20250821T163933Z">
+        <seg>Break through our shackles,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>净化</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101526Z" creationid="liray" creationdate="20250822T101526Z">
+        <seg>{\i1}Purification!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>切记</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083359Z" creationid="liray" creationdate="20250822T083237Z">
+        <seg>Remember,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即使是碎片</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083046Z" creationid="liray" creationdate="20250822T083046Z">
+        <seg>Even as fragments,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>即将回归它该有的秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094222Z" creationid="liray" creationdate="20250822T094222Z">
+        <seg>will soon return to its rightful order!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>压抑</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174631Z" creationid="liray" creationdate="20250821T174631Z">
+        <seg>Oppression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>原本属于一位通灵者</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082455Z" creationid="liray" creationdate="20250822T082455Z">
+        <seg>It originally belonged to a Spirit Medium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>原来你在这里</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T064849Z" creationid="liray" creationdate="20250822T064849Z">
+        <seg>So you were here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>去死吧</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085922Z" creationid="liray" creationdate="20250822T085922Z">
+        <seg>Go to hell!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>又是原初魔女</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T080801Z" creationid="liray" creationdate="20250822T080801Z">
+        <seg>The Primordial Demoness again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>又是镜子替身</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T091811Z" creationid="liray" creationdate="20250822T091811Z">
+        <seg>Mirror Substitution again!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>反对新政</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T162836Z" creationid="liray" creationdate="20250821T162836Z">
+        <seg>Oppose the new policies!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>只有跟随我</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094809Z" creationid="liray" creationdate="20250822T094638Z">
+        <seg>only by following me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>叫上科恩黎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T081215Z" creationid="liray" creationdate="20250822T081203Z">
+        <seg>Call Kenley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>召唤信使的仪式魔法</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T070620Z" creationid="liray" creationdate="20250822T070620Z">
+        <seg>The ritualistic magic for summoning a messenger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>召唤失败了吗</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073325Z" creationid="liray" creationdate="20250822T073325Z">
+        <seg>Did the summoning fail?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>召唤我自己的话</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073954Z" creationid="liray" creationdate="20250822T073946Z">
+        <seg>If I were to summon myself,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>召唤物的具体描述</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072035Z" creationid="liray" creationdate="20250822T072035Z">
+        <seg>the exact description of the summoning object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>可以拥有比肩神明的力量</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211620Z" creationid="liray" creationdate="20250820T211620Z">
+        <seg>can possess power comparable to gods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>可能是小丑的灵性感知比较强</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T080539Z" creationid="liray" creationdate="20250822T080539Z">
+        <seg>It's possible a Clown's spiritual perception is relatively strong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>向原初</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095055Z" creationid="liray" creationdate="20250822T094600Z">
+        <seg>To the Primordial,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>听听</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093724Z" creationid="liray" creationdate="20250822T093614Z">
+        <seg>Listen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>听说可以熬制出让男人和女人都满意的药剂</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171006Z" creationid="liray" creationdate="20250821T170724Z">
+        <seg>I heard it can be brewed into a drug that satisfies both men and women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>圣女大人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174450Z" creationid="liray" creationdate="20250821T174450Z">
+        <seg>Your Excellency, Saintess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>太快了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101618Z" creationid="liray" creationdate="20250822T101618Z">
+        <seg>Too fast!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>失效了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171744Z" creationid="liray" creationdate="20250821T171648Z">
+        <seg>It’s been nullified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>夹层</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T063545Z" creationid="liray" creationdate="20250822T063545Z">
+        <seg>An intermediate layer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>女士们先生们</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T212600Z" creationid="liray" creationdate="20250820T212600Z">
+        <seg>Ladies and gentlemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她不会和教唆者特里斯一样</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T064453Z" creationid="liray" creationdate="20250822T064453Z">
+        <seg>Could she be the same as Instigator Tris?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她为什么会来这附近</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T172338Z" creationid="liray" creationdate="20250821T172338Z">
+        <seg>Why would she come around here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她早已脱离了梦境</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103129Z" creationid="liray" creationdate="20250822T103007Z">
+        <seg>her to have long escaped the dream.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她没有被梦魔控制</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085448Z" creationid="liray" creationdate="20250822T085448Z">
+        <seg>She's not under the control of Nightmare!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果你做不到对欢愉的控制</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041710Z" creationid="liray" creationdate="20250822T041709Z">
+        <seg>If you cannot exercise control over your pleasures,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>完成生命层次的晋升</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211534Z" creationid="liray" creationdate="20250820T211534Z">
+        <seg>completing their promotion to life's natural order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>宣誓你的忠诚</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094620Z" creationid="liray" creationdate="20250822T094608Z">
+        <seg>swear your loyalty!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对未来失去信心</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032717Z" creationid="liray" creationdate="20250821T032645Z">
+        <seg>They have lost faith in the future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对魔女的伤害有加成</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082940Z" creationid="liray" creationdate="20250822T082923Z">
+        <seg>It deals bonus damage to the Witch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>封印</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T084242Z" creationid="liray" creationdate="20250822T084242Z">
+        <seg>{\i1}Seal!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>将团结新党与保守党</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T033300Z" creationid="liray" creationdate="20250821T032904Z">
+        <seg>that I shall unite the New Party and the Conservative Party</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>尝过一次蚀骨的欢愉</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041612Z" creationid="liray" creationdate="20250822T021705Z">
+        <seg>Once you've tasted that all-consuming pleasure,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就再也无法逃离</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T022352Z" creationid="liray" creationdate="20250822T022308Z">
+        <seg>there's no escaping it again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就别怪我会再次把你收入裙摆之下</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041856Z" creationid="liray" creationdate="20250822T041810Z">
+        <seg>then don't blame me for taking you in under my skirt another time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就让这秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094256Z" creationid="liray" creationdate="20250822T094256Z">
+        <seg>Let this order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>居然惊动了她</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165028Z" creationid="liray" creationdate="20250821T165028Z">
+        <seg>would stir her to action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>居然能瞒过我</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T091036Z" creationid="liray" creationdate="20250822T090922Z">
+        <seg>So you were able to stay concealed from me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>属于廷根</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164542Z" creationid="liray" creationdate="20250821T164542Z">
+        <seg>belongs to Tingen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>已前往风暴的海洋</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T213740Z" creationid="liray" creationdate="20250820T213740Z">
+        <seg>and has passed on to the Berserk Sea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>已经敲响</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094015Z" creationid="liray" creationdate="20250822T093903Z">
+        <seg>has already tolled!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>市议会的核心都是些男人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T010803Z" creationid="liray" creationdate="20250822T010422Z">
+        <seg>The core of city council is just some men.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>希望队长那边一切顺利</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165412Z" creationid="liray" creationdate="20250821T165322Z">
+        <seg>I hope everything goes smoothly on the Captain's side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>年轻的值夜者</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094351Z" creationid="liray" creationdate="20250822T094351Z">
+        <seg>Young Nighthawk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>幻现</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101204Z" creationid="liray" creationdate="20250822T101204Z">
+        <seg>{\i1}Illusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>序列数字越低</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211554Z" creationid="liray" creationdate="20250820T211554Z">
+        <seg>The lower the Sequence number,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>应该还需要我去灰雾之上回应一下祈求</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T074236Z" creationid="liray" creationdate="20250822T074133Z">
+        <seg>I should also need to respond to the prayer from above the gray fog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>廷根新党前党首梅纳德先生</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T212711Z" creationid="liray" creationdate="20250820T212711Z">
+        <seg>former head of the Tingen New Party, Mr. John Maynard,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>建立自由</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163518Z" creationid="liray" creationdate="20250821T163457Z">
+        <seg>Establishing a free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>异端</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085936Z" creationid="liray" creationdate="20250822T085936Z">
+        <seg>Heretic!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>强行推行</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T034426Z" creationid="liray" creationdate="20250821T034056Z">
+        <seg>This is being forced through!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很好</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100430Z" creationid="liray" creationdate="20250822T100430Z">
+        <seg>Very good.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>徒劳的挣扎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093547Z" creationid="liray" creationdate="20250822T093547Z">
+        <seg>A futile struggle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>必须用更隐蔽的方式</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T070208Z" creationid="liray" creationdate="20250822T070208Z">
+        <seg>I need to use a more covert method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>必须要预判她的行动</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101951Z" creationid="liray" creationdate="20250822T101951Z">
+        <seg>I need to foresee her movements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>愿女神庇佑你</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103210Z" creationid="liray" creationdate="20250822T103210Z">
+        <seg>May the Goddess bless you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>愿宁静的黑夜内</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103301Z" creationid="liray" creationdate="20250822T103301Z">
+        <seg>May the serene night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>成为祭台上</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T035932Z" creationid="liray" creationdate="20250822T035839Z">
+        <seg>You become a shameful puppet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072957Z" creationid="liray" creationdate="20250822T072608Z">
+        <seg>[In Ancient Hermes]\N{\i1}I!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我不想再看见</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041522Z" creationid="liray" creationdate="20250822T041522Z">
+        <seg>I don't want to see it again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我以我的名义召唤</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073019Z" creationid="liray" creationdate="20250822T072630Z">
+        <seg>[In Hermes]\N{\i1}I summon in my name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我们都知道</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032059Z" creationid="liray" creationdate="20250821T032059Z">
+        <seg>We all know that</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我会远距离拖她入梦</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T083701Z" creationid="liray" creationdate="20250822T083701Z">
+        <seg>I'll drag her into a dream from a distance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我喜欢这诱人的气息</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174717Z" creationid="liray" creationdate="20250821T174616Z">
+        <seg>I like this captivating atmosphere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我在此承诺</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032954Z" creationid="liray" creationdate="20250821T032756Z">
+        <seg>I hereby pledge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我将引领廷根</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T162111Z" creationid="liray" creationdate="20250821T162111Z">
+        <seg>I will lead Tingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我将推动建立新的秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T162941Z" creationid="liray" creationdate="20250821T162923Z">
+        <seg>I will push to establish a new order,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我就能将整座廷根</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T040737Z" creationid="liray" creationdate="20250822T040737Z">
+        <seg>I can present the whole of Tingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我很欣赏你</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041008Z" creationid="liray" creationdate="20250822T041008Z">
+        <seg>I really admire you,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我感到深深的遗憾</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T213934Z" creationid="liray" creationdate="20250820T213803Z">
+        <seg>I am filled with deep regret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我现在应该只能沉睡着</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085739Z" creationid="liray" creationdate="20250822T085736Z">
+        <seg>I would be deep asleep now,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我的大人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T040757Z" creationid="liray" creationdate="20250822T040757Z">
+        <seg>my Excellency.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我的小可爱</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T064705Z" creationid="liray" creationdate="20250822T064705Z">
+        <seg>My little cutie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我看到了原初魔女的雕像</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T080644Z" creationid="liray" creationdate="20250822T080644Z">
+        <seg>I saw the statue of the Primordial Demoness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我要申请克制魔女的封印物</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T081642Z" creationid="liray" creationdate="20250822T081520Z">
+        <seg>I want to request a Sealed Artifact to restrain the Witch,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以相当隐蔽</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T071643Z" creationid="liray" creationdate="20250822T071356Z">
+        <seg>Therefore, it's quite secretive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>才序列八</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T090758Z" creationid="liray" creationdate="20250822T090758Z">
+        <seg>Only Sequence 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>才能得到圣化与救赎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095543Z" creationid="liray" creationdate="20250822T095155Z">
+        <seg>attain sainthood and salvation!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>执掌好运的黄黑之王</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073249Z" creationid="liray" creationdate="20250822T073249Z">
+        <seg>[In Hermes]\N{\i1}the King of Yellow and Black who wields good luck.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>掌握不同的非凡能力</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211521Z" creationid="liray" creationdate="20250820T211521Z">
+        <seg>harnessed various Beyonder abilities,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>推行新政</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T033950Z" creationid="liray" creationdate="20250821T033752Z">
+        <seg>and implement the new policies!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>搜查一切非凡线索</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165638Z" creationid="liray" creationdate="20250821T165456Z">
+        <seg>Search for any trace of Beyonders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>收到</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170151Z" creationid="liray" creationdate="20250821T170035Z">
+        <seg>Copy that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>新政决议案没有获得绝对多数通过</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T034022Z" creationid="liray" creationdate="20250821T034022Z">
+        <seg>The resolution on the new policies did not pass by an absolute majority!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>无法毁掉</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T092608Z" creationid="liray" creationdate="20250822T092608Z">
+        <seg>It cannot be destroyed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>旧秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164452Z" creationid="liray" creationdate="20250821T163940Z">
+        <seg>the old order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>明白</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170045Z" creationid="liray" creationdate="20250821T170045Z">
+        <seg>Understood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>昨天</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T212631Z" creationid="liray" creationdate="20250820T212631Z">
+        <seg>Yesterday,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是你吗</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T090353Z" creationid="liray" creationdate="20250822T090159Z">
+        <seg>Was it you?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是向自己祈求</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T071122Z" creationid="liray" creationdate="20250822T070626Z">
+        <seg>is to pray to yourself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是我</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102848Z" creationid="liray" creationdate="20250822T102834Z">
+        <seg>I...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是木乃伊粉</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170444Z" creationid="liray" creationdate="20250821T170444Z">
+        <seg>It's mummy powder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是的队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T080143Z" creationid="liray" creationdate="20250822T080143Z">
+        <seg>Yes, Captain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是魔女的绝妙配方</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174822Z" creationid="liray" creationdate="20250821T174755Z">
+        <seg>Are all an exquisite recipe for a witch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>暴乱</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032153Z" creationid="liray" creationdate="20250821T032140Z">
+        <seg>unrest,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>最后一只虫子</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100701Z" creationid="liray" creationdate="20250822T100600Z">
+        <seg>The last remaining insect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>最终的末日</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095601Z" creationid="liray" creationdate="20250822T095601Z">
+        <seg>the end of days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>有发现</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170317Z" creationid="liray" creationdate="20250821T170257Z">
+        <seg>I've discovered something.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>有种熟悉的气息</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T090148Z" creationid="liray" creationdate="20250822T090105Z">
+        <seg>There's a familiar presence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>木</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171140Z" creationid="liray" creationdate="20250821T171140Z">
+        <seg>M―—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>木乃伊还有这功能</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171216Z" creationid="liray" creationdate="20250821T171216Z">
+        <seg>Mummy powder has that kind of use?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>未来</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164536Z" creationid="liray" creationdate="20250821T164536Z">
+        <seg>The future</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>机会</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102316Z" creationid="liray" creationdate="20250822T102316Z">
+        <seg>A chance!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>来吧</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094333Z" creationid="liray" creationdate="20250822T094333Z">
+        <seg>Come!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>果然</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T075523Z" creationid="liray" creationdate="20250822T075523Z">
+        <seg>As expected,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>查尼斯门后的封印之力</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082313Z" creationid="liray" creationdate="20250822T082313Z">
+        <seg>the power of the seal behind Chanis Gate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>根本无法锁定</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101722Z" creationid="liray" creationdate="20250822T101722Z">
+        <seg>It's impossible to lock on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>梅纳德先生</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T214513Z" creationid="liray" creationdate="20250820T214513Z">
+        <seg>Mr. Maynard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>梦魔控制增强了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T084113Z" creationid="liray" creationdate="20250822T084017Z">
+        <seg>Nightmare's control has strengthened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>楼下的善后工作我处理完</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103704Z" creationid="liray" creationdate="20250822T103619Z">
+        <seg>I’ve finished handling the aftermath downstairs―—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>欢乐的廷根</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163527Z" creationid="liray" creationdate="20250821T163527Z">
+        <seg>and joyful Tingen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>欢愉</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T092513Z" creationid="liray" creationdate="20250822T092513Z">
+        <seg>{\i1}Pleasure!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>正腐蚀着廷根</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032219Z" creationid="liray" creationdate="20250821T032219Z">
+        <seg>are all corroding Tingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>此进化路径称为</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211629Z" creationid="liray" creationdate="20250820T211629Z">
+        <seg>This path of evolution is called</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>比我们更懂女人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T011003Z" creationid="liray" creationdate="20250822T010927Z">
+        <seg>also understands women more than us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>比我们更懂男人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T010855Z" creationid="liray" creationdate="20250822T010855Z">
+        <seg>understands men more than us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>沉眠</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T091643Z" creationid="liray" creationdate="20250822T091632Z">
+        <seg>{\i1}Slumber!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没事了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102444Z" creationid="liray" creationdate="20250822T102444Z">
+        <seg>It's okay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没想到</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102954Z" creationid="liray" creationdate="20250822T102954Z">
+        <seg>I didn’t expect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没想到梅纳德的意外身死</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165108Z" creationid="liray" creationdate="20250821T164920Z">
+        <seg>I did not expect that Maynard's unexpected death</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没有人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T010842Z" creationid="liray" creationdate="20250822T010842Z">
+        <seg>No one</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>注意隐秘行事</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165912Z" creationid="liray" creationdate="20250821T165912Z">
+        <seg>Take care to be discreet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>潜入我家的小老鼠</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T090425Z" creationid="liray" creationdate="20250822T090425Z">
+        <seg>The little mouse sneaking into my house.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>灰雾之上的神秘主宰</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T073230Z" creationid="liray" creationdate="20250822T073230Z">
+        <seg>[In Hermes]\N{\i1}the mysterious ruler above the gray fog;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>特里斯</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170204Z" creationid="liray" creationdate="20250821T170204Z">
+        <seg>Tris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>犯了错</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102844Z" creationid="liray" creationdate="20250822T102844Z">
+        <seg>made a mistake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>献给您</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T040742Z" creationid="liray" creationdate="20250822T040742Z">
+        <seg>to you,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>申请文件</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082100Z" creationid="liray" creationdate="20250822T081823Z">
+        <seg>Application form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>疾病</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032131Z" creationid="liray" creationdate="20250821T032106Z">
+        <seg>disease,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>痛苦</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174635Z" creationid="liray" creationdate="20250821T174635Z">
+        <seg>Suffering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>皆成过往</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164456Z" creationid="liray" creationdate="20250821T164456Z">
+        <seg>will be consigned to the past!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>直行</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171438Z" creationid="liray" creationdate="20250821T171438Z">
+        <seg>Straight forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>看来</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174830Z" creationid="liray" creationdate="20250821T174830Z">
+        <seg>It seems that</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>看起来没有什么异常</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T063111Z" creationid="liray" creationdate="20250822T063111Z">
+        <seg>Looks like nothing's out of the ordinary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>真把我自己给召唤出来了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T074957Z" creationid="liray" creationdate="20250822T074643Z">
+        <seg>I really summoned myself!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>睡魔</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100317Z" creationid="liray" creationdate="20250822T095730Z">
+        <seg>{\i}Sleep Demon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>祈求的重点是</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072019Z" creationid="liray" creationdate="20250822T071953Z">
+        <seg>The important part to the prayer is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>神之途径</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211634Z" creationid="liray" creationdate="20250820T211634Z">
+        <seg>the Path of the Divine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>秉承梅纳德先生遗志</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T033622Z" creationid="liray" creationdate="20250821T033454Z">
+        <seg>in accordance with the late Mr. Maynard's wishes,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>科恩黎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085410Z" creationid="liray" creationdate="20250822T085410Z">
+        <seg>Kenley!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>突遭不测</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T213152Z" creationid="liray" creationdate="20250820T213148Z">
+        <seg>met with an untimely death,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>等待你们吻醒</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085757Z" creationid="liray" creationdate="20250822T085757Z">
+        <seg>waiting for you to wake me up with a kiss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>细细教导</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T042106Z" creationid="liray" creationdate="20250822T042106Z">
+        <seg>I will instruct you thoroughly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>终于出现了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100715Z" creationid="liray" creationdate="20250822T100715Z">
+        <seg>has finally shown up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>绝望</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174653Z" creationid="liray" creationdate="20250821T174653Z">
+        <seg>Despair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>绞死她</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T214430Z" creationid="liray" creationdate="20250820T214430Z">
+        <seg>Hang her!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>绞死那个女人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T214424Z" creationid="liray" creationdate="20250820T214424Z">
+        <seg>Hang that woman!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>罪恶</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163248Z" creationid="liray" creationdate="20250821T163248Z">
+        <seg>Crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>肃静</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T212531Z" creationid="liray" creationdate="20250820T212531Z">
+        <seg>Order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>自廷根开始</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094315Z" creationid="liray" creationdate="20250822T094315Z">
+        <seg>start from Tingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>藏形</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100943Z" creationid="liray" creationdate="20250822T100943Z">
+        <seg>{\i1}Hidden Form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>藏着什么秘密</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T091157Z" creationid="liray" creationdate="20250822T091157Z">
+        <seg>what secrets are you hiding?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>血咒</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101402Z" creationid="liray" creationdate="20250822T101402Z">
+        <seg>{\i1}Blood Curse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>被雪伦蒙蔽了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T102941Z" creationid="liray" creationdate="20250822T102941Z">
+        <seg>I was fooled by Madam Sharon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要不是神像刚巧在我身边</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085721Z" creationid="liray" creationdate="20250822T085721Z">
+        <seg>If it wasn’t for the fact that the statue happened to be beside me,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>让你得到真正的安眠</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103223Z" creationid="liray" creationdate="20250822T103223Z">
+        <seg>May you find true peace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>让我们远离混乱</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163129Z" creationid="liray" creationdate="20250821T163129Z">
+        <seg>and let us escape this chaos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>记住</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072119Z" creationid="liray" creationdate="20250822T072119Z">
+        <seg>Remember,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>记得戴刺女士说过</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T070526Z" creationid="liray" creationdate="20250822T070323Z">
+        <seg>I remember Madam Daly said before,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>说出你的秘密</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094416Z" creationid="liray" creationdate="20250822T094416Z">
+        <seg>Speak your secrets!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>谁不想一夜荡魄销魂</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T011340Z" creationid="liray" creationdate="20250822T011307Z">
+        <seg>Who wouldn't want to wash away their soul in ecstasy for one night?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>贪婪好色的虫</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T011455Z" creationid="liray" creationdate="20250822T011125Z">
+        <seg>Insatiable, lecherous insects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>贫困</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T163244Z" creationid="liray" creationdate="20250821T163244Z">
+        <seg>Poverty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>贫穷</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032133Z" creationid="liray" creationdate="20250821T032114Z">
+        <seg>poverty,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>贵族圈里的新流行</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170806Z" creationid="liray" creationdate="20250821T170606Z">
+        <seg>The latest craze in aristocratic circles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>走上一条光明与希望之路</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T162802Z" creationid="liray" creationdate="20250821T162159Z">
+        <seg>down a road of light and hope.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>跟上前面的车</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T165245Z" creationid="liray" creationdate="20250821T165219Z">
+        <seg>Follow that carriage up ahead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>跟丢了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T171335Z" creationid="liray" creationdate="20250821T171335Z">
+        <seg>Lost them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>躲过</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095324Z" creationid="liray" creationdate="20250822T095324Z">
+        <seg>And avoid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>还合了些灰雾的力量</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T075211Z" creationid="liray" creationdate="20250822T075201Z">
+        <seg>It also has some powers of the gray fog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>还带了点阳炎符咒的力量</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T075257Z" creationid="liray" creationdate="20250822T075257Z">
+        <seg>it also brought some powers of the Flaring Sun Charms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这么顺利</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T084352Z" creationid="liray" creationdate="20250822T084313Z">
+        <seg>It went so smoothly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这二十二条进阶之路</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211541Z" creationid="liray" creationdate="20250820T211541Z">
+        <seg>These twenty-two paths of advancement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这人似乎和雪伦夫人长得有点像</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T064257Z" creationid="liray" creationdate="20250822T064257Z">
+        <seg>This person seems to look a bit like Madam Sharon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这就是</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082121Z" creationid="liray" creationdate="20250822T082121Z">
+        <seg>This is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是给你的奖赏</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164746Z" creationid="liray" creationdate="20250821T164745Z">
+        <seg>This is a reward for you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这片大陆</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T094151Z" creationid="liray" creationdate="20250822T094058Z">
+        <seg>This continent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这罐粉末</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170354Z" creationid="liray" creationdate="20250821T170347Z">
+        <seg>This can of powder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这美妙的声音</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T093714Z" creationid="liray" creationdate="20250822T093714Z">
+        <seg>to this wonderful sound!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这里是</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T172052Z" creationid="liray" creationdate="20250821T172052Z">
+        <seg>This place is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>进来</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082116Z" creationid="liray" creationdate="20250822T082116Z">
+        <seg>Come in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>送我去一个地方</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164829Z" creationid="liray" creationdate="20250821T164829Z">
+        <seg>Send me somewhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>通灵者的镜子</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T082407Z" creationid="liray" creationdate="20250822T082407Z">
+        <seg>Spirit Medium’s Mirror.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>通知弗莱替我值守查尼斯门</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T081538Z" creationid="liray" creationdate="20250822T081011Z">
+        <seg>Notify Frye to guard Chanis Gate for me.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>逮捕雪伦·霍伊</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T214401Z" creationid="liray" creationdate="20250820T214401Z">
+        <seg>Arrest Sharon Khoy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那个神像</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T092908Z" creationid="liray" creationdate="20250822T092640Z">
+        <seg>That statue!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那样很容易引来可怕的怪物</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T072228Z" creationid="liray" creationdate="20250822T072228Z">
+        <seg>or the ritual could easily attract a terrifying monster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>都是对逝者的侮辱</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032036Z" creationid="liray" creationdate="20250821T031923Z">
+        <seg>are an insult to the deceased.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170138Z" creationid="liray" creationdate="20250821T170138Z">
+        <seg>Yes, Captain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>队长他们已经搜查过</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T063147Z" creationid="liray" creationdate="20250822T063135Z">
+        <seg>The Captain and the others have already searched it before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阳光不会灼伤灵体了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T075759Z" creationid="liray" creationdate="20250822T075545Z">
+        <seg>the sun won't burn my Spirit Body!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>雪伦</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T041011Z" creationid="liray" creationdate="20250822T041011Z">
+        <seg>Sharon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>雪伦夫人以前的恋人</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T063719Z" creationid="liray" creationdate="20250822T063641Z">
+        <seg>Madam Sharon's past lover!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>雪伦夫人施加了干扰</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T172039Z" creationid="liray" creationdate="20250821T171857Z">
+        <seg>Madam Sharon applied interference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>雪伦夫人能发现我的跟踪</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T070244Z" creationid="liray" creationdate="20250822T065856Z">
+        <seg>Madam Sharon can detect my tailing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>非凡世界</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211505Z" creationid="liray" creationdate="20250820T211505Z">
+        <seg>The world of Beyonders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>非凡能力越强</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211600Z" creationid="liray" creationdate="20250820T211600Z">
+        <seg>the greater the Beyonder abilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>靠拢原初</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095525Z" creationid="liray" creationdate="20250822T095053Z">
+        <seg>and advancing towards the Primordial,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>饥荒</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T032158Z" creationid="liray" creationdate="20250821T032158Z">
+        <seg>famine,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>高序列强者</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T211614Z" creationid="liray" creationdate="20250820T211614Z">
+        <seg>High-Sequence Beyonders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>魔女教派</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T080138Z" creationid="liray" creationdate="20250822T080138Z">
+        <seg>Demoness Sect?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>魔杖替身</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085255Z" creationid="liray" creationdate="20250822T085255Z">
+        <seg>Mirror Substitution!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麻木</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T174624Z" creationid="liray" creationdate="20250821T174624Z">
+        <seg>Apathy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑夜</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101504Z" creationid="liray" creationdate="20250822T091525Z">
+        <seg>{\i1}Evernight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑焰</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T085042Z" creationid="liray" creationdate="20250822T085042Z">
+        <seg>{\i1}Black Flame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑荆棘</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T172114Z" creationid="liray" creationdate="20250821T172112Z">
+        <seg>Blackthorn.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">靠拢原初</prop>
+      <prop type="next">才能得到圣化与救赎</prop>
+      <tuv lang="zh-CN">
+        <seg>你</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T095127Z" creationid="liray" creationdate="20250822T095127Z">
+        <seg>can you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">属于廷根</prop>
+      <prop type="next">皆成过往</prop>
+      <tuv lang="zh-CN">
+        <seg>旧秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164556Z" creationid="liray" creationdate="20250821T164556Z">
+        <seg>The old order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">皆成过往</prop>
+      <prop type="next">皆成过往</prop>
+      <tuv lang="zh-CN">
+        <seg>旧秩序</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T164519Z" creationid="liray" creationdate="20250821T164519Z">
+        <seg>The old order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">肃静</prop>
+      <prop type="next">女士们先生们</prop>
+      <tuv lang="zh-CN">
+        <seg>肃静</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250820T212540Z" creationid="liray" creationdate="20250820T212540Z">
+        <seg>Order!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">不再有危险和疯狂</prop>
+      <prop type="next">楼下的善后工作我处理完</prop>
+      <tuv lang="zh-CN">
+        <seg>队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T103340Z" creationid="liray" creationdate="20250822T103340Z">
+        <seg>Captain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">欢愉</prop>
+      <prop type="next">很好</prop>
+      <tuv lang="zh-CN">
+        <seg>队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T100426Z" creationid="liray" creationdate="20250822T100426Z">
+        <seg>Captain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">特里斯</prop>
+      <prop type="next">有发现</prop>
+      <tuv lang="zh-CN">
+        <seg>队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250821T170246Z" creationid="liray" creationdate="20250821T170246Z">
+        <seg>Captain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ep11.ass</prop>
+      <prop type="prev">血咒</prop>
+      <prop type="next">净化</prop>
+      <tuv lang="zh-CN">
+        <seg>黑夜</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250822T101607Z" creationid="liray" creationdate="20250822T101543Z">
+        <seg>{\i1}Evernight</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
