@@ -15,7 +15,7 @@ Video AR Value: 2.347188
 Video Zoom Percent: 0.750000
 Scroll Position: 231
 Active Line: 771
-Video Position: 21707
+Video Position: 20991
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -795,14 +795,14 @@ Dialogue: 0,0:13:34.86,0:13:36.54,Consolas,,0,0,0,,{\be1}There's no cake.
 Dialogue: 0,0:13:38.58,0:13:39.46,Consolas,,0,0,0,,{\be1}It's you.
 Dialogue: 0,0:13:40.14,0:13:42.10,Consolas,,0,0,0,,{\be1}You stole my cake!
 Dialogue: 0,0:13:54.30,0:13:55.30,Consolas,,0,0,0,,{\be1}Don't get so worked up.
-Dialogue: 0,0:13:59.62,0:14:00.70,Consolas,,0,0,0,,[In Hermes]\N{\be1\i1}Nightmare.
+Dialogue: 0,0:13:59.62,0:14:00.70,Consolas,,0,0,0,,{\be1}[In Hermes]\N{\be1\i1}Nightmare.
 Dialogue: 0,0:14:12.66,0:14:14.02,Consolas,,0,0,0,,{\be1}The Captain's Nightmare ability has been enhanced.
 Dialogue: 0,0:14:14.82,0:14:16.90,Consolas,,0,0,0,,{\be1}It looks like the potion digestion has been going smoothly these past few days.
 Dialogue: 0,0:14:18.26,0:14:18.86,Consolas,,0,0,0,,{\be1}Let's start,
 Dialogue: 0,0:14:19.26,0:14:19.74,Consolas,,0,0,0,,{\be1}Klein.
-Dialogue: 0,0:14:23.42,0:14:25.14,Consolas,,0,0,0,,[In Hermes]\N{\be1\i1}I pray for the power of the Evernight.
-Dialogue: 0,0:14:25.78,0:14:27.50,Consolas,,0,0,0,,[In Hermes]\N{\be1\i1}I pray for the power of the mysterious.
-Dialogue: 0,0:14:28.26,0:14:30.26,Consolas,,0,0,0,,[In Hermes]\N{\be1\i1}I pray for the Goddess' loving grace.
+Dialogue: 0,0:14:23.42,0:14:25.14,Consolas,,0,0,0,,{\be1}[In Hermes]\N{\be1\i1}I pray for the power of the Evernight.
+Dialogue: 0,0:14:25.78,0:14:27.50,Consolas,,0,0,0,,{\be1}[In Hermes]\N{\be1\i1}I pray for the power of the mysterious.
+Dialogue: 0,0:14:28.26,0:14:30.26,Consolas,,0,0,0,,{\be1}[In Hermes]\N{\be1\i1}I pray for the Goddess' loving grace.
 Dialogue: 0,0:14:36.30,0:14:37.38,Consolas,,0,0,0,,{\be1}I pray that you'll
 Dialogue: 0,0:14:37.94,0:14:40.66,Consolas,,0,0,0,,{\be1}allow me to communicate with Hood Eugen's spirituality.
 Dialogue: 0,0:14:57.94,0:14:58.82,Consolas,,0,0,0,,{\be1}So light.
@@ -1214,8 +1214,8 @@ Dialogue: 0,0:27:20.50,0:27:20.54,Heading,,0,0,0,,{=674}{\alpha&H02&\an6\fs90\sh
 Dialogue: 0,0:27:20.54,0:27:20.58,Heading,,0,0,0,,{=675}{\alpha&H01&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
 Dialogue: 0,0:27:20.58,0:27:20.62,Heading,,0,0,0,,{=676}{\alpha&H00&\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
 Dialogue: 0,0:27:20.62,0:27:24.26,Heading,,0,0,0,,{=678}{\an6\fs90\shad2\be0.5\pos(1433.65,202.27)}City of Silver
-Dialogue: 0,0:27:45.34,0:27:46.82,Consolas,,0,0,0,,[In ???]\N{\be1\i1}O Magnificent Deity.
-Dialogue: 0,0:27:48.18,0:27:51.94,Consolas,,0,0,0,,[In ???]\N{\be1\i1}I am willing to dedicate my life to you.
+Dialogue: 0,0:27:45.34,0:27:46.82,Consolas,,0,0,0,,{\be1}[In ???]\N{\be1\i1}O Magnificent Deity.
+Dialogue: 0,0:27:48.18,0:27:51.94,Consolas,,0,0,0,,{\be1}[In ???]\N{\be1\i1}I am willing to dedicate my life to you.
 Dialogue: 0,0:27:59.50,0:28:00.14,Consolas,,0,0,0,,{\be1}This is...
 Dialogue: 0,0:28:00.94,0:28:01.86,Consolas,,0,0,0,,{\be1}a new prayer.
 Dialogue: 0,0:28:02.42,0:28:03.10,Consolas,,0,0,0,,{\be1}Mr. Fool.
@@ -1257,22 +1257,22 @@ Dialogue: 0,0:29:53.26,0:29:53.94,Consolas,,0,0,0,,{\be1}Speaking of which,
 Dialogue: 0,0:29:54.58,0:29:55.98,Consolas,,0,0,0,,{\be1}he also went to Backlund.
 Dialogue: 0,0:30:13.98,0:30:14.90,Consolas,,0,0,0,,{\be1}Mr. Fool.
 Dialogue: 0,0:30:15.54,0:30:16.78,Consolas,,0,0,0,,{\be1}Could it be that he's performing a miracle?
-Dialogue: 0,0:30:23.06,0:30:24.30,Consolas,,0,0,0,,[In ???]\N{\be1\i1}O Magnificent Deity.
-Dialogue: 0,0:30:24.98,0:30:29.06,Consolas,,0,0,0,,[In ???]\N{\be1\i1}I am willing to use my blood to please you.
+Dialogue: 0,0:30:23.06,0:30:24.30,Consolas,,0,0,0,,{\be1}[In ???]\N{\be1\i1}O Magnificent Deity.
+Dialogue: 0,0:30:24.98,0:30:29.06,Consolas,,0,0,0,,{\be1}[In ???]\N{\be1\i1}I am willing to use my blood to please you.
 Dialogue: 0,0:30:29.62,0:30:30.70,Consolas,,0,0,0,,{\be1}What language is this?
 Dialogue: 0,0:30:31.54,0:30:33.50,Consolas,,0,0,0,,{\be1}The root language of Loenese, Ancient Feysac!
 Dialogue: 0,0:30:34.86,0:30:35.50,Consolas,,0,0,0,,{\be1}Not exactly.
-Dialogue: 0,0:30:35.98,0:30:38.30,Consolas,,0,0,0,,[In ???]\N{\be1\i1}Please allow us, the People of the Dark, to be freed from the curse of our destiny.
+Dialogue: 0,0:30:35.98,0:30:38.30,Consolas,,0,0,0,,{\be1}[In ???]\N{\be1\i1}Please allow us, the People of the Dark, to be freed from the curse of our destiny.
 Dialogue: 0,0:30:39.94,0:30:40.78,Consolas,,0,0,0,,{\be1}It seems to be
 Dialogue: 0,0:30:41.66,0:30:42.42,Consolas,,0,0,0,,{\be1}Jotun!
-Dialogue: 0,0:30:43.02,0:30:44.66,Consolas,,0,0,0,,[In Jotun]\N{\be1\i1}O Magnificent Deity.
-Dialogue: 0,0:30:45.34,0:30:47.62,Consolas,,0,0,0,,[In Jotun]\N{\be1\i1}Please bestow the sun and light once more upon this land that you have forsaken.
+Dialogue: 0,0:30:43.02,0:30:44.66,Consolas,,0,0,0,,{\be1}[In Jotun]\N{\be1\i1}O Magnificent Deity.
+Dialogue: 0,0:30:45.34,0:30:47.62,Consolas,,0,0,0,,{\be1}[In Jotun]\N{\be1\i1}Please bestow the sun and light once more upon this land that you have forsaken.
 Dialogue: 0,0:30:47.94,0:30:48.98,Consolas,,0,0,0,,{\be1}It really is Jotun!
 Dialogue: 0,0:30:49.70,0:30:50.94,Consolas,,0,0,0,,{\be1}Fortunately I've learned a bit.
 Dialogue: 0,0:30:51.78,0:30:53.86,Consolas,,0,0,0,,{\be1}Where in the world is Jotun still used?
 Dialogue: 0,0:30:54.66,0:30:57.30,Consolas,,0,0,0,,{\be1}This is an ancient antique that is thousands of years old.
-Dialogue: 0,0:30:58.06,0:30:59.42,Consolas,,0,0,0,,[In Jotun]\N{\be1\i1}Magnificient Deity.
-Dialogue: 0,0:31:00.18,0:31:01.82,Consolas,,0,0,0,,[In Jotun]\N{\be1\i1}A land that was forsaken.
+Dialogue: 0,0:30:58.06,0:30:59.42,Consolas,,0,0,0,,{\be1}[In Jotun]\N{\be1\i1}Magnificient Deity.
+Dialogue: 0,0:31:00.18,0:31:01.82,Consolas,,0,0,0,,{\be1}[In Jotun]\N{\be1\i1}A land that was forsaken.
 Dialogue: 0,0:31:03.62,0:31:04.82,Consolas,,0,0,0,,{\be1}Forsaken Land of the Gods.
 Comment: 0,0:31:32.46,0:31:33.34,Heading - Derrick,,0,0,0,,{=726}{\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
 Dialogue: 0,0:31:32.46,0:31:32.50,Heading - Derrick,,0,0,0,,{=683}{\alpha&HFF&\an4\fs120\shad0\be0.5\pos(1251.95,324.31)}Derrick Berg
