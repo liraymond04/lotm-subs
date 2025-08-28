@@ -4,6 +4,246 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_645c99538" segtype="sentence" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183812Z" creationid="liray" creationdate="20250828T183812Z">
+        <seg>No,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不应该的</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183713Z" creationid="liray" creationdate="20250828T183322Z">
+        <seg>It shouldn't be.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>人类通过服食魔药</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003125Z" creationid="liray" creationdate="20250828T003122Z">
+        <seg>Humanity through consuming potions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>从序列九开始</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003154Z" creationid="liray" creationdate="20250828T003154Z">
+        <seg>start from Sequence 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他出现失控的前期征兆了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183657Z" creationid="liray" creationdate="20250828T182555Z">
+        <seg>He's showing early signs of losing control!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你要尽早习惯这些事</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T184848Z" creationid="liray" creationdate="20250828T184809Z">
+        <seg>You have to get used to these sooner or later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>克莱恩</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183725Z" creationid="liray" creationdate="20250828T183725Z">
+        <seg>Klein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>别让悲伤过度消耗心神</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T184720Z" creationid="liray" creationdate="20250828T184532Z">
+        <seg>Don't let sorrow drain your spirit too much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>可以拥有比肩神明的力量</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003233Z" creationid="liray" creationdate="20250828T003233Z">
+        <seg>can possess power comparable to gods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在科恩黎·怀特的尸体上</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T184304Z" creationid="liray" creationdate="20250828T182107Z">
+        <seg>over the corpse of Kenley White...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>完成生命层次的晋升</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003139Z" creationid="liray" creationdate="20250828T003139Z">
+        <seg>completing their promotion to life's natural order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>序列数字越低</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003205Z" creationid="liray" creationdate="20250828T003205Z">
+        <seg>The lower the Sequence number,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>怎么了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183728Z" creationid="liray" creationdate="20250828T183728Z">
+        <seg>What's wrong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>怎么回事</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T182445Z" creationid="liray" creationdate="20250828T182445Z">
+        <seg>What's going on?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我有点儿累了</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183823Z" creationid="liray" creationdate="20250828T183823Z">
+        <seg>I'm a little tired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>掌握不同的非凡能力</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003132Z" creationid="liray" creationdate="20250828T003132Z">
+        <seg>harnessed various Beyonder abilities,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>此进化路径称为</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003240Z" creationid="liray" creationdate="20250828T003240Z">
+        <seg>This path of evolution is called</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没什么</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183817Z" creationid="liray" creationdate="20250828T183817Z">
+        <seg>it's nothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>神之途径</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003248Z" creationid="liray" creationdate="20250828T003248Z">
+        <seg>the Path of the Divine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>绯红之中</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T182015Z" creationid="liray" creationdate="20250828T182015Z">
+        <seg>In the crimson,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>趁着雪伦·霍伊灵体还未消散</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T185010Z" creationid="liray" creationdate="20250828T185010Z">
+        <seg>While Sharon Khoy's Spirit Body has not dissipiated yet,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这二十二条进阶之路</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003146Z" creationid="liray" creationdate="20250828T003146Z">
+        <seg>These twenty-two paths of advancement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>通灵调查下吧</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T185430Z" creationid="liray" creationdate="20250828T185238Z">
+        <seg>you should use spirit communication to investigate a bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>邓恩·史密斯</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T182044Z" creationid="liray" creationdate="20250828T182026Z">
+        <seg>Dunn Smith,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>队长</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T182131Z" creationid="liray" creationdate="20250828T182131Z">
+        <seg>Captain...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>队长一直在扮演梦魔</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T183639Z" creationid="liray" creationdate="20250828T183639Z">
+        <seg>Captain has been acting as a Nightmare all this time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>队长在吸科恩黎的血</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T182412Z" creationid="liray" creationdate="20250828T182412Z">
+        <seg>Captain is drinking Kenley's blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>非凡世界</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003116Z" creationid="liray" creationdate="20250828T003116Z">
+        <seg>The world of Beyonders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>非凡能力越强</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003218Z" creationid="liray" creationdate="20250828T003218Z">
+        <seg>the greater the Beyonder abilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>高序列强者</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="liray" changedate="20250828T003227Z" creationid="liray" creationdate="20250828T003227Z">
+        <seg>High-Sequence Beyonders</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
