@@ -11,9 +11,9 @@ Video File: ../../LOTM EP12.mkv
 Video AR Mode: 4
 Video AR Value: 2.347188
 Video Zoom Percent: 0.625000
-Scroll Position: 22
-Active Line: 39
-Video Position: 4976
+Scroll Position: 378
+Active Line: 393
+Video Position: 35208
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 0,0:01:16.18,0:01:18.38,Default,,0,0,0,,the Path of the Divine.
 Dialogue: 0,0:01:27.30,0:01:29.06,Default,,0,0,0,,In the crimson,
 Dialogue: 0,0:01:29.58,0:01:31.10,Default,,0,0,0,,Dunn Smith,
 Dialogue: 0,0:01:31.30,0:01:34.54,Default,,0,0,0,,over the corpse of Kenley White...
-Dialogue: 0,0:01:46.94,0:01:47.42,Default,,0,0,0,,Captain...
+Dialogue: 0,0:01:46.94,0:01:47.42,Default,,0,0,0,,Captain.
 Dialogue: 0,0:01:48.38,0:01:50.26,Default,,0,0,0,,Captain is drinking Kenley's blood.
 Dialogue: 0,0:01:53.02,0:01:53.62,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:01:54.66,0:01:56.30,Default,,0,0,0,,He's showing early signs of losing control!
@@ -50,430 +50,433 @@ Dialogue: 0,0:02:19.18,0:02:20.10,Default,,0,0,0,,I'm a little tired.
 Dialogue: 0,0:02:22.54,0:02:24.18,Default,,0,0,0,,Don't let sorrow drain your spirit too much.
 Dialogue: 0,0:02:25.06,0:02:26.70,Default,,0,0,0,,You have to get used to these sooner or later.
 Dialogue: 0,0:02:28.02,0:02:29.94,Default,,0,0,0,,While Sharon Khoy's Spirit Body has not dissipiated yet,
-Dialogue: 0,0:02:30.74,0:02:31.70,Default,,0,0,0,,you should use spirit communication to investigate a bit.
-Dialogue: 0,0:02:37.18,0:02:37.70,Default,,0,0,0,,我知道了
-Dialogue: 0,0:02:38.30,0:02:38.62,Default,,0,0,0,,Captain...
-Dialogue: 0,0:02:44.38,0:02:45.30,Default,,0,0,0,,队长看起来
-Dialogue: 0,0:02:45.78,0:02:46.58,Default,,0,0,0,,没什么异常
-Dialogue: 0,0:02:47.82,0:02:48.90,Default,,0,0,0,,刚才是幻觉
-Dialogue: 0,0:02:51.74,0:02:52.18,Default,,0,0,0,,不对
-Dialogue: 0,0:02:52.98,0:02:53.86,Default,,0,0,0,,不是幻觉
-Dialogue: 0,0:02:54.74,0:02:55.86,Default,,0,0,0,,科恩黎的尸体
-Dialogue: 0,0:02:56.74,0:02:58.06,Default,,0,0,0,,真的少了些什么
-Dialogue: 0,0:03:19.02,0:03:19.66,Default,,0,0,0,,为什么
-Dialogue: 0,0:03:20.46,0:03:21.98,Default,,0,0,0,,为什么又是这样
-Dialogue: 0,0:03:22.62,0:03:23.30,Default,,0,0,0,,科恩黎
-Dialogue: 0,0:03:23.82,0:03:25.58,Default,,0,0,0,,他上个月才订婚
-Dialogue: 0,0:03:27.14,0:03:29.22,Default,,0,0,0,,为什么要成为非凡者
-Dialogue: 0,0:03:30.46,0:03:32.82,Default,,0,0,0,,为什么总是有危险
-Dialogue: 0,0:03:33.74,0:03:34.98,Default,,0,0,0,,愿女神庇护你
-Dialogue: 0,0:03:35.74,0:03:37.26,Default,,0,0,0,,让你得到真正的安眠
-Dialogue: 0,0:03:46.78,0:03:47.34,Default,,0,0,0,,Captain...
-Dialogue: 0,0:03:48.14,0:03:49.10,Default,,0,0,0,,究竟做了什么
-Dialogue: 0,0:03:50.02,0:03:51.66,Default,,0,0,0,,之前命令我下楼善后
-Dialogue: 0,0:03:52.06,0:03:53.34,Default,,0,0,0,,难道是想支开我
-Dialogue: 0,0:03:53.98,0:03:54.86,Default,,0,0,0,,科恩黎
-Dialogue: 0,0:03:55.46,0:03:57.38,Default,,0,0,0,,被3-0217反噬牺牲
-Dialogue: 0,0:03:57.78,0:03:59.10,Default,,0,0,0,,3-0217
-Dialogue: 0,0:03:59.78,0:04:01.26,Default,,0,0,0,,是队长交给科恩黎的
-Dialogue: 0,0:04:02.82,0:04:03.62,Default,,0,0,0,,我在想什么
-Dialogue: 0,0:04:04.98,0:04:06.34,Default,,0,0,0,,当时这是必然的选择
-Dialogue: 0,0:04:07.74,0:04:08.30,Default,,0,0,0,,可是
-Dialogue: 0,0:04:09.58,0:04:10.86,Default,,0,0,0,,3-0217
-Dialogue: 0,0:04:12.10,0:04:13.98,Default,,0,0,0,,也是队长提议使用的
-Dialogue: 0,0:04:15.90,0:04:18.02,Default,,0,0,0,,据克莱恩对雪伦·霍伊的通灵显示
-Dialogue: 0,0:04:18.54,0:04:20.86,Default,,0,0,0,,魔女教派疑似与极光会有合作关系
-Dialogue: 0,0:04:21.46,0:04:22.46,Default,,0,0,0,,与兰尔乌斯案
-Dialogue: 0,0:04:22.74,0:04:23.94,Default,,0,0,0,,廷根毁灭日有关
-Dialogue: 0,0:04:24.66,0:04:25.54,Default,,0,0,0,,顺着这条线
-Dialogue: 0,0:04:25.86,0:04:26.86,Default,,0,0,0,,再去仔细核查
-Dialogue: 0,0:04:27.38,0:04:27.78,Default,,0,0,0,,明白
-Dialogue: 0,0:04:28.78,0:04:29.18,Default,,0,0,0,,Captain...
-Dialogue: 0,0:04:29.58,0:04:30.82,Default,,0,0,0,,现在雪伦·霍伊已死
-Dialogue: 0,0:04:31.58,0:04:32.38,Default,,0,0,0,,廷根危机
-Dialogue: 0,0:04:32.38,0:04:33.62,Default,,0,0,0,,是否可以暂时解除
-Dialogue: 0,0:04:35.50,0:04:38.34,Default,,0,0,0,,雪伦·霍伊或许是毁灭日的关键一环
-Dialogue: 0,0:04:39.94,0:04:41.02,Default,,0,0,0,,但邪恶组织
-Dialogue: 0,0:04:41.54,0:04:43.22,Default,,0,0,0,,永远不会只下一步棋
-Dialogue: 0,0:05:49.66,0:05:50.50,Default,,0,0,0,,回来啦克莱恩
-Dialogue: 0,0:05:54.38,0:05:55.70,Default,,0,0,0,,你最近是不是很忙
-Dialogue: 0,0:05:56.10,0:05:57.62,Default,,0,0,0,,厨房里有早餐你要不要吃点
-Dialogue: 0,0:05:58.34,0:05:58.74,Default,,0,0,0,,好
-Dialogue: 0,0:05:59.34,0:06:00.22,Default,,0,0,0,,等我工作结束
-Dialogue: 0,0:06:08.06,0:06:09.18,Default,,0,0,0,,信已经寄出了
-Dialogue: 0,0:06:10.26,0:06:12.98,Default,,0,0,0,,希望阿兹克先生和戴莉女士能尽快回信
-Dialogue: 0,0:06:14.18,0:06:15.70,Default,,0,0,0,,我不清楚发生了什么事情
-Dialogue: 0,0:06:16.34,0:06:18.02,Default,,0,0,0,,也不知道队长处于什么状态
-Dialogue: 0,0:06:19.18,0:06:20.66,Default,,0,0,0,,只有你们能给我答案了
-Dialogue: 0,0:06:37.30,0:06:39.54,Default,,0,0,0,,邓恩·史密斯异常的原因
-Dialogue: 0,0:06:45.38,0:06:46.26,Default,,0,0,0,,没反应
-Dialogue: 0,0:06:47.50,0:06:48.66,Default,,0,0,0,,这说明信息不足
-Dialogue: 0,0:06:48.86,0:06:49.58,Default,,0,0,0,,占卜失败
-Dialogue: 0,0:06:50.62,0:06:51.50,Default,,0,0,0,,通常来讲
-Dialogue: 0,0:06:52.18,0:06:53.58,Default,,0,0,0,,涉及自身安危的占卜
-Dialogue: 0,0:06:53.62,0:06:54.78,Default,,0,0,0,,需要的信息最少
-Dialogue: 0,0:06:55.70,0:06:58.34,Default,,0,0,0,,如果我从占卜自己的安危这方面入手
-Dialogue: 0,0:07:00.54,0:07:02.14,Default,,0,0,0,,邓恩·史密斯的异常
-Dialogue: 0,0:07:02.66,0:07:04.46,Default,,0,0,0,,会让我陷入危险之中
-Dialogue: 0,0:07:07.38,0:07:07.90,Default,,0,0,0,,肯定
-Dialogue: 0,0:07:09.06,0:07:10.82,Default,,0,0,0,,队长的异常会让我陷入危险
-Dialogue: 0,0:07:11.18,0:07:12.30,Default,,0,0,0,,而且危险等级不低
-Dialogue: 0,0:07:23.54,0:07:24.78,Default,,0,0,0,,阿兹克先生回信了
-Dialogue: 0,0:07:29.70,0:07:30.86,Default,,0,0,0,,你描述的场景
-Dialogue: 0,0:07:31.22,0:07:33.10,Default,,0,0,0,,让我想到了吸血鬼和异种
-Dialogue: 0,0:07:34.98,0:07:38.42,Default,,0,0,0,,天然的吸血鬼在巨龙和巨人退出历史的舞台前
-Dialogue: 0,0:07:38.74,0:07:40.02,Default,,0,0,0,,就已经接近灭绝
-Dialogue: 0,0:07:40.82,0:07:41.74,Default,,0,0,0,,但我记得
-Dialogue: 0,0:07:42.02,0:07:43.62,Default,,0,0,0,,有一条途径的某个序列
-Dialogue: 0,0:07:44.02,0:07:45.70,Default,,0,0,0,,魔药名称就叫吸血鬼
-Dialogue: 0,0:07:47.38,0:07:48.46,Default,,0,0,0,,异种的话
-Dialogue: 0,0:07:49.10,0:07:52.18,Default,,0,0,0,,有人猜测是正常的人类受到了污染或诅咒
-Dialogue: 0,0:07:52.82,0:07:54.78,Default,,0,0,0,,在特定状况下变成的怪物
-Dialogue: 0,0:07:56.94,0:07:57.82,Default,,0,0,0,,你的上司
-Dialogue: 0,0:07:58.42,0:08:00.14,Default,,0,0,0,,也许就是一个潜藏的异种
-Dialogue: 0,0:08:03.14,0:08:03.46,Default,,0,0,0,,当然
-Dialogue: 0,0:08:03.94,0:08:05.06,Default,,0,0,0,,这些都是我的猜测
-Dialogue: 0,0:08:05.74,0:08:06.58,Default,,0,0,0,,但无论哪种
-Dialogue: 0,0:08:06.98,0:08:09.06,Default,,0,0,0,,都证明你的上司现在状况不稳
-Dialogue: 0,0:08:09.58,0:08:10.46,Default,,0,0,0,,非常危险
-Dialogue: 0,0:08:11.58,0:08:12.42,Default,,0,0,0,,你最好小心
-Dialogue: 0,0:08:17.34,0:08:18.02,Default,,0,0,0,,Klein.
-Dialogue: 0,0:08:26.94,0:08:27.38,Default,,0,0,0,,Captain...
-Dialogue: 0,0:08:29.26,0:08:29.78,Default,,0,0,0,,Klein.
-Dialogue: 0,0:08:30.90,0:08:32.58,Default,,0,0,0,,去豪尔斯街六十二号
-Dialogue: 0,0:08:33.82,0:08:35.94,Default,,0,0,0,,伦纳德找到了兰尔乌斯的住所
-Dialogue: 0,0:08:36.50,0:08:37.42,Default,,0,0,0,,需要你帮忙
-Dialogue: 0,0:08:41.14,0:08:41.50,Default,,0,0,0,,来了
-Dialogue: 0,0:08:43.46,0:08:43.98,Default,,0,0,0,,没睡好
-Dialogue: 0,0:08:46.78,0:08:47.54,Default,,0,0,0,,怎么查到的
-Dialogue: 0,0:08:48.54,0:08:50.58,Default,,0,0,0,,你们从胡德·欧根那里得到线索
-Dialogue: 0,0:08:50.86,0:08:52.98,Default,,0,0,0,,怀疑兰尔乌斯与西里斯有关系
-Dialogue: 0,0:08:53.50,0:08:56.10,Default,,0,0,0,,西里斯和豪尔斯街区不少住客有来往
-Dialogue: 0,0:08:56.70,0:08:57.62,Default,,0,0,0,,我挨个排查
-Dialogue: 0,0:08:58.22,0:09:00.34,Default,,0,0,0,,有位老先生看了兰尔乌斯的照片
-Dialogue: 0,0:09:00.82,0:09:02.82,Default,,0,0,0,,指认六十二号租客和他很像
-Dialogue: 0,0:09:03.54,0:09:04.74,Default,,0,0,0,,但已经很久没回来了
-Dialogue: 0,0:09:05.78,0:09:06.66,Default,,0,0,0,,我怀疑这里
-Dialogue: 0,0:09:07.18,0:09:08.26,Default,,0,0,0,,有隐藏密室
-Dialogue: 0,0:09:13.90,0:09:16.22,Default,,0,0,0,,这栋房屋的暗格或者密室
-Dialogue: 0,0:09:30.46,0:09:31.06,Default,,0,0,0,,又是信
-Dialogue: 0,0:09:35.58,0:09:36.58,Default,,0,0,0,,祝贺你们
-Dialogue: 0,0:09:36.94,0:09:38.62,Default,,0,0,0,,终于找到了这封信
-Dialogue: 0,0:09:39.94,0:09:41.70,Default,,0,0,0,,这说明你们还不算太蠢
-Dialogue: 0,0:09:42.02,0:09:44.54,Default,,0,0,0,,有资格参与我设计的这场
-Dialogue: 0,0:09:45.02,0:09:47.34,Default,,0,0,0,,生与死的游戏
-Dialogue: 0,0:09:48.26,0:09:49.26,Default,,0,0,0,,疯狂
-Dialogue: 0,0:09:49.66,0:09:51.58,Default,,0,0,0,,终会付出代价
-Dialogue: 0,0:09:51.86,0:09:53.42,Default,,0,0,0,,亵渎之罪
-Dialogue: 0,0:09:53.58,0:09:55.10,Default,,0,0,0,,不得救免
-Dialogue: 0,0:09:59.10,0:09:59.74,Default,,0,0,0,,贫穷
-Dialogue: 0,0:10:00.14,0:10:01.10,Default,,0,0,0,,疾病
-Dialogue: 0,0:10:01.34,0:10:02.82,Default,,0,0,0,,不断天折的童工
-Dialogue: 0,0:10:03.14,0:10:05.34,Default,,0,0,0,,极少活过三十岁的工人
-Dialogue: 0,0:10:05.94,0:10:07.98,Default,,0,0,0,,这座城市的每座工厂
-Dialogue: 0,0:10:08.34,0:10:10.30,Default,,0,0,0,,都笼罩着无数的怨念
-Dialogue: 0,0:10:10.70,0:10:11.66,Default,,0,0,0,,我们的游戏
-Dialogue: 0,0:10:11.98,0:10:14.38,Default,,0,0,0,,将在这样的背景下开始
-Dialogue: 0,0:10:16.30,0:10:17.30,Default,,0,0,0,,蠢货们
-Dialogue: 0,0:10:17.94,0:10:19.14,Default,,0,0,0,,做好准备
-Dialogue: 0,0:10:19.90,0:10:22.62,Default,,0,0,0,,我在廷根中心安放了一个炸弹
-Dialogue: 0,0:10:23.02,0:10:26.26,Default,,0,0,0,,会随着时间推移不断变强的炸弹
-Dialogue: 0,0:10:27.54,0:10:28.06,Default,,0,0,0,,炸弹
-Dialogue: 0,0:10:28.54,0:10:30.06,Default,,0,0,0,,去寻找它吧
-Dialogue: 0,0:10:30.78,0:10:31.98,Default,,0,0,0,,各位朋友
-Dialogue: 0,0:10:32.78,0:10:33.58,Default,,0,0,0,,时间紧迫
-Dialogue: 0,0:10:34.18,0:10:35.42,Default,,0,0,0,,我们得马上回去告诉队长
-Dialogue: 0,0:10:41.14,0:10:42.82,Default,,0,0,0,,如果游戏失败
-Dialogue: 0,0:10:43.22,0:10:44.02,Default,,0,0,0,,轰
-Dialogue: 0,0:10:44.46,0:10:45.74,Default,,0,0,0,,整个廷根
-Dialogue: 0,0:10:46.14,0:10:47.98,Default,,0,0,0,,都将化为灰烬
-Dialogue: 0,0:10:48.78,0:10:51.86,Default,,0,0,0,,最喜欢给朋友们带来惊喜的
-Dialogue: 0,0:10:52.66,0:10:54.50,Default,,0,0,0,,兰尔乌斯
-Dialogue: 0,0:11:03.62,0:11:04.94,Default,,0,0,0,,我从没听说过
-Dialogue: 0,0:11:05.06,0:11:06.38,Default,,0,0,0,,能不断变强的炸弹
-Dialogue: 0,0:11:07.34,0:11:08.86,Default,,0,0,0,,是神秘学意义上的炸弹
-Dialogue: 0,0:11:09.34,0:11:12.06,Default,,0,0,0,,比如某些不断蓄积着力量的邪恶仪式
-Dialogue: 0,0:11:15.38,0:11:16.58,Default,,0,0,0,,我同意你的猜测
-Dialogue: 0,0:11:17.42,0:11:19.02,Default,,0,0,0,,兰尔乌斯描写的怨念
-Dialogue: 0,0:11:19.50,0:11:22.14,Default,,0,0,0,,或许就是炸弹不断变强的力量源泉
-Dialogue: 0,0:11:23.46,0:11:24.62,Default,,0,0,0,,问题是炸弹
-Dialogue: 0,0:11:25.22,0:11:26.18,Default,,0,0,0,,在哪个地方
-Dialogue: 0,0:11:28.66,0:11:29.54,Default,,0,0,0,,出什么事了
-Dialogue: 0,0:11:31.58,0:11:32.06,Default,,0,0,0,,队长呢
-Dialogue: 0,0:11:36.90,0:11:37.38,Default,,0,0,0,,炸弹
-Dialogue: 0,0:11:37.98,0:11:40.42,Default,,0,0,0,,难道是在胡德·欧根心灵世界的祭台上
-Dialogue: 0,0:11:41.22,0:11:42.22,Default,,0,0,0,,但祭坛在哪儿
-Dialogue: 0,0:11:43.22,0:11:44.62,Default,,0,0,0,,廷根中心地下
-Dialogue: 0,0:12:02.74,0:12:03.54,Default,,0,0,0,,你们好
-Dialogue: 0,0:12:04.82,0:12:06.14,Default,,0,0,0,,梅高欧丝小姐
-Dialogue: 0,0:12:07.26,0:12:08.74,Default,,0,0,0,,兰尔乌斯的未婚妻
-Dialogue: 0,0:12:10.46,0:12:12.38,Default,,0,0,0,,她之前似乎精神出了点问题
-Dialogue: 0,0:12:13.06,0:12:15.50,Default,,0,0,0,,说自己的孩子在娘胎里就会吹口哨
-Dialogue: 0,0:12:17.38,0:12:18.30,Default,,0,0,0,,梅高欧丝小姐
-Dialogue: 0,0:12:19.02,0:12:20.10,Default,,0,0,0,,你到这儿来有什么事吗
-Dialogue: 0,0:12:21.50,0:12:22.62,Default,,0,0,0,,不知道为什么
-Dialogue: 0,0:12:23.22,0:12:25.62,Default,,0,0,0,,我忽然就想着到佐特兰街来
-Dialogue: 0,0:12:26.54,0:12:28.66,Default,,0,0,0,,忽然就想着上来看一看
-Dialogue: 0,0:12:30.66,0:12:32.66,Default,,0,0,0,,她的精神问题愈发恶化了啊
-Dialogue: 0,0:12:34.10,0:12:35.78,Default,,0,0,0,,上次没来得及开灵视
-Dialogue: 0,0:12:50.86,0:12:51.46,Default,,0,0,0,,不能看
-Dialogue: 0,0:12:52.10,0:12:52.70,Default,,0,0,0,,不能看
-Dialogue: 0,0:12:53.18,0:12:53.78,Default,,0,0,0,,不能看
-Dialogue: 0,0:13:00.30,0:13:00.90,Default,,0,0,0,,看到
-Dialogue: 0,0:13:01.22,0:13:02.30,Default,,0,0,0,,就会死
-Dialogue: 0,0:13:12.38,0:13:14.06,Default,,0,0,0,,兰尔乌斯设的炸弹不在祭坛
-Dialogue: 0,0:13:16.10,0:13:18.22,Default,,0,0,0,,而是梅高欧丝身体里的邪恶存在
-Dialogue: 0,0:13:29.18,0:13:31.78,Default,,0,0,0,,我亲手开启的工业革命
-Dialogue: 0,0:13:32.30,0:13:35.50,Default,,0,0,0,,亲手铸就的蒸汽与机械时代
-Dialogue: 0,0:13:36.70,0:13:38.98,Default,,0,0,0,,将成为邪恶存在
-Dialogue: 0,0:13:39.10,0:13:40.90,Default,,0,0,0,,降生的温床
-Dialogue: 0,0:13:51.66,0:13:52.66,Default,,0,0,0,,铜哨被压制了
-Dialogue: 0,0:13:57.38,0:13:59.02,Default,,0,0,0,,阳炎符咒没有被影响
-Dialogue: 0,0:14:02.62,0:14:03.54,Default,,0,0,0,,梅高欧丝小姐
-Dialogue: 0,0:14:04.62,0:14:05.46,Default,,0,0,0,,你有什么委托吗
-Dialogue: 0,0:14:07.38,0:14:08.54,Default,,0,0,0,,我想聊聊
-Dialogue: 0,0:14:08.86,0:14:10.14,Default,,0,0,0,,兰尔乌斯的事
-Dialogue: 0,0:14:11.06,0:14:11.98,Default,,0,0,0,,他说
-Dialogue: 0,0:14:12.58,0:14:13.78,Default,,0,0,0,,你们知道很多
-Dialogue: 0,0:14:15.50,0:14:16.18,Default,,0,0,0,,他
-Dialogue: 0,0:14:16.70,0:14:17.22,Default,,0,0,0,,是谁
-Dialogue: 0,0:14:19.38,0:14:20.14,Default,,0,0,0,,我的
-Dialogue: 0,0:14:20.70,0:14:21.62,Default,,0,0,0,,孩子
-Dialogue: 0,0:14:24.62,0:14:25.22,Default,,0,0,0,,请问
-Dialogue: 0,0:14:25.66,0:14:26.34,Default,,0,0,0,,你要咖啡
-Dialogue: 0,0:14:26.62,0:14:27.34,Default,,0,0,0,,还是红茶
-Dialogue: 0,0:14:29.66,0:14:30.74,Default,,0,0,0,,一杯温水
-Dialogue: 0,0:14:31.46,0:14:31.98,Default,,0,0,0,,请稍等
-Dialogue: 0,0:14:34.78,0:14:35.30,Default,,0,0,0,,稳住她
-Dialogue: 0,0:14:56.58,0:14:57.18,Default,,0,0,0,,Klein.
-Dialogue: 0,0:15:08.86,0:15:09.46,Default,,0,0,0,,听说
-Dialogue: 0,0:15:09.86,0:15:11.14,Default,,0,0,0,,你和兰尔乌斯先生
-Dialogue: 0,0:15:11.54,0:15:12.98,Default,,0,0,0,,第一次见面是在舞会上
-Dialogue: 0,0:15:14.70,0:15:15.46,Default,,0,0,0,,是的
-Dialogue: 0,0:15:16.06,0:15:16.38,Default,,0,0,0,,我
-Dialogue: 0,0:15:16.98,0:15:18.10,Default,,0,0,0,,第一次见他
-Dialogue: 0,0:15:18.90,0:15:20.70,Default,,0,0,0,,是在市议会的舞会上
-Dialogue: 0,0:15:22.90,0:15:24.26,Default,,0,0,0,,他很优秀
-Dialogue: 0,0:15:24.94,0:15:26.26,Default,,0,0,0,,帅气又多金
-Dialogue: 0,0:15:27.14,0:15:30.46,Default,,0,0,0,,是当晚女孩们最关注的青年企业家
-Dialogue: 0,0:15:31.34,0:15:34.38,Default,,0,0,0,,当时有很多漂亮女孩期待和他跳舞
-Dialogue: 0,0:15:34.78,0:15:35.98,Default,,0,0,0,,但不知道为什么
-Dialogue: 0,0:15:36.58,0:15:38.30,Default,,0,0,0,,他只邀请了我
-Dialogue: 0,0:15:40.90,0:15:42.82,Default,,0,0,0,,从华尔兹到库朗舞
-Dialogue: 0,0:15:43.22,0:15:45.34,Default,,0,0,0,,整晚他都和我在一起
-Dialogue: 0,0:15:46.74,0:15:49.38,Default,,0,0,0,,他的每一句话都让我开心
-Dialogue: 0,0:15:49.78,0:15:52.06,Default,,0,0,0,,每 一个眼神都让我着迷
-Dialogue: 0,0:15:53.66,0:15:54.30,Default,,0,0,0,,那时候
-Dialogue: 0,0:15:55.06,0:15:57.78,Default,,0,0,0,,我就知道我这一生再也离不开他了
-Dialogue: 0,0:16:01.62,0:16:03.34,Default,,0,0,0,,后来他们却告诉我
-Dialogue: 0,0:16:03.62,0:16:04.62,Default,,0,0,0,,他是骗子
-Dialogue: 0,0:16:05.06,0:16:06.14,Default,,0,0,0,,欺骗了我
-Dialogue: 0,0:16:07.02,0:16:08.06,Default,,0,0,0,,其实不是的
-Dialogue: 0,0:16:08.86,0:16:09.94,Default,,0,0,0,,他对我很好
-Dialogue: 0,0:16:10.86,0:16:13.18,Default,,0,0,0,,常常带我去参加他与朋友的聚会
-Dialogue: 0,0:16:14.46,0:16:16.66,Default,,0,0,0,,还带我去了很多奇妙的地方
-Dialogue: 0,0:16:17.62,0:16:18.18,Default,,0,0,0,,那天
-Dialogue: 0,0:16:19.70,0:16:20.50,Default,,0,0,0,,那天
-Dialogue: 0,0:16:29.66,0:16:31.94,Default,,0,0,0,,他送了我一根项链
-Dialogue: 0,0:16:33.26,0:16:34.18,Default,,0,0,0,,还说
-Dialogue: 0,0:16:34.90,0:16:36.90,Default,,0,0,0,,要给我一个惊喜
-Dialogue: 0,0:16:39.78,0:16:41.78,Default,,0,0,0,,死神后裔特性
-Dialogue: 0,0:16:42.38,0:16:43.86,Default,,0,0,0,,令凡人之躯
-Dialogue: 0,0:16:44.22,0:16:46.74,Default,,0,0,0,,化生迎接降临的容器
-Dialogue: 0,0:16:48.62,0:16:50.94,Default,,0,0,0,,无边的怨念和灰暗
-Dialogue: 0,0:16:51.38,0:16:54.66,Default,,0,0,0,,是滋养圣灵的乳浆与蜜糖
-Dialogue: 0,0:17:05.94,0:17:07.74,Default,,0,0,0,,你说她怀的不是兰尔乌斯的孩子
-Dialogue: 0,0:17:08.82,0:17:09.14,Default,,0,0,0,,没错
-Dialogue: 0,0:17:09.58,0:17:10.86,Default,,0,0,0,,我试图开启灵视
-Dialogue: 0,0:17:11.14,0:17:11.98,Default,,0,0,0,,但灵性警示我
-Dialogue: 0,0:17:12.46,0:17:13.18,Default,,0,0,0,,不可直视神
-Dialogue: 0,0:17:14.06,0:17:16.06,Default,,0,0,0,,联想到欧根心灵世界里的祭台
-Dialogue: 0,0:17:16.46,0:17:18.38,Default,,0,0,0,,和兰尔乌斯许诺欧根的一点神性
-Dialogue: 0,0:17:19.18,0:17:20.78,Default,,0,0,0,,我怀疑梅高欧丝肚子里的是
-Dialogue: 0,0:17:21.50,0:17:23.10,Default,,0,0,0,,真实造物者的降临体
-Dialogue: 0,0:17:23.50,0:17:23.90,Default,,0,0,0,,是的
-Dialogue: 0,0:17:24.30,0:17:26.14,Default,,0,0,0,,所以跟踪梅高欧丝的弗尔安先生
-Dialogue: 0,0:17:26.26,0:17:27.14,Default,,0,0,0,,才会无故失控
-Dialogue: 0,0:17:28.14,0:17:30.14,Default,,0,0,0,,也许老尼尔也受到了“”的催化
-Dialogue: 0,0:17:31.86,0:17:32.34,Default,,0,0,0,,而且
-Dialogue: 0,0:17:33.14,0:17:34.66,Default,,0,0,0,,我们才搜到兰尔乌斯的信
-Dialogue: 0,0:17:35.18,0:17:36.66,Default,,0,0,0,,梅高欧丝就突然上门
-Dialogue: 0,0:17:39.18,0:17:40.50,Default,,0,0,0,,非凡巧合
-Dialogue: 0,0:17:41.70,0:17:42.54,Default,,0,0,0,,太明显
-Dialogue: 0,0:17:42.70,0:17:43.50,Default,,0,0,0,,太直接
-Dialogue: 0,0:17:43.70,0:17:45.02,Default,,0,0,0,,已经完全不掩饰了
-Dialogue: 0,0:17:45.94,0:17:49.02,Default,,0,0,0,,看来幕后黑手终于要亲自动手了
-Dialogue: 0,0:17:53.14,0:17:54.26,Default,,0,0,0,,可是那次之后
-Dialogue: 0,0:17:54.58,0:17:55.58,Default,,0,0,0,,他就消失了
-Dialogue: 0,0:17:56.46,0:17:57.30,Default,,0,0,0,,我找了很久
-Dialogue: 0,0:17:57.30,0:17:58.38,Default,,0,0,0,,很多地方
-Dialogue: 0,0:17:58.78,0:17:59.90,Default,,0,0,0,,都找不到他
-Dialogue: 0,0:18:02.02,0:18:02.90,Default,,0,0,0,,不要太担心了
-Dialogue: 0,0:18:02.98,0:18:04.02,Default,,0,0,0,,梅高欧丝小姐
-Dialogue: 0,0:18:04.70,0:18:05.70,Default,,0,0,0,,小心孩子
-Dialogue: 0,0:18:06.22,0:18:06.62,Default,,0,0,0,,孩子
-Dialogue: 0,0:18:07.14,0:18:07.66,Default,,0,0,0,,孩子
-Dialogue: 0,0:18:12.78,0:18:14.70,Default,,0,0,0,,她的精神状态已经撑不了多久了
-Dialogue: 0,0:18:15.58,0:18:16.50,Default,,0,0,0,,弗莱和洛耀呢
-Dialogue: 0,0:18:16.86,0:18:17.50,Default,,0,0,0,,还没有回来
-Dialogue: 0,0:18:17.90,0:18:19.42,Default,,0,0,0,,通知所有非战斗人员撤离
-Dialogue: 0,0:18:19.78,0:18:21.38,Default,,0,0,0,,让警察部门尽快疏散民众
-Dialogue: 0,0:18:25.70,0:18:27.34,Default,,0,0,0,,关于兰尔乌斯先生的行踪
-Dialogue: 0,0:18:27.54,0:18:29.22,Default,,0,0,0,,我们确实掌握了一些新线索
-Dialogue: 0,0:18:30.14,0:18:30.74,Default,,0,0,0,,队长下令
-Dialogue: 0,0:18:30.94,0:18:31.58,Default,,0,0,0,,紧急情况
-Dialogue: 0,0:18:32.26,0:18:33.14,Default,,0,0,0,,文职全部撤离
-Dialogue: 0,0:18:33.58,0:18:34.26,Default,,0,0,0,,这里很危险
-Dialogue: 0,0:18:43.82,0:18:45.30,Default,,0,0,0,,真实造物者降临体
-Dialogue: 0,0:18:45.42,0:18:47.22,Default,,0,0,0,,最低也是序列四的神话生物
-Dialogue: 0,0:18:47.94,0:18:49.42,Default,,0,0,0,,必须立刻向圣堂求援
-Dialogue: 0,0:18:49.82,0:18:51.78,Default,,0,0,0,,向代罚者和机械之心求援
-Dialogue: 0,0:18:53.34,0:18:54.86,Default,,0,0,0,,序列四的神话生物
-Dialogue: 0,0:18:55.66,0:18:56.46,Default,,0,0,0,,单靠我们
-Dialogue: 0,0:18:56.66,0:18:57.38,Default,,0,0,0,,有胜算吗
-Dialogue: 0,0:18:58.18,0:18:58.98,Default,,0,0,0,,阿兹克先生
-Dialogue: 0,0:18:59.90,0:19:01.58,Default,,0,0,0,,要是阿兹克先生还在廷根
-Dialogue: 0,0:19:04.22,0:19:05.50,Default,,0,0,0,,对铜哨的压制减弱了
-Dialogue: 0,0:19:06.42,0:19:07.54,Default,,0,0,0,,赶紧通知阿兹克先生
-Dialogue: 0,0:19:11.58,0:19:12.46,Default,,0,0,0,,阿兹克先生
-Dialogue: 0,0:19:13.18,0:19:14.46,Default,,0,0,0,,让我命运不协调
-Dialogue: 0,0:19:14.98,0:19:16.90,Default,,0,0,0,,取走您孩子头骨的幕后黑手
-Dialogue: 0,0:19:17.18,0:19:18.06,Default,,0,0,0,,可能要出现了
-Dialogue: 0,0:19:18.78,0:19:20.10,Default,,0,0,0,,涉及真实造物者
-Dialogue: 0,0:19:20.50,0:19:21.50,Default,,0,0,0,,情况很危急
-Dialogue: 0,0:19:30.42,0:19:32.26,Default,,0,0,0,,如果圣堂的强援还没有抵达
-Dialogue: 0,0:19:32.26,0:19:33.66,Default,,0,0,0,,邪恶降临体就要降生
-Dialogue: 0,0:19:40.38,0:19:42.42,Default,,0,0,0,,你拿两件攻击性强的封印物
-Dialogue: 0,0:19:42.90,0:19:44.30,Default,,0,0,0,,我申请使用3-0782
-Dialogue: 0,0:19:44.82,0:19:45.70,Default,,0,0,0,,变异的太阳圣徽
-Dialogue: 0,0:19:46.62,0:19:48.22,Default,,0,0,0,,它昨天已被贝克兰德借走
-Dialogue: 0,0:19:49.62,0:19:50.34,Default,,0,0,0,,这么巧
-Dialogue: 0,0:19:50.86,0:19:52.94,Default,,0,0,0,,目前廷根只有三件二级封印物
-Dialogue: 0,0:19:53.54,0:19:55.90,Default,,0,0,0,,其中两件对高序列强者效果未知
-Dialogue: 0,0:19:56.98,0:20:00.10,Default,,0,0,0,,2-105血管小偷对高序列强者实测有效
-Dialogue: 0,0:20:00.70,0:20:02.02,Default,,0,0,0,,能窃取一定范围内
-Dialogue: 0,0:20:02.30,0:20:03.54,Default,,0,0,0,,某个目标的一项能力
-Dialogue: 0,0:20:04.26,0:20:05.30,Default,,0,0,0,,但是几率较小
-Dialogue: 0,0:20:06.02,0:20:06.94,Default,,0,0,0,,那就血管小偷吧
-Dialogue: 0,0:20:09.02,0:20:10.66,Default,,0,0,0,,凡是触碰到2-105的人
-Dialogue: 0,0:20:11.14,0:20:12.26,Default,,0,0,0,,都会被偷走生命
-Dialogue: 0,0:20:12.86,0:20:13.26,Default,,0,0,0,,切记
-Dialogue: 0,0:20:13.74,0:20:14.98,Default,,0,0,0,,序列八的极限是
-Dialogue: 0,0:20:15.58,0:20:16.10,Default,,0,0,0,,半小时
-Dialogue: 0,0:20:17.38,0:20:18.38,Default,,0,0,0,,我会将注意事项
-Dialogue: 0,0:20:18.38,0:20:19.26,Default,,0,0,0,,都告诉伦纳德
-Dialogue: 0,0:20:20.58,0:20:21.50,Default,,0,0,0,,诗人同学
-Dialogue: 0,0:20:22.30,0:20:23.54,Default,,0,0,0,,该展现你的秘密了
-Dialogue: 0,0:20:26.50,0:20:27.30,Default,,0,0,0,,那你使用哪件
-Dialogue: 0,0:20:29.42,0:20:30.06,Default,,0,0,0,,我另有打算
-Dialogue: 0,0:20:33.78,0:20:35.58,Default,,0,0,0,,圣赛琳娜
-Dialogue: 0,0:20:36.38,0:20:38.26,Default,,0,0,0,,圣赛琳娜
-Dialogue: 0,0:20:41.58,0:20:43.22,Default,,0,0,0,,我申请启用封印核心
-Dialogue: 0,0:20:43.90,0:20:45.30,Default,,0,0,0,,圣赛琳娜骨灰
-Dialogue: 0,0:20:46.30,0:20:46.62,Default,,0,0,0,,这
-Dialogue: 0,0:20:47.10,0:20:48.62,Default,,0,0,0,,需要圣堂特批
-Dialogue: 0,0:20:50.06,0:20:52.26,Default,,0,0,0,,我以廷根值夜者小队队长的名义
-Dialogue: 0,0:20:52.46,0:20:53.98,Default,,0,0,0,,启动战时紧急条款
-Dialogue: 0,0:20:54.46,0:20:55.98,Default,,0,0,0,,申请圣赛琳娜骨灰
-Dialogue: 0,0:21:38.46,0:21:39.78,Default,,0,0,0,,封印核心被取走
-Dialogue: 0,0:21:40.90,0:21:41.98,Default,,0,0,0,,查尼斯门靠你们了
-Dialogue: 0,0:21:42.98,0:21:44.70,Default,,0,0,0,,愿女神庇佑你们
-Dialogue: 0,0:22:12.34,0:22:13.54,Default,,0,0,0,,圣堂回电
-Dialogue: 0,0:22:14.18,0:22:14.98,Default,,0,0,0,,尽量拖延
-Dialogue: 0,0:22:15.26,0:22:16.06,Default,,0,0,0,,强援速到
-Dialogue: 0,0:22:16.98,0:22:17.66,Default,,0,0,0,,那些巧合呢
-Dialogue: 0,0:22:18.30,0:22:19.06,Default,,0,0,0,,没有回应
-Dialogue: 0,0:22:20.58,0:22:22.18,Default,,0,0,0,,现在最需要的就是时间
-Dialogue: 0,0:22:22.58,0:22:25.14,Default,,0,0,0,,希望梅高欧丝肚子里的降临体还能等待
-Dialogue: 0,0:22:30.02,0:22:31.94,Default,,0,0,0,,豪尔斯街还有他另外的住所吗
-Dialogue: 0,0:22:32.46,0:22:33.98,Default,,0,0,0,,他从来没有告诉过我
-Dialogue: 0,0:22:37.18,0:22:38.06,Default,,0,0,0,,不要犯傻
-Dialogue: 0,0:22:38.66,0:22:39.50,Default,,0,0,0,,快走
-Dialogue: 0,0:22:40.06,0:22:40.90,Default,,0,0,0,,离开
-Dialogue: 0,0:22:41.38,0:22:42.02,Default,,0,0,0,,你
-Dialogue: 0,0:22:43.50,0:22:45.22,Default,,0,0,0,,藏着什么
-Dialogue: 0,0:22:48.34,0:22:49.42,Default,,0,0,0,,兰尔乌斯先生
-Dialogue: 0,0:22:50.02,0:22:51.54,Default,,0,0,0,,其实是遇到了一些困难
-Dialogue: 0,0:22:51.74,0:22:53.02,Default,,0,0,0,,才不得不离开廷根的
-Dialogue: 0,0:22:54.34,0:22:54.98,Default,,0,0,0,,等解决了
-Dialogue: 0,0:22:55.46,0:22:56.54,Default,,0,0,0,,他就会回来找你
-Dialogue: 0,0:22:57.14,0:22:58.46,Default,,0,0,0,,还有你们的孩子的
-Dialogue: 0,0:23:00.10,0:23:00.86,Default,,0,0,0,,真的吗
-Dialogue: 0,0:23:02.50,0:23:03.78,Default,,0,0,0,,一定是这样的
-Dialogue: 0,0:23:05.42,0:23:07.30,Default,,0,0,0,,他很喜欢这个孩子的
-Dialogue: 0,0:23:07.74,0:23:08.50,Default,,0,0,0,,为了孩子
-Dialogue: 0,0:23:09.02,0:23:10.34,Default,,0,0,0,,他一定会回来
-Dialogue: 0,0:23:10.86,0:23:12.62,Default,,0,0,0,,莫雷蒂先生也说过
-Dialogue: 0,0:23:12.74,0:23:13.66,Default,,0,0,0,,只要有孩子
-Dialogue: 0,0:23:14.14,0:23:15.86,Default,,0,0,0,,就能找到兰尔乌斯
-Dialogue: 0,0:23:16.14,0:23:17.34,Default,,0,0,0,,克莱恩·莫雷蒂
-Dialogue: 0,0:23:18.46,0:23:19.06,Default,,0,0,0,,是的
-Dialogue: 0,0:23:19.58,0:23:21.18,Default,,0,0,0,,优秀的占卜家先生
-Dialogue: 0,0:23:21.90,0:23:23.62,Default,,0,0,0,,好像有人告诉过我
-Dialogue: 0,0:23:23.98,0:23:25.10,Default,,0,0,0,,我只要来这里
-Dialogue: 0,0:23:25.38,0:23:27.70,Default,,0,0,0,,你们就可以帮我更快地生下孩子
-Dialogue: 0,0:23:29.10,0:23:29.82,Default,,0,0,0,,谁告诉你的
-Dialogue: 0,0:23:31.02,0:23:32.22,Default,,0,0,0,,就有个声音
-Dialogue: 0,0:23:33.94,0:23:35.14,Default,,0,0,0,,有个声音说
-Dialogue: 0,0:23:35.74,0:23:37.94,Default,,0,0,0,,佐特兰街去见朋友
-Dialogue: 0,0:23:42.82,0:23:43.82,Default,,0,0,0,,邪恶降临体
-Dialogue: 0,0:23:43.82,0:23:44.78,Default,,0,0,0,,暂时还能稳住
-Dialogue: 0,0:23:45.50,0:23:46.02,Default,,0,0,0,,我先上去
-Dialogue: 0,0:23:46.54,0:23:47.14,Default,,0,0,0,,你守在这里
-Dialogue: 0,0:23:48.18,0:23:48.90,Default,,0,0,0,,Captain...
-Dialogue: 0,0:23:49.50,0:23:50.06,Default,,0,0,0,,差点忘了
-Dialogue: 0,0:23:52.22,0:23:53.26,Default,,0,0,0,,戴莉给你的回信
-Dialogue: 0,0:23:53.98,0:23:54.54,Default,,0,0,0,,在我这里
-Dialogue: 0,0:23:56.82,0:23:58.14,Default,,0,0,0,,她让我自己给你解释
-Dialogue: 0,0:24:06.58,0:24:07.62,Default,,0,0,0,,在神秘领域
-Dialogue: 0,0:24:08.02,0:24:08.94,Default,,0,0,0,,存在一个定律
-Dialogue: 0,0:24:09.74,0:24:11.42,Default,,0,0,0,,非凡特性不会毁灭
-Dialogue: 0,0:24:11.62,0:24:12.50,Default,,0,0,0,,也不会减少
-Dialogue: 0,0:24:13.46,0:24:15.86,Default,,0,0,0,,只是从一个承载物转移到另一个承载物
-Dialogue: 0,0:24:17.34,0:24:18.78,Default,,0,0,0,,我和戴莉发现这点时
-Dialogue: 0,0:24:19.38,0:24:20.78,Default,,0,0,0,,圣堂让我们立誓保密
-Dialogue: 0,0:24:21.26,0:24:22.10,Default,,0,0,0,,给了两个选择
-Dialogue: 0,0:24:23.90,0:24:24.90,Default,,0,0,0,,一是队友死后
-Dialogue: 0,0:24:25.46,0:24:27.50,Default,,0,0,0,,非凡特性全数上交圣堂
-Dialogue: 0,0:24:28.54,0:24:29.02,Default,,0,0,0,,二是
-Dialogue: 0,0:24:30.14,0:24:30.86,Default,,0,0,0,,同途径
-Dialogue: 0,0:24:31.38,0:24:32.26,Default,,0,0,0,,吸食入体
-Dialogue: 0,0:24:34.26,0:24:35.78,Default,,0,0,0,,我不知道他们的真实意愿
-Dialogue: 0,0:24:36.62,0:24:37.06,Default,,0,0,0,,同时
-Dialogue: 0,0:24:37.82,0:24:39.34,Default,,0,0,0,,这会大幅影响魔药消化
-Dialogue: 0,0:24:41.90,0:24:43.50,Default,,0,0,0,,但我还是做了这样的选择
-Dialogue: 0,0:24:46.98,0:24:48.58,Default,,0,0,0,,和他们永远在一起
-Dialogue: 0,0:25:00.34,0:25:00.90,Default,,0,0,0,,Captain...
-Dialogue: 0,0:25:12.34,0:25:14.82,Default,,0,0,0,,我的孩子
-Dialogue: 0,0:25:18.26,0:25:19.02,Default,,0,0,0,,快走
-Dialogue: 0,0:25:19.18,0:25:19.66,Default,,0,0,0,,小子
-Dialogue: 0,0:25:26.62,0:25:27.14,Default,,0,0,0,,冷静
-Dialogue: 0,0:25:27.46,0:25:28.30,Default,,0,0,0,,梅高欧丝小姐
-Dialogue: 0,0:25:28.70,0:25:29.78,Default,,0,0,0,,想想你们的孩子
-Dialogue: 0,0:25:30.54,0:25:31.26,Default,,0,0,0,,他的诞生
-Dialogue: 0,0:25:31.58,0:25:33.82,Default,,0,0,0,,应该接受父亲与母亲共同的祝福
-Dialogue: 0,0:25:34.34,0:25:35.86,Default,,0,0,0,,再过几天兰尔乌斯就回来了
-Dialogue: 0,0:25:36.42,0:25:37.50,Default,,0,0,0,,只要再等几天
-Dialogue: 0,0:25:38.10,0:25:39.62,Default,,0,0,0,,再等几天吗
-Dialogue: 0,0:25:40.70,0:25:42.42,Default,,0,0,0,,不是说孩子出生了
-Dialogue: 0,0:25:42.94,0:25:45.14,Default,,0,0,0,,爸爸就会回来吗
-Dialogue: 0,0:25:48.54,0:25:49.94,Default,,0,0,0,,终幕
-Dialogue: 0,0:25:50.54,0:25:52.30,Default,,0,0,0,,开启
-Dialogue: 0,0:26:05.14,0:26:05.62,Default,,0,0,0,,走
-Dialogue: 0,0:26:06.10,0:26:08.62,Default,,0,0,0,,这邪恶降临体受不了圣骨灰刺激
-Dialogue: 0,0:26:08.90,0:26:09.82,Default,,0,0,0,,快降生了
-Dialogue: 0,0:26:11.50,0:26:12.30,Default,,0,0,0,,圣骨灰
-Dialogue: 0,0:27:25.34,0:27:30.30,Default,,0,0,0,,焚毁破碎躯壳铸就新视野
-Dialogue: 0,0:27:30.98,0:27:38.66,Default,,0,0,0,,于迷雾中自由漫步手握光之杯盏
-Dialogue: 0,0:27:39.42,0:27:42.78,Default,,0,0,0,,何处有钥匙从骨血里凿出真相
-Dialogue: 0,0:27:42.90,0:27:46.30,Default,,0,0,0,,坠入黑暗且让梦与呐喊
-Dialogue: 0,0:27:46.42,0:27:51.98,Default,,0,0,0,,在虚无中刻下我未竟的名章
-Dialogue: 0,0:27:52.02,0:27:55.50,Default,,0,0,0,,惊叹抑或惶惑
-Dialogue: 0,0:27:55.50,0:27:58.98,Default,,0,0,0,,癫狂还是腐朽
-Dialogue: 0,0:27:59.34,0:28:00.98,Default,,0,0,0,,以微弱之光
-Dialogue: 0,0:28:00.98,0:28:05.26,Default,,0,0,0,,我发誓守护我所留存的世界
-Dialogue: 0,0:28:05.58,0:28:09.30,Default,,0,0,0,,搅动还是迟疑
-Dialogue: 0,0:28:09.30,0:28:12.62,Default,,0,0,0,,重生抑或如故
-Dialogue: 0,0:28:13.10,0:28:15.02,Default,,0,0,0,,暗灰低语
-Dialogue: 0,0:28:15.02,0:28:18.58,Default,,0,0,0,,指引我阴影之路
-Dialogue: 0,0:28:18.58,0:28:21.86,Default,,0,0,0,,渐行渐远
+Dialogue: 0,0:02:30.74,0:02:31.70,Default,,0,0,0,,you should use mediumship to investigate a bit.
+Dialogue: 0,0:02:37.18,0:02:37.70,Default,,0,0,0,,I got it,
+Dialogue: 0,0:02:38.30,0:02:38.62,Default,,0,0,0,,Captain.
+Dialogue: 0,0:02:44.38,0:02:45.30,Default,,0,0,0,,With the Captain, it looks like
+Dialogue: 0,0:02:45.78,0:02:46.58,Default,,0,0,0,,nothing is out of the ordinary.
+Dialogue: 0,0:02:47.82,0:02:48.90,Default,,0,0,0,,Was that a hallucination?
+Dialogue: 0,0:02:51.74,0:02:52.18,Default,,0,0,0,,That's not right.
+Dialogue: 0,0:02:52.98,0:02:53.86,Default,,0,0,0,,It wasn't a hallucination.
+Dialogue: 0,0:02:54.74,0:02:55.86,Default,,0,0,0,,Kenley's corpse,
+Dialogue: 0,0:02:56.74,0:02:58.06,Default,,0,0,0,,it's really missing something.
+Dialogue: 0,0:03:19.02,0:03:19.66,Default,,0,0,0,,Why?
+Dialogue: 0,0:03:20.46,0:03:21.94,Default,,0,0,0,,Why is it like this again?
+Dialogue: 0,0:03:22.62,0:03:23.26,Default,,0,0,0,,Kenley...
+Dialogue: 0,0:03:23.82,0:03:25.58,Default,,0,0,0,,He was engaged just last month.
+Dialogue: 0,0:03:27.14,0:03:29.50,Default,,0,0,0,,Why would you become a Beyonder?
+Dialogue: 0,0:03:30.46,0:03:32.82,Default,,0,0,0,,Why is there always danger?
+Dialogue: 0,0:03:33.70,0:03:34.98,Default,,0,0,0,,May the Goddess bless you.
+Dialogue: 0,0:03:35.74,0:03:37.22,Default,,0,0,0,,May you find true peace.
+Dialogue: 0,0:03:46.78,0:03:47.34,Default,,0,0,0,,Captain.
+Dialogue: 0,0:03:48.14,0:03:49.10,Default,,0,0,0,,What exactly did you do?
+Dialogue: 0,0:03:49.98,0:03:51.66,Default,,0,0,0,,Earlier you ordered me to go downstairs and handle the aftermath,
+Dialogue: 0,0:03:52.06,0:03:53.30,Default,,0,0,0,,did you want to draw me away?
+Dialogue: 0,0:03:53.98,0:03:54.86,Default,,0,0,0,,Kenley...
+Dialogue: 0,0:03:55.46,0:03:57.38,Default,,0,0,0,,died because of 3-0217.
+Dialogue: 0,0:03:57.78,0:03:59.10,Default,,0,0,0,,3-0217,
+Dialogue: 0,0:03:59.78,0:04:01.26,Default,,0,0,0,,it was Captain who gave it to Kenley.
+Dialogue: 0,0:04:02.82,0:04:03.62,Default,,0,0,0,,What am I thinking?
+Dialogue: 0,0:04:04.98,0:04:06.34,Default,,0,0,0,,It was a logical decision back then!
+Dialogue: 0,0:04:07.74,0:04:08.30,Default,,0,0,0,,But
+Dialogue: 0,0:04:09.58,0:04:10.90,Default,,0,0,0,,3-0217,
+Dialogue: 0,0:04:12.10,0:04:14.02,Default,,0,0,0,,it was also the Captain who suggested using it.
+Dialogue: 0,0:04:15.94,0:04:18.02,Default,,0,0,0,,According to Klein's mediumship of Sharon Khoy,
+Dialogue: 0,0:04:18.58,0:04:20.90,Default,,0,0,0,,the Demoness Sect appears to be collaborating with the Aurora Order,
+Dialogue: 0,0:04:21.50,0:04:22.50,Default,,0,0,0,,and the Lanevus case
+Dialogue: 0,0:04:22.74,0:04:23.98,Default,,0,0,0,,is related to Tingen's end of days.
+Dialogue: 0,0:04:24.66,0:04:25.58,Default,,0,0,0,,Follow these clues,
+Dialogue: 0,0:04:25.86,0:04:26.90,Default,,0,0,0,,examine them again carefully.
+Dialogue: 0,0:04:27.42,0:04:27.82,Default,,0,0,0,,Understood.
+Dialogue: 0,0:04:28.78,0:04:29.18,Default,,0,0,0,,Captain.
+Dialogue: 0,0:04:29.62,0:04:30.86,Default,,0,0,0,,Now that Sharon Khoy is dead,
+Dialogue: 0,0:04:31.58,0:04:32.38,Default,,0,0,0,,can the Tingen crisis
+Dialogue: 0,0:04:32.38,0:04:33.66,Default,,0,0,0,,temporarily be lifted?
+Dialogue: 0,0:04:35.50,0:04:38.38,Default,,0,0,0,,Sharon Khoy may be a key part of the end of days,
+Dialogue: 0,0:04:39.94,0:04:41.06,Default,,0,0,0,,but the evil organizations
+Dialogue: 0,0:04:41.58,0:04:43.26,Default,,0,0,0,,will never make just one move.
+Dialogue: 0,0:05:49.70,0:05:50.54,Default,,0,0,0,,You're back, Klein.
+Dialogue: 0,0:05:54.42,0:05:55.70,Default,,0,0,0,,Have you been busy lately?
+Dialogue: 0,0:05:56.14,0:05:57.62,Default,,0,0,0,,There's breakfast in the kitchen, do you want to eat a bit?
+Dialogue: 0,0:05:58.38,0:05:58.78,Default,,0,0,0,,Okay.
+Dialogue: 0,0:05:59.38,0:06:00.26,Default,,0,0,0,,Wait until my work is over.
+Dialogue: 0,0:06:08.06,0:06:09.18,Default,,0,0,0,,The letter's already been sent.
+Dialogue: 0,0:06:10.30,0:06:12.98,Default,,0,0,0,,I hope Mr. Azik and Madam Daly can reply as soon as possible.
+Dialogue: 0,0:06:14.22,0:06:15.74,Default,,0,0,0,,I'm not clear on the things that have occurred.
+Dialogue: 0,0:06:16.38,0:06:18.02,Default,,0,0,0,,I also don't know what state the Captain is in.
+Dialogue: 0,0:06:19.22,0:06:20.70,Default,,0,0,0,,Only you two can give me answers.
+Dialogue: 0,0:06:37.30,0:06:39.58,Default,,0,0,0,,The reason for Dunn Smith's abnormality.
+Dialogue: 0,0:06:45.42,0:06:46.26,Default,,0,0,0,,No response.
+Dialogue: 0,0:06:47.54,0:06:48.66,Default,,0,0,0,,That means that there was insufficient information,
+Dialogue: 0,0:06:48.86,0:06:49.58,Default,,0,0,0,,so the divination failed...
+Dialogue: 0,0:06:50.66,0:06:51.54,Default,,0,0,0,,Generally speaking,
+Dialogue: 0,0:06:52.18,0:06:53.58,Default,,0,0,0,,divination involving one's own safety
+Dialogue: 0,0:06:53.66,0:06:54.82,Default,,0,0,0,,requires the least amount of information.
+Dialogue: 0,0:06:55.70,0:06:58.38,Default,,0,0,0,,If I start from the aspect of divining my {\i1}own{\i0} safety...
+Dialogue: 0,0:07:00.58,0:07:02.18,Default,,0,0,0,,Dunn Smith’s abnormality
+Dialogue: 0,0:07:02.70,0:07:04.46,Default,,0,0,0,,will lead me to danger.
+Dialogue: 0,0:07:07.42,0:07:07.94,Default,,0,0,0,,Positive!
+Dialogue: 0,0:07:09.10,0:07:10.86,Default,,0,0,0,,Captain’s abnormality will lead me to danger!
+Dialogue: 0,0:07:11.18,0:07:12.34,Default,,0,0,0,,And the danger level is significant.
+Dialogue: 0,0:07:23.58,0:07:24.82,Default,,0,0,0,,Mr. Azik replied!
+Dialogue: 0,0:07:29.74,0:07:30.86,Default,,0,0,0,,The scenario you described
+Dialogue: 0,0:07:31.26,0:07:33.26,Default,,0,0,0,,reminded me of Vampires and Mutants.
+Dialogue: 0,0:07:35.02,0:07:38.46,Default,,0,0,0,,Natural vampires were already on the brink of extinction before the dragons and giants bowed out of the stage of world history,
+Dialogue: 0,0:07:38.78,0:07:40.02,Default,,0,0,0,,so already close to extinction.
+Dialogue: 0,0:07:40.82,0:07:41.78,Default,,0,0,0,,But I recall
+Dialogue: 0,0:07:42.02,0:07:43.66,Default,,0,0,0,,that there's a particular Pathway with some Sequence
+Dialogue: 0,0:07:44.06,0:07:45.74,Default,,0,0,0,,whose potion name was called Vampire.
+Dialogue: 0,0:07:47.42,0:07:48.50,Default,,0,0,0,,Regarding Mutants,
+Dialogue: 0,0:07:49.14,0:07:52.22,Default,,0,0,0,,some speculate they are ordinary humans who, after being tainted or cursed,
+Dialogue: 0,0:07:52.86,0:07:54.78,Default,,0,0,0,,transform into monsters under specific circumstances.
+Dialogue: 0,0:07:56.98,0:07:57.82,Default,,0,0,0,,Your superior
+Dialogue: 0,0:07:58.46,0:08:00.18,Default,,0,0,0,,might be a potential Mutant.
+Dialogue: 0,0:08:03.14,0:08:03.50,Default,,0,0,0,,Of course,
+Dialogue: 0,0:08:03.98,0:08:05.06,Default,,0,0,0,,these are all my personal guesses.
+Dialogue: 0,0:08:05.74,0:08:06.62,Default,,0,0,0,,But no matter which,
+Dialogue: 0,0:08:07.02,0:08:09.10,Default,,0,0,0,,it proves that your superior is in an unstable condition right now,
+Dialogue: 0,0:08:09.62,0:08:10.46,Default,,0,0,0,,and very dangerous.
+Dialogue: 0,0:08:11.62,0:08:12.46,Default,,0,0,0,,You'd best be careful.
+Dialogue: 0,0:08:17.38,0:08:18.06,Default,,0,0,0,,Klein.
+Dialogue: 0,0:08:26.98,0:08:27.42,Default,,0,0,0,,Captain.
+Dialogue: 0,0:08:29.26,0:08:29.82,Default,,0,0,0,,Klein.
+Dialogue: 0,0:08:30.94,0:08:32.62,Default,,0,0,0,,Head to 62 Howes Street.
+Dialogue: 0,0:08:33.86,0:08:35.98,Default,,0,0,0,,Leonard found Lanevus' residence.
+Dialogue: 0,0:08:36.50,0:08:37.46,Default,,0,0,0,,He needs your help.
+Dialogue: 0,0:08:41.18,0:08:41.54,Default,,0,0,0,,You're here.
+Dialogue: 0,0:08:43.50,0:08:44.02,Default,,0,0,0,,You didn't sleep well.
+Dialogue: 0,0:08:46.82,0:08:47.58,Default,,0,0,0,,How did you figure it out?
+Dialogue: 0,0:08:48.58,0:08:50.62,Default,,0,0,0,,You guys found a clue from Hood Eugen
+Dialogue: 0,0:08:50.90,0:08:52.98,Default,,0,0,0,,and suspected that Lanevus was connected to Sirius.
+Dialogue: 0,0:08:53.54,0:08:56.14,Default,,0,0,0,,Sirius had interactions with many of the residents on Howes Street,
+Dialogue: 0,0:08:56.70,0:08:57.66,Default,,0,0,0,,so I searched every one of them.
+Dialogue: 0,0:08:58.22,0:09:00.38,Default,,0,0,0,,An old man looked Lanevus' picture
+Dialogue: 0,0:09:00.86,0:09:02.86,Default,,0,0,0,,and felt that he looked similar to the resident at number 62,
+Dialogue: 0,0:09:03.54,0:09:04.78,Default,,0,0,0,,but it's already been a long time since he's come back.
+Dialogue: 0,0:09:05.82,0:09:06.66,Default,,0,0,0,,I suspect this place
+Dialogue: 0,0:09:07.22,0:09:08.26,Default,,0,0,0,,has a hidden secret chamber.
+Dialogue: 0,0:09:13.94,0:09:16.26,Default,,0,0,0,,The secret chamber or hidden compartment in this building.
+Dialogue: 0,0:09:30.50,0:09:31.10,Default,,0,0,0,,A letter {\i1}again{\i0}.
+Dialogue: 0,0:09:35.58,0:09:36.62,Default,,0,0,0,,Congratulations
+Dialogue: 0,0:09:36.98,0:09:38.66,Default,,0,0,0,,on finally finding this letter!
+Dialogue: 0,0:09:39.98,0:09:41.74,Default,,0,0,0,,This means that you’re not too stupid.
+Dialogue: 0,0:09:42.06,0:09:44.54,Default,,0,0,0,,You qualify to take part in what I've designed, this
+Dialogue: 0,0:09:45.06,0:09:47.38,Default,,0,0,0,,game of life and death.
+Dialogue: 0,0:09:48.30,0:09:49.30,Default,,0,0,0,,Madness,
+Dialogue: 0,0:09:49.70,0:09:51.58,Default,,0,0,0,,will eventually pay the price.
+Dialogue: 0,0:09:51.90,0:09:53.46,Default,,0,0,0,,The crime of blasphemy―—
+Dialogue: 0,0:09:53.62,0:09:55.14,Default,,0,0,0,,there is no salvation.
+Dialogue: 0,0:09:59.10,0:09:59.78,Default,,0,0,0,,Poverty,
+Dialogue: 0,0:10:00.18,0:10:00.90,Default,,0,0,0,,disease,
+Dialogue: 0,0:10:01.38,0:10:02.82,Default,,0,0,0,,Child laborers that die before their time.
+Dialogue: 0,0:10:03.14,0:10:05.34,Default,,0,0,0,,Workers who seldom live past thirty years old.
+Dialogue: 0,0:10:05.98,0:10:08.02,Default,,0,0,0,,Every factory in this city
+Dialogue: 0,0:10:08.38,0:10:10.34,Default,,0,0,0,,is enveloped in boundless resentment.
+Dialogue: 0,0:10:10.74,0:10:11.70,Default,,0,0,0,,Our game
+Dialogue: 0,0:10:11.98,0:10:14.42,Default,,0,0,0,,shall take place in this kind of setting.
+Dialogue: 0,0:10:16.30,0:10:17.34,Default,,0,0,0,,Fools,
+Dialogue: 0,0:10:17.98,0:10:19.18,Default,,0,0,0,,prepare yourselves!
+Dialogue: 0,0:10:19.90,0:10:22.62,Default,,0,0,0,,I've placed a bomb in the middle of Tingen,
+Dialogue: 0,0:10:23.02,0:10:26.30,Default,,0,0,0,,a bomb that will continue to grow stronger as time goes on!
+Dialogue: 0,0:10:27.54,0:10:28.06,Default,,0,0,0,,A bomb?
+Dialogue: 0,0:10:28.58,0:10:30.06,Default,,0,0,0,,Go find it then,
+Dialogue: 0,0:10:30.78,0:10:32.02,Default,,0,0,0,,dear friends.
+Dialogue: 0,0:10:32.78,0:10:33.62,Default,,0,0,0,,Time is tight.
+Dialogue: 0,0:10:34.22,0:10:35.46,Default,,0,0,0,,We have to hurry back and tell the Captain.
+Dialogue: 0,0:10:41.18,0:10:42.82,Default,,0,0,0,,If you fail the game...
+Dialogue: 0,0:10:43.26,0:10:44.06,Default,,0,0,0,,boom!
+Dialogue: 0,0:10:44.50,0:10:45.78,Default,,0,0,0,,The whole of Tingen
+Dialogue: 0,0:10:46.14,0:10:48.02,Default,,0,0,0,,will be reduced to a ruin.
+Dialogue: 0,0:10:48.82,0:10:51.90,Default,,0,0,0,,The one who enjoys giving his friends pleasant surprises,
+Dialogue: 0,0:10:52.70,0:10:54.50,Default,,0,0,0,,Lanevus.
+Dialogue: 0,0:11:03.62,0:11:04.94,Default,,0,0,0,,I've never heard of
+Dialogue: 0,0:11:05.10,0:11:06.38,Default,,0,0,0,,a bomb that can grow stronger.
+Dialogue: 0,0:11:07.38,0:11:08.82,Default,,0,0,0,,It's a bomb related to mysticism.
+Dialogue: 0,0:11:09.34,0:11:12.10,Default,,0,0,0,,Such as an evil ritual that continuously accumulates power.
+Dialogue: 0,0:11:15.38,0:11:16.58,Default,,0,0,0,,I agree with your guess.
+Dialogue: 0,0:11:17.46,0:11:19.06,Default,,0,0,0,,The description that Lanevus wrote
+Dialogue: 0,0:11:19.54,0:11:22.10,Default,,0,0,0,,might be the energy source that constantly strengthens the bomb.
+Dialogue: 0,0:11:23.50,0:11:24.66,Default,,0,0,0,,The problem is
+Dialogue: 0,0:11:25.18,0:11:26.22,Default,,0,0,0,,where is the bomb?
+Dialogue: 0,0:11:28.66,0:11:29.54,Default,,0,0,0,,What happened?
+Dialogue: 0,0:11:31.62,0:11:32.06,Default,,0,0,0,,Where's the Captain?
+Dialogue: 0,0:11:36.94,0:11:37.42,Default,,0,0,0,,A bomb?
+Dialogue: 0,0:11:37.98,0:11:40.38,Default,,0,0,0,,Could it be atop the altar in Hood Eugen's Mind World?
+Dialogue: 0,0:11:41.18,0:11:42.26,Default,,0,0,0,,But where's the altar?
+Dialogue: 0,0:11:43.22,0:11:44.58,Default,,0,0,0,,Under the center of Tingen...
+Dialogue: 0,0:12:02.74,0:12:03.54,Default,,0,0,0,,Hello.
+Dialogue: 0,0:12:04.82,0:12:06.18,Default,,0,0,0,,Miss Megose!
+Dialogue: 0,0:12:07.26,0:12:08.70,Default,,0,0,0,,Lanevus's fiancee.
+Dialogue: 0,0:12:10.42,0:12:12.38,Default,,0,0,0,,Before she had some issues with her mental health.
+Dialogue: 0,0:12:13.06,0:12:15.54,Default,,0,0,0,,She says her child sings in her stomach and also whistles.
+Dialogue: 0,0:12:17.38,0:12:18.26,Default,,0,0,0,,Miss Megose.
+Dialogue: 0,0:12:18.98,0:12:20.10,Default,,0,0,0,,What brings you here?
+Dialogue: 0,0:12:21.46,0:12:22.62,Default,,0,0,0,,I don't know why,
+Dialogue: 0,0:12:23.22,0:12:25.62,Default,,0,0,0,,I suddenly thought of coming to Zouteland Street
+Dialogue: 0,0:12:26.54,0:12:28.70,Default,,0,0,0,,and suddenly thought of coming up to take a look.
+Dialogue: 0,0:12:30.70,0:12:32.62,Default,,0,0,0,,Her mental health seems to have worsened...
+Dialogue: 0,0:12:34.10,0:12:35.82,Default,,0,0,0,,Last time I didn't have time to activate Spirit Vision.
+Dialogue: 0,0:12:50.86,0:12:51.46,Default,,0,0,0,,Don't look!
+Dialogue: 0,0:12:52.10,0:12:52.70,Default,,0,0,0,,Don't look!
+Dialogue: 0,0:12:53.14,0:12:53.74,Default,,0,0,0,,Don't look!
+Dialogue: 0,0:13:00.30,0:13:00.90,Default,,0,0,0,,If you look,
+Dialogue: 0,0:13:01.22,0:13:02.30,Default,,0,0,0,,you'll die!
+Dialogue: 0,0:13:12.34,0:13:14.06,Default,,0,0,0,,The bomb that Lanevus set isn't on the altar...
+Dialogue: 0,0:13:16.06,0:13:18.14,Default,,0,0,0,,it's the sinister existence that's in Megose's body!
+Dialogue: 0,0:13:29.18,0:13:31.78,Default,,0,0,0,,I started the Industrial Revolution with my own hands
+Dialogue: 0,0:13:32.34,0:13:35.46,Default,,0,0,0,,and personally ushered in the Age of Steam and Machinery,
+Dialogue: 0,0:13:36.66,0:13:39.02,Default,,0,0,0,,but will this only become the hotbed for the descent
+Dialogue: 0,0:13:39.06,0:13:40.86,Default,,0,0,0,,of an Evil God upon this world?!
+Dialogue: 0,0:13:51.62,0:13:52.66,Default,,0,0,0,,The copper whistle is being supressed!
+Dialogue: 0,0:13:57.34,0:13:59.06,Default,,0,0,0,,The Flaring Sun Charm is not affected.
+Dialogue: 0,0:14:02.62,0:14:03.54,Default,,0,0,0,,Miss Megose.
+Dialogue: 0,0:14:04.62,0:14:05.46,Default,,0,0,0,,Is there something you want to commission?
+Dialogue: 0,0:14:07.38,0:14:08.50,Default,,0,0,0,,I want to chat
+Dialogue: 0,0:14:08.90,0:14:10.14,Default,,0,0,0,,about Lanevus.
+Dialogue: 0,0:14:11.10,0:14:11.98,Default,,0,0,0,,He said
+Dialogue: 0,0:14:12.58,0:14:13.78,Default,,0,0,0,,you guys know a lot.
+Dialogue: 0,0:14:15.50,0:14:16.18,Default,,0,0,0,,Who
+Dialogue: 0,0:14:16.70,0:14:17.26,Default,,0,0,0,,is "he"?
+Dialogue: 0,0:14:19.38,0:14:20.14,Default,,0,0,0,,My
+Dialogue: 0,0:14:20.70,0:14:21.62,Default,,0,0,0,,child.
+Dialogue: 0,0:14:24.62,0:14:25.18,Default,,0,0,0,,May I ask,
+Dialogue: 0,0:14:25.66,0:14:26.34,Default,,0,0,0,,do you want coffee
+Dialogue: 0,0:14:26.62,0:14:27.34,Default,,0,0,0,,or black tea?
+Dialogue: 0,0:14:29.66,0:14:30.74,Default,,0,0,0,,A cup of warm water.
+Dialogue: 0,0:14:31.42,0:14:32.02,Default,,0,0,0,,Please wait a moment,
+Dialogue: 0,0:14:32.14,0:14:32.54,Default,,0,0,0,,Madam.
+Dialogue: 0,0:14:34.82,0:14:35.30,Default,,0,0,0,,Keep her stable.
+Dialogue: 0,0:14:56.58,0:14:57.14,Default,,0,0,0,,Klein.
+Dialogue: 0,0:15:08.86,0:15:09.46,Default,,0,0,0,,I heard
+Dialogue: 0,0:15:09.86,0:15:11.14,Default,,0,0,0,,you and Mr. Lanevus
+Dialogue: 0,0:15:11.50,0:15:12.94,Default,,0,0,0,,first met at a ball.
+Dialogue: 0,0:15:14.74,0:15:15.46,Default,,0,0,0,,That's right.
+Dialogue: 0,0:15:16.06,0:15:16.34,Default,,0,0,0,,I
+Dialogue: 0,0:15:16.98,0:15:18.14,Default,,0,0,0,,first met him
+Dialogue: 0,0:15:18.86,0:15:20.70,Default,,0,0,0,,at a parliamentary ball.
+Dialogue: 0,0:15:22.90,0:15:24.30,Default,,0,0,0,,He was outstanding,
+Dialogue: 0,0:15:24.90,0:15:26.30,Default,,0,0,0,,elegant and wealthy,
+Dialogue: 0,0:15:27.10,0:15:30.42,Default,,0,0,0,,that night he was the young entrepreneur all the girls were most interested in.
+Dialogue: 0,0:15:31.30,0:15:34.34,Default,,0,0,0,,At that time there were so many beautiful girls waiting to dance with him.
+Dialogue: 0,0:15:34.74,0:15:35.94,Default,,0,0,0,,But I don't know why
+Dialogue: 0,0:15:36.58,0:15:38.34,Default,,0,0,0,,he only invited me.
+Dialogue: 0,0:15:40.86,0:15:42.82,Default,,0,0,0,,From the waltz to the courante,
+Dialogue: 0,0:15:43.22,0:15:45.34,Default,,0,0,0,,he was with me the whole night!
+Dialogue: 0,0:15:46.74,0:15:49.38,Default,,0,0,0,,Every word he said made me happy.
+Dialogue: 0,0:15:49.78,0:15:52.02,Default,,0,0,0,,Every expression captivated me.
+Dialogue: 0,0:15:53.62,0:15:54.30,Default,,0,0,0,,At that time
+Dialogue: 0,0:15:55.02,0:15:57.78,Default,,0,0,0,,I knew I never wanted to leave him in my life.
+Dialogue: 0,0:16:01.62,0:16:03.34,Default,,0,0,0,,Later they told me
+Dialogue: 0,0:16:03.62,0:16:04.62,Default,,0,0,0,,he's a swindler.
+Dialogue: 0,0:16:05.06,0:16:06.14,Default,,0,0,0,,That he deceived me.
+Dialogue: 0,0:16:07.02,0:16:08.06,Default,,0,0,0,,But it wasn't like that!
+Dialogue: 0,0:16:08.82,0:16:09.94,Default,,0,0,0,,He was very good to me.
+Dialogue: 0,0:16:10.86,0:16:13.14,Default,,0,0,0,,He frequently brought me to attend meetings with his friends!
+Dialogue: 0,0:16:14.50,0:16:16.62,Default,,0,0,0,,He even brought me to lots of wonderful places.
+Dialogue: 0,0:16:17.62,0:16:18.14,Default,,0,0,0,,That day!
+Dialogue: 0,0:16:19.66,0:16:20.50,Default,,0,0,0,,That day...
+Dialogue: 0,0:16:29.66,0:16:31.94,Default,,0,0,0,,He gave me a necklace.
+Dialogue: 0,0:16:33.22,0:16:34.18,Default,,0,0,0,,He even said
+Dialogue: 0,0:16:34.90,0:16:36.86,Default,,0,0,0,,he wanted to give me a surprise.
+Dialogue: 0,0:16:39.74,0:16:41.78,Default,,0,0,0,,Descendant of Death's characteristic
+Dialogue: 0,0:16:42.38,0:16:43.90,Default,,0,0,0,,and a mortal body,
+Dialogue: 0,0:16:44.18,0:16:46.74,Default,,0,0,0,,to create a vessel to welcome the descent!
+Dialogue: 0,0:16:48.58,0:16:50.90,Default,,0,0,0,,Boundless resentment and darkness
+Dialogue: 0,0:16:51.38,0:16:54.66,Default,,0,0,0,,will be the breastmilk and honey that nourish the Blessed.
+Dialogue: 0,0:17:05.94,0:17:07.78,Default,,0,0,0,,You're saying the child she's bearing is not Lanevus'.
+Dialogue: 0,0:17:08.78,0:17:09.06,Default,,0,0,0,,Correct.
+Dialogue: 0,0:17:09.58,0:17:10.62,Default,,0,0,0,,I attempted to activate Spirit Vision
+Dialogue: 0,0:17:11.10,0:17:11.98,Default,,0,0,0,,but my spirituality warned me,
+Dialogue: 0,0:17:12.46,0:17:13.18,Default,,0,0,0,,"Do not look directly at God!"
+Dialogue: 0,0:17:14.06,0:17:16.06,Default,,0,0,0,,Connecting the altar in Eugen's Mind World
+Dialogue: 0,0:17:16.42,0:17:18.38,Default,,0,0,0,,and the divinity Lanevus promised Eugen.
+Dialogue: 0,0:17:19.18,0:17:20.78,Default,,0,0,0,,I suspect what's in Megose's stomach is
+Dialogue: 0,0:17:21.50,0:17:23.10,Default,,0,0,0,,the descended body of the True Creator.
+Dialogue: 0,0:17:23.46,0:17:23.86,Default,,0,0,0,,That's right.
+Dialogue: 0,0:17:24.26,0:17:26.14,Default,,0,0,0,,So that's why Mr. Havre, who was tailing Megose,
+Dialogue: 0,0:17:26.26,0:17:27.14,Default,,0,0,0,,would suddenly lose control.
+Dialogue: 0,0:17:28.14,0:17:30.10,Default,,0,0,0,,It's possible Old Neil also suffered from "His" catalysis.
+Dialogue: 0,0:17:31.82,0:17:32.30,Default,,0,0,0,,Moreover,
+Dialogue: 0,0:17:33.10,0:17:34.66,Default,,0,0,0,,We only just searched Lanevus' letter
+Dialogue: 0,0:17:35.18,0:17:36.66,Default,,0,0,0,,and Megose suddenly appeared at our door.
+Dialogue: 0,0:17:39.14,0:17:40.46,Default,,0,0,0,,An extraordinary coincidence.
+Dialogue: 0,0:17:41.70,0:17:42.54,Default,,0,0,0,,It's too obvious.
+Dialogue: 0,0:17:42.70,0:17:43.46,Default,,0,0,0,,Too direct.
+Dialogue: 0,0:17:43.74,0:17:45.06,Default,,0,0,0,,It’s already completely no longer hidden.
+Dialogue: 0,0:17:45.94,0:17:48.98,Default,,0,0,0,,It looks like the mastermind behind the scenes has finally made a move.
+Dialogue: 0,0:17:53.14,0:17:54.30,Default,,0,0,0,,But after that time,
+Dialogue: 0,0:17:54.58,0:17:55.54,Default,,0,0,0,,he just disappeared.
+Dialogue: 0,0:17:56.50,0:17:57.30,Default,,0,0,0,,I've looked for so long,
+Dialogue: 0,0:17:57.30,0:17:58.38,Default,,0,0,0,,in so many places,
+Dialogue: 0,0:17:58.78,0:17:59.90,Default,,0,0,0,,and I can't find him!
+Dialogue: 0,0:18:01.98,0:18:02.90,Default,,0,0,0,,Don't be so worried,
+Dialogue: 0,0:18:02.98,0:18:03.98,Default,,0,0,0,,Miss Megose.
+Dialogue: 0,0:18:04.70,0:18:05.66,Default,,0,0,0,,Careful with your child.
+Dialogue: 0,0:18:06.22,0:18:06.62,Default,,0,0,0,,Child!
+Dialogue: 0,0:18:07.14,0:18:07.66,Default,,0,0,0,,Child!
+Dialogue: 0,0:18:12.82,0:18:14.74,Default,,0,0,0,,Her mental state already can't hold on for much longer.
+Dialogue: 0,0:18:15.58,0:18:16.50,Default,,0,0,0,,What about Frye and Royale?
+Dialogue: 0,0:18:16.86,0:18:17.50,Default,,0,0,0,,They haven't returned yet.
+Dialogue: 0,0:18:17.90,0:18:19.42,Default,,0,0,0,,Contact all non-combatants to evacuate.
+Dialogue: 0,0:18:19.74,0:18:21.38,Default,,0,0,0,,Let the police department evacuate the citizens as soon as possible.
+Dialogue: 0,0:18:25.70,0:18:27.38,Default,,0,0,0,,Regarding Mr. Lanevus' whereabouts,
+Dialogue: 0,0:18:27.58,0:18:29.18,Default,,0,0,0,,we actually got our hands on some new clues.
+Dialogue: 0,0:18:30.14,0:18:30.70,Default,,0,0,0,,Captain’s orders.
+Dialogue: 0,0:18:30.94,0:18:31.58,Default,,0,0,0,,It's an emergency situation.
+Dialogue: 0,0:18:32.22,0:18:33.14,Default,,0,0,0,,All civilian posts evacuate.
+Dialogue: 0,0:18:33.58,0:18:34.26,Default,,0,0,0,,It's dangerous here.
+Dialogue: 0,0:18:34.82,0:18:35.14,Default,,0,0,0,,Go!
+Dialogue: 0,0:18:43.82,0:18:45.30,Default,,0,0,0,,The True Creator's descended body
+Dialogue: 0,0:18:45.42,0:18:47.22,Default,,0,0,0,,is also Sequence 4 Demigod at minimum.
+Dialogue: 0,0:18:47.90,0:18:49.42,Default,,0,0,0,,I need to ask for assistance from the Holy Cathedral immediately.
+Dialogue: 0,0:18:49.82,0:18:51.78,Default,,0,0,0,,And also from the Mandated Punishers and the Machinery Hivemind.
+Dialogue: 0,0:18:53.30,0:18:54.86,Default,,0,0,0,,Sequence 4 Demigod.
+Dialogue: 0,0:18:55.66,0:18:56.46,Default,,0,0,0,,Relying just on us...
+Dialogue: 0,0:18:56.66,0:18:57.38,Default,,0,0,0,,is there a chance of success?
+Dialogue: 0,0:18:58.18,0:18:58.94,Default,,0,0,0,,Mr. Azik!
+Dialogue: 0,0:18:59.90,0:19:01.58,Default,,0,0,0,,If Mr. Azik is still in Tingen
+Dialogue: 0,0:19:04.18,0:19:05.46,Default,,0,0,0,,the supression on the copper whistle will weaken!
+Dialogue: 0,0:19:06.42,0:19:07.50,Default,,0,0,0,,I need to quickly contact Mr. Azik.
+Dialogue: 0,0:19:11.58,0:19:12.42,Default,,0,0,0,,Mr. Azik!
+Dialogue: 0,0:19:13.18,0:19:14.34,Default,,0,0,0,,The mastermind behind the scenes
+Dialogue: 0,0:19:14.94,0:19:16.90,Default,,0,0,0,,that made my fate disharmonious and stole the skull of your child
+Dialogue: 0,0:19:17.18,0:19:18.02,Default,,0,0,0,,might have appeared!
+Dialogue: 0,0:19:18.78,0:19:20.06,Default,,0,0,0,,This involves the True Creator
+Dialogue: 0,0:19:20.50,0:19:21.46,Default,,0,0,0,,so the situation is desperate.
+Dialogue: 0,0:19:30.38,0:19:32.22,Default,,0,0,0,,If the Holy Cathedral's reinforcements haven't arrived,
+Dialogue: 0,0:19:32.26,0:19:33.66,Default,,0,0,0,,the evil descended body will be born.
+Dialogue: 0,0:19:40.34,0:19:42.38,Default,,0,0,0,,Go grab two offensive Sealed Artifacts.
+Dialogue: 0,0:19:42.90,0:19:44.30,Default,,0,0,0,,I'll apply to use 3-0782,
+Dialogue: 0,0:19:44.82,0:19:45.70,Default,,0,0,0,,Mutated Sun Sacred Emblem.
+Dialogue: 0,0:19:46.58,0:19:48.18,Default,,0,0,0,,It was already lent to Backlund yesterday.
+Dialogue: 0,0:19:49.58,0:19:50.34,Default,,0,0,0,,Such a coincidence!
+Dialogue: 0,0:19:50.86,0:19:52.94,Default,,0,0,0,,There are only three Grade 2 Sealed Artifacts in Tingen City at the moment.
+Dialogue: 0,0:19:53.50,0:19:55.90,Default,,0,0,0,,Two of them have unknown effectiveness on High-Sequence Beyonders.
+Dialogue: 0,0:19:56.94,0:20:00.10,Default,,0,0,0,,2-105, Blood Vessel Thief, is tested to be effective on High-Sequence Beyonders.
+Dialogue: 0,0:20:00.70,0:20:02.02,Default,,0,0,0,,Within a specific range, it can steal
+Dialogue: 0,0:20:02.26,0:20:03.54,Default,,0,0,0,,some abilities from certain targets.
+Dialogue: 0,0:20:04.26,0:20:05.30,Default,,0,0,0,,But the probability is comparatively smaller.
+Dialogue: 0,0:20:05.98,0:20:06.90,Default,,0,0,0,,Let's go with the Blood Vessel Thief, then.
+Dialogue: 0,0:20:08.98,0:20:10.66,Default,,0,0,0,,Every person that touches 2-105
+Dialogue: 0,0:20:11.14,0:20:12.22,Default,,0,0,0,,will have their life stolen.
+Dialogue: 0,0:20:12.86,0:20:13.26,Default,,0,0,0,,Remember clearly,
+Dialogue: 0,0:20:13.70,0:20:14.98,Default,,0,0,0,,the limit for a Sequence 8 is
+Dialogue: 0,0:20:15.58,0:20:16.10,Default,,0,0,0,,half an hour.
+Dialogue: 0,0:20:17.38,0:20:18.34,Default,,0,0,0,,I'll keep that in mind,
+Dialogue: 0,0:20:18.38,0:20:19.22,Default,,0,0,0,,and also tell Leonard.
+Dialogue: 0,0:20:20.58,0:20:21.46,Default,,0,0,0,,My dear Poet,
+Dialogue: 0,0:20:22.30,0:20:23.54,Default,,0,0,0,,it’s time for you to show your true secret.
+Dialogue: 0,0:20:26.46,0:20:27.26,Default,,0,0,0,,Then which one are using?
+Dialogue: 0,0:20:29.42,0:20:30.06,Default,,0,0,0,,I have other plans.
+Dialogue: 0,0:20:33.78,0:20:35.54,Default,,0,0,0,,{\i1}Saint Selena...
+Dialogue: 0,0:20:36.38,0:20:38.26,Default,,0,0,0,,{\i1}Saint Selena...
+Dialogue: 0,0:20:41.58,0:20:43.22,Default,,0,0,0,,I'll apply to use the core seals,
+Dialogue: 0,0:20:43.90,0:20:45.30,Default,,0,0,0,,Saint Selena's ashes.
+Dialogue: 0,0:20:46.26,0:20:46.58,Default,,0,0,0,,This...
+Dialogue: 0,0:20:47.10,0:20:48.62,Default,,0,0,0,,requires approval from the Holy Cathedral.
+Dialogue: 0,0:20:50.06,0:20:52.22,Default,,0,0,0,,As Captain of the Tingen Nighthawks,
+Dialogue: 0,0:20:52.46,0:20:53.98,Default,,0,0,0,,during emergencies I have the authority to
+Dialogue: 0,0:20:54.46,0:20:55.98,Default,,0,0,0,,apply for Saint Selena's ashes!
+Dialogue: 0,0:21:38.46,0:21:39.74,Default,,0,0,0,,The core seals have been retrieved.
+Dialogue: 0,0:21:40.86,0:21:41.98,Default,,0,0,0,,Chanis Gate is relying on you all now.
+Dialogue: 0,0:21:42.98,0:21:44.66,Default,,0,0,0,,May the Goddess bless you all.
+Dialogue: 0,0:22:12.34,0:22:13.50,Default,,0,0,0,,The Holy Cathedral sent back a telegram.
+Dialogue: 0,0:22:14.18,0:22:14.98,Default,,0,0,0,,Stall for as much time as possible.
+Dialogue: 0,0:22:15.22,0:22:16.06,Default,,0,0,0,,Strong reinforcements are coming immediately.
+Dialogue: 0,0:22:16.98,0:22:17.66,Default,,0,0,0,,What about those coincidences?
+Dialogue: 0,0:22:18.30,0:22:19.02,Default,,0,0,0,,No response.
+Dialogue: 0,0:22:20.54,0:22:22.14,Default,,0,0,0,,Right now what we need the most is time.
+Dialogue: 0,0:22:22.58,0:22:25.14,Default,,0,0,0,,Let's hope the descended body in Megose's stomach can wait.
+Dialogue: 0,0:22:30.02,0:22:31.90,Default,,0,0,0,,So he has another residence on Howes Street?
+Dialogue: 0,0:22:32.42,0:22:33.98,Default,,0,0,0,,He's never told me that before!
+Dialogue: 0,0:22:37.14,0:22:38.06,Default,,0,0,0,,Don't be foolish!
+Dialogue: 0,0:22:38.66,0:22:39.50,Default,,0,0,0,,Go!
+Dialogue: 0,0:22:40.06,0:22:40.90,Default,,0,0,0,,Leave!
+Dialogue: 0,0:22:41.38,0:22:42.02,Default,,0,0,0,,You!
+Dialogue: 0,0:22:43.50,0:22:45.18,Default,,0,0,0,,What are you hiding?
+Dialogue: 0,0:22:48.34,0:22:49.38,Default,,0,0,0,,Mr. Lanevus...
+Dialogue: 0,0:22:50.02,0:22:51.50,Default,,0,0,0,,has actually been going through some difficulties,
+Dialogue: 0,0:22:51.70,0:22:53.02,Default,,0,0,0,,which is why he was forced to leave Tingen.
+Dialogue: 0,0:22:54.30,0:22:54.98,Default,,0,0,0,,Once it's settled,
+Dialogue: 0,0:22:55.46,0:22:56.54,Default,,0,0,0,,he'll come back to find you.
+Dialogue: 0,0:22:57.14,0:22:58.42,Default,,0,0,0,,And your child too.
+Dialogue: 0,0:23:00.10,0:23:00.82,Default,,0,0,0,,Really?
+Dialogue: 0,0:23:02.50,0:23:03.74,Default,,0,0,0,,Of course it's like this!
+Dialogue: 0,0:23:05.42,0:23:07.30,Default,,0,0,0,,He really loves this child...
+Dialogue: 0,0:23:07.74,0:23:08.50,Default,,0,0,0,,for this child,
+Dialogue: 0,0:23:09.02,0:23:10.34,Default,,0,0,0,,he'll definitely come back!
+Dialogue: 0,0:23:10.86,0:23:12.58,Default,,0,0,0,,Mr. Moretti also said before,
+Dialogue: 0,0:23:12.70,0:23:13.66,Default,,0,0,0,,as long I have the child,
+Dialogue: 0,0:23:14.10,0:23:15.82,Default,,0,0,0,,I can find Lanevus!
+Dialogue: 0,0:23:16.10,0:23:17.34,Default,,0,0,0,,Klein Moretti?
+Dialogue: 0,0:23:18.42,0:23:19.02,Default,,0,0,0,,That's right.
+Dialogue: 0,0:23:19.54,0:23:21.18,Default,,0,0,0,,Mr. Outstanding Seer!
+Dialogue: 0,0:23:21.90,0:23:23.62,Default,,0,0,0,,It seems like there was someone that told me
+Dialogue: 0,0:23:23.98,0:23:25.06,Default,,0,0,0,,if I just came here
+Dialogue: 0,0:23:25.34,0:23:27.66,Default,,0,0,0,,you guys could help me give birth to my child faster!
+Dialogue: 0,0:23:27.98,0:23:28.34,Default,,0,0,0,,Who.
+Dialogue: 0,0:23:29.06,0:23:29.78,Default,,0,0,0,,Who told you that?
+Dialogue: 0,0:23:31.02,0:23:32.22,Default,,0,0,0,,There's just a voice...
+Dialogue: 0,0:23:33.94,0:23:35.14,Default,,0,0,0,,a voice that said...
+Dialogue: 0,0:23:35.74,0:23:37.94,Default,,0,0,0,,go to Zouteland Street to see some friends...
+Dialogue: 0,0:23:42.82,0:23:43.82,Default,,0,0,0,,The evil descended body
+Dialogue: 0,0:23:43.82,0:23:44.78,Default,,0,0,0,,can still be kept stable for the time being.
+Dialogue: 0,0:23:45.46,0:23:46.02,Default,,0,0,0,,I'll go up first.
+Dialogue: 0,0:23:46.54,0:23:47.14,Default,,0,0,0,,You guard here.
+Dialogue: 0,0:23:48.18,0:23:48.90,Default,,0,0,0,,Captain.
+Dialogue: 0,0:23:49.46,0:23:50.06,Default,,0,0,0,,I almost forgot.
+Dialogue: 0,0:23:52.18,0:23:53.26,Default,,0,0,0,,The letter Daly gave you
+Dialogue: 0,0:23:53.98,0:23:54.54,Default,,0,0,0,,is here with me.
+Dialogue: 0,0:23:56.82,0:23:58.14,Default,,0,0,0,,She told me to explain myself to you.
+Dialogue: 0,0:24:06.58,0:24:07.62,Default,,0,0,0,,In the field of mysticism,
+Dialogue: 0,0:24:08.02,0:24:08.94,Default,,0,0,0,,there exists a law.
+Dialogue: 0,0:24:09.74,0:24:11.42,Default,,0,0,0,,The characteristics of a Beyonder are never destroyed
+Dialogue: 0,0:24:11.62,0:24:12.50,Default,,0,0,0,,and are never reduced.
+Dialogue: 0,0:24:13.46,0:24:15.86,Default,,0,0,0,,It’s only passed from one carrier to the next.
+Dialogue: 0,0:24:17.30,0:24:18.78,Default,,0,0,0,,When Daly and I noticed this,
+Dialogue: 0,0:24:19.38,0:24:20.78,Default,,0,0,0,,the Holy Cathedral immediately made us swear an oath of secrecy
+Dialogue: 0,0:24:21.22,0:24:22.10,Default,,0,0,0,,and gave us two choices.
+Dialogue: 0,0:24:23.90,0:24:24.90,Default,,0,0,0,,The first was after our teammates die,
+Dialogue: 0,0:24:25.46,0:24:27.46,Default,,0,0,0,,to hand over all their Beyonder characteristics to the Holy Cathedral.
+Dialogue: 0,0:24:28.54,0:24:29.02,Default,,0,0,0,,The second was,
+Dialogue: 0,0:24:30.14,0:24:30.86,Default,,0,0,0,,for those of the same Pathway,
+Dialogue: 0,0:24:31.38,0:24:32.26,Default,,0,0,0,,to consume their bodies.
+Dialogue: 0,0:24:34.26,0:24:35.78,Default,,0,0,0,,I don't know their true wishes.
+Dialogue: 0,0:24:36.62,0:24:37.06,Default,,0,0,0,,At the same time,
+Dialogue: 0,0:24:37.82,0:24:39.34,Default,,0,0,0,,this will substantially disturb my potion digestion.
+Dialogue: 0,0:24:41.90,0:24:43.50,Default,,0,0,0,,But I still made this choice
+Dialogue: 0,0:24:46.98,0:24:48.58,Default,,0,0,0,,to be with them forever.
+Dialogue: 0,0:25:00.34,0:25:00.90,Default,,0,0,0,,Captain.
+Dialogue: 0,0:25:12.34,0:25:14.82,Default,,0,0,0,,My child!
+Dialogue: 0,0:25:18.26,0:25:19.02,Default,,0,0,0,,Go!
+Dialogue: 0,0:25:19.18,0:25:19.66,Default,,0,0,0,,Little one!
+Dialogue: 0,0:25:26.62,0:25:27.14,Default,,0,0,0,,Calm down,
+Dialogue: 0,0:25:27.46,0:25:28.30,Default,,0,0,0,,Miss Megose!
+Dialogue: 0,0:25:28.70,0:25:29.78,Default,,0,0,0,,Think of your child!
+Dialogue: 0,0:25:30.54,0:25:31.26,Default,,0,0,0,,His birth
+Dialogue: 0,0:25:31.58,0:25:33.82,Default,,0,0,0,,will definitely bring blessings to both his mother and father!
+Dialogue: 0,0:25:34.34,0:25:35.86,Default,,0,0,0,,In a few days Lanevus will come back!
+Dialogue: 0,0:25:36.42,0:25:37.50,Default,,0,0,0,,You only need to wait a few days!
+Dialogue: 0,0:25:38.10,0:25:39.62,Default,,0,0,0,,Wait a few days?
+Dialogue: 0,0:25:40.70,0:25:42.42,Default,,0,0,0,,Didn't you say if the child was born...
+Dialogue: 0,0:25:42.94,0:25:45.14,Default,,0,0,0,,his dad would come back?!
+Dialogue: 0,0:25:48.54,0:25:49.78,Default,,0,0,0,,The final curtain
+Dialogue: 0,0:25:50.54,0:25:52.30,Default,,0,0,0,,rises!
+Dialogue: 0,0:26:05.14,0:26:05.62,Default,,0,0,0,,Leave!
+Dialogue: 0,0:26:06.10,0:26:08.62,Default,,0,0,0,,The evil descended body can't stand the provokation of the Saint's ashes!
+Dialogue: 0,0:26:08.90,0:26:09.82,Default,,0,0,0,,It's about to be born!
+Dialogue: 0,0:26:11.50,0:26:12.30,Default,,0,0,0,,Saint's ashes?
+Dialogue: 0,0:27:25.34,0:27:30.30,Default,,0,0,0,,Burn my broken shell to new sight
+Dialogue: 0,0:27:30.98,0:27:38.66,Default,,0,0,0,,To be free in mist to hold a cup of light
+Dialogue: 0,0:27:39.42,0:27:42.78,Default,,0,0,0,,Where are the flames that come in fury?
+Dialogue: 0,0:27:42.90,0:27:46.30,Default,,0,0,0,,Where are the keys that carve truth from me?
+Dialogue: 0,0:27:46.42,0:27:51.98,Default,,0,0,0,,Into the dark to dream and scream my name
+Dialogue: 0,0:27:52.02,0:27:55.50,Default,,0,0,0,,Wonder or dismay
+Dialogue: 0,0:27:55.50,0:27:58.98,Default,,0,0,0,,Madness or Decay
+Dialogue: 0,0:27:59.34,0:28:00.98,Default,,0,0,0,,With fragile light
+Dialogue: 0,0:28:00.98,0:28:05.26,Default,,0,0,0,,I vow to guard a world I stay
+Dialogue: 0,0:28:05.58,0:28:09.06,Default,,0,0,0,,Stirring or delay
+Dialogue: 0,0:28:09.30,0:28:12.62,Default,,0,0,0,,Rebirth or be same
+Dialogue: 0,0:28:13.10,0:28:15.02,Default,,0,0,0,,With whispers in gray
+Dialogue: 0,0:28:15.02,0:28:18.58,Default,,0,0,0,,Guide my shadow way
+Dialogue: 0,0:28:18.58,0:28:21.86,Default,,0,0,0,,Fade away

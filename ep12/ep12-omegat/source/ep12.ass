@@ -11,9 +11,9 @@ Video File: ../../LOTM EP12.mkv
 Video AR Mode: 4
 Video AR Value: 2.347188
 Video Zoom Percent: 0.625000
-Scroll Position: 438
-Active Line: 455
-Video Position: 42547
+Scroll Position: 378
+Active Line: 393
+Video Position: 35208
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -244,6 +244,7 @@ Dialogue: 0,0:14:25.66,0:14:26.34,Default,,0,0,0,,你要咖啡
 Dialogue: 0,0:14:26.62,0:14:27.34,Default,,0,0,0,,还是红茶
 Dialogue: 0,0:14:29.66,0:14:30.74,Default,,0,0,0,,一杯温水
 Dialogue: 0,0:14:31.42,0:14:32.02,Default,,0,0,0,,请稍等
+Dialogue: 0,0:14:32.14,0:14:32.54,Default,,0,0,0,,女士
 Dialogue: 0,0:14:34.82,0:14:35.30,Default,,0,0,0,,稳住她
 Dialogue: 0,0:14:56.58,0:14:57.14,Default,,0,0,0,,克莱恩
 Dialogue: 0,0:15:08.86,0:15:09.46,Default,,0,0,0,,听说
@@ -324,6 +325,7 @@ Dialogue: 0,0:18:30.14,0:18:30.70,Default,,0,0,0,,队长下令
 Dialogue: 0,0:18:30.94,0:18:31.58,Default,,0,0,0,,紧急情况
 Dialogue: 0,0:18:32.22,0:18:33.14,Default,,0,0,0,,文职全部撤离
 Dialogue: 0,0:18:33.58,0:18:34.26,Default,,0,0,0,,这里很危险
+Dialogue: 0,0:18:34.82,0:18:35.14,Default,,0,0,0,,快走
 Dialogue: 0,0:18:43.82,0:18:45.30,Default,,0,0,0,,真实造物者降临体
 Dialogue: 0,0:18:45.42,0:18:47.22,Default,,0,0,0,,最低也是序列四的神话生物
 Dialogue: 0,0:18:47.90,0:18:49.42,Default,,0,0,0,,必须立刻向圣堂求援
@@ -412,6 +414,7 @@ Dialogue: 0,0:23:19.54,0:23:21.18,Default,,0,0,0,,优秀的占卜家先生
 Dialogue: 0,0:23:21.90,0:23:23.62,Default,,0,0,0,,好像有人告诉过我
 Dialogue: 0,0:23:23.98,0:23:25.06,Default,,0,0,0,,我只要来这里
 Dialogue: 0,0:23:25.34,0:23:27.66,Default,,0,0,0,,你们就可以帮我更快地生下孩子
+Dialogue: 0,0:23:27.98,0:23:28.34,Default,,0,0,0,,谁
 Dialogue: 0,0:23:29.06,0:23:29.78,Default,,0,0,0,,谁告诉你的
 Dialogue: 0,0:23:31.02,0:23:32.22,Default,,0,0,0,,就有个声音
 Dialogue: 0,0:23:33.94,0:23:35.14,Default,,0,0,0,,有个声音说

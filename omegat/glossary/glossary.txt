@@ -66,3 +66,19 @@
 黑焰	Black Flame
 邓恩·史密斯	Dunn Smith
 科恩黎·怀特	Kenley White
+吸血鬼	Vampire
+异种	Mutant
+伦纳德	Leonard
+梅高欧丝	Megose
+灵视	Spirit Vision
+蒸汽与机械时代	Age of Steam and Machinery
+洛耀	Royale
+圣堂	Holy Cathedral
+血管小偷	Blood Vessel Thief
+变异的太阳圣徽	Mutated Sun Sacred Emblem
+诗人	Poet
+圣赛琳娜	Saint Selena
+圣赛琳娜骨灰	Saint Selena's ashes
+豪尔斯街	Howes Street
+莫雷蒂	Moretti
+佐特兰街	Zouteland Street
