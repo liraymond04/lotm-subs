@@ -11,9 +11,9 @@ Video File: ../../LOTM EP13.mkv
 Video AR Mode: 4
 Video AR Value: 2.347188
 Video Zoom Percent: 0.625000
-Scroll Position: 51
-Active Line: 60
-Video Position: 11320
+Scroll Position: 195
+Active Line: 199
+Video Position: 38940
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -158,7 +158,7 @@ Dialogue: 0,0:20:48.38,0:20:48.90,Default,,0,0,0,,不过
 Dialogue: 0,0:20:49.06,0:20:50.74,Default,,0,0,0,,希望突破封锁的“祂”
 Dialogue: 0,0:20:50.98,0:20:51.98,Default,,0,0,0,,没有拒绝
 Dialogue: 0,0:20:55.10,0:20:57.30,Default,,0,0,0,,真是让人难以置信啊
-Dialogue: 0,0:20:57.78,0:21:01.74,Default,,0,0,0,,莱恩·莫雷蒂察觉到了因斯·赞格威尔暗中的影
+Dialogue: 0,0:20:57.78,0:21:01.74,Default,,0,0,0,,克莱恩·莫雷蒂察觉到了因斯·赞格威尔暗中的影响
 Dialogue: 0,0:21:02.26,0:21:03.10,Default,,0,0,0,,还帮邓恩
 Dialogue: 0,0:21:03.22,0:21:04.46,Default,,0,0,0,,掌握了扮演法
 Dialogue: 0,0:21:05.02,0:21:05.50,Default,,0,0,0,,不
@@ -172,7 +172,7 @@ Dialogue: 0,0:21:22.14,0:21:23.54,Default,,0,0,0,,他在关键时刻
 Dialogue: 0,0:21:23.78,0:21:25.26,Default,,0,0,0,,做出了错误的判断
 Dialogue: 0,0:21:26.06,0:21:27.82,Default,,0,0,0,,将圣赛琳娜的骨灰
 Dialogue: 0,0:21:27.98,0:21:29.42,Default,,0,0,0,,带出了查尼斯门
-Dialogue: 0,0:21:32.78,0:21:38.10,Default,,0,0,0,,你杀了克莱恩·莫雷蒂这个总是让他计划出现
+Dialogue: 0,0:21:32.78,0:21:38.10,Default,,0,0,0,,因斯·赞格威尔杀了克莱恩·莫雷蒂这个总是让他计划出现问题的家伙
 Dialogue: 0,0:21:38.66,0:21:41.66,Default,,0,0,0,,以剩余的死神后裔特性布置仪式
 Dialogue: 0,0:21:42.14,0:21:44.26,Default,,0,0,0,,服食下圣赛琳娜的骨灰
 Dialogue: 0,0:21:44.94,0:21:47.98,Default,,0,0,0,,成功从死神途径的序列五看门人
@@ -200,7 +200,7 @@ Dialogue: 0,0:23:16.98,0:23:19.42,Default,,0,0,0,,所以克莱恩今天早上才
 Dialogue: 0,0:23:19.90,0:23:21.06,Default,,0,0,0,,压力很大的样子
 Dialogue: 0,0:23:22.22,0:23:23.94,Default,,0,0,0,,克莱恩在警局是历史顾问
 Dialogue: 0,0:23:24.34,0:23:25.38,Default,,0,0,0,,又不管抓罪犯
-Dialogue: 0,0:23:27.38,0:23:31.18,Default,,0,0,0,,我们一向节俭的梅丽莎居然肯舍得买五苏勒
+Dialogue: 0,0:23:27.38,0:23:31.18,Default,,0,0,0,,难怪我们一向节俭的梅丽莎居然肯舍得买五苏勒的票
 Dialogue: 0,0:23:31.82,0:23:33.74,Default,,0,0,0,,原来是想让克莱恩放松高兴啊
 Dialogue: 0,0:23:48.54,0:23:48.94,Default,,0,0,0,,克莱恩
 Dialogue: 0,0:23:49.02,0:23:49.38,Default,,0,0,0,,你回
@@ -220,7 +220,7 @@ Dialogue: 0,0:25:05.38,0:25:07.22,Default,,0,0,0,,唯一的归宿是安宁
 Dialogue: 0,0:25:08.50,0:25:10.38,Default,,0,0,0,,唯一的归宿是安宁
 Dialogue: 0,0:25:11.78,0:25:13.02,Default,,0,0,0,,唯一的归宿
 Dialogue: 0,0:25:13.74,0:25:14.74,Default,,0,0,0,,是安宁
-Dialogue: 0,0:25:57.58,0:25:58.26,Default,,0,0,0,,很抱漱
+Dialogue: 0,0:25:57.58,0:25:58.26,Default,,0,0,0,,很抱歉
 Dialogue: 0,0:25:59.18,0:26:00.38,Default,,0,0,0,,我没能及时赶到
 Dialogue: 0,0:26:02.82,0:26:03.90,Default,,0,0,0,,但幕后之人
 Dialogue: 0,0:26:05.42,0:26:06.74,Default,,0,0,0,,我应该知道是谁了

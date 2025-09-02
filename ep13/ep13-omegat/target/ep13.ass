@@ -11,9 +11,9 @@ Video File: ../../LOTM EP13.mkv
 Video AR Mode: 4
 Video AR Value: 2.347188
 Video Zoom Percent: 0.625000
-Scroll Position: 51
-Active Line: 60
-Video Position: 11320
+Scroll Position: 195
+Active Line: 199
+Video Position: 38940
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,8 +50,8 @@ Dialogue: 0,0:02:53.58,0:02:54.22,Default,,0,0,0,,It suits me.
 Dialogue: 0,0:03:05.78,0:03:06.14,Default,,0,0,0,,No good,
 Dialogue: 0,0:03:06.46,0:03:07.14,Default,,0,0,0,,she's too fast!
 Dialogue: 0,0:03:07.42,0:03:07.98,Default,,0,0,0,,I can't lock on.
-Dialogue: 0,0:03:24.30,0:03:25.94,Default,,0,0,0,,尽全力引向纪念碑大殿
-Dialogue: 0,0:03:26.30,0:03:27.42,Default,,0,0,0,,那里是唯一的机会
+Dialogue: 0,0:03:24.30,0:03:25.94,Default,,0,0,0,,Do everything you can to lead her to the memorial hall,
+Dialogue: 0,0:03:26.30,0:03:27.42,Default,,0,0,0,,that's our only chance!
 Dialogue: 0,0:04:08.86,0:04:10.90,Default,,0,0,0,,[In Hermes]\N{\i1}I pray for the power of the Evernight.
 Dialogue: 0,0:04:15.14,0:04:17.18,Default,,0,0,0,,[In Hermes]\N{\i1}I pray for the power of the crimson.
 Dialogue: 0,0:04:22.90,0:04:24.86,Default,,0,0,0,,[In Hermes]\N{\i1}I pray for the Goddess' loving grace.
@@ -67,7 +67,7 @@ Dialogue: 0,0:05:44.14,0:05:45.30,Default,,0,0,0,,Silently count to ten.
 Dialogue: 0,0:05:46.10,0:05:46.90,Default,,0,0,0,,That's an order.
 Dialogue: 0,0:05:48.50,0:05:49.14,Default,,0,0,0,,You don't need to worry.
 Dialogue: 0,0:05:50.10,0:05:51.62,Default,,0,0,0,,We are guarding Tingen.
-Dialogue: 0,0:05:52.74,0:05:53.38,Default,,0,0,0,,They
+Dialogue: 0,0:05:52.74,0:05:53.38,Default,,0,0,0,,They all...
 Dialogue: 0,0:05:54.38,0:05:55.90,Default,,0,0,0,,are fighting side by side with me.
 Dialogue: 0,0:06:01.30,0:06:01.86,Default,,0,0,0,,Ten.
 Dialogue: 0,0:06:04.86,0:06:09.02,Default,,0,0,0,,I just want to keep this child!
@@ -76,7 +76,7 @@ Dialogue: 0,0:06:12.10,0:06:13.14,Default,,0,0,0,,Why?
 Dialogue: 0,0:06:13.62,0:06:15.74,Default,,0,0,0,,Must you force me?
 Dialogue: 0,0:06:24.90,0:06:25.30,Default,,0,0,0,,Six.
 Dialogue: 0,0:06:29.26,0:06:31.62,Default,,0,0,0,,[In Hermes]\N{\i1}As if in a weary dream,
-Dialogue: 0,0:06:32.90,0:06:35.34,Default,,0,0,0,,[In Hermes]\N{\i1}like the shore beyond, and in the grave!
+Dialogue: 0,0:06:32.90,0:06:35.34,Default,,0,0,0,,[In Hermes]\N{\i1}caught between the other shore and the grave!
 Dialogue: 0,0:06:38.74,0:06:39.30,Default,,0,0,0,,Five.
 Dialogue: 0,0:06:48.02,0:06:48.78,Default,,0,0,0,,Four.
 Dialogue: 0,0:07:09.38,0:07:09.98,Default,,0,0,0,,Three!
@@ -100,7 +100,7 @@ Dialogue: 0,0:11:29.06,0:11:29.50,Default,,0,0,0,,A chance!
 Dialogue: 0,0:11:59.22,0:11:59.74,Default,,0,0,0,,This is...
 Dialogue: 0,0:12:00.38,0:12:01.18,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:12:04.54,0:12:05.18,Default,,0,0,0,,To be honest...
-Dialogue: 0,0:12:06.26,0:12:08.46,Default,,0,0,0,,as much as I hate other people who become Beyonders
+Dialogue: 0,0:12:06.26,0:12:08.46,Default,,0,0,0,,as much as I hate other people who become Beyonders,
 Dialogue: 0,0:12:09.34,0:12:11.10,Default,,0,0,0,,I respect the Nighthawks just as much.
 Dialogue: 0,0:12:34.58,0:12:35.06,Default,,0,0,0,,Must not...
 Dialogue: 0,0:12:35.94,0:12:37.54,Default,,0,0,0,,let "Him" be born...
@@ -111,7 +111,7 @@ Dialogue: 0,0:14:12.74,0:14:13.90,Default,,0,0,0,,[In Hermes]\N{\i1}Nightmare.
 Dialogue: 0,0:14:39.58,0:14:40.10,Default,,0,0,0,,Klein.
 Dialogue: 0,0:15:02.26,0:15:02.98,Default,,0,0,0,,[In Hermes]\N{\i1}Light!{\i0}
 Dialogue: 0,0:16:11.26,0:16:11.74,Default,,0,0,0,,Captain!
-Dialogue: 0,0:16:12.50,0:16:12.98,Default,,0,0,0,,We―—
+Dialogue: 0,0:16:12.50,0:16:12.98,Default,,0,0,0,,We...
 Dialogue: 0,0:16:14.26,0:16:15.18,Default,,0,0,0,,We did it!
 Dialogue: 0,0:16:24.54,0:16:25.62,Default,,0,0,0,,We did it.
 Dialogue: 0,0:16:30.70,0:16:31.26,Default,,0,0,0,,Klein.
@@ -124,152 +124,152 @@ Dialogue: 0,0:17:36.34,0:17:36.94,Default,,0,0,0,,Captain!
 Dialogue: 0,0:17:38.54,0:17:39.02,Default,,0,0,0,,Captain...
 Dialogue: 0,0:18:31.74,0:18:32.26,Default,,0,0,0,,Who...
 Dialogue: 0,0:18:33.90,0:18:34.70,Default,,0,0,0,,is it?
-Dialogue: 0,0:19:22.26,0:19:23.58,Default,,0,0,0,,终于出来了
-Dialogue: 0,0:19:24.54,0:19:25.82,Default,,0,0,0,,久违的自由
-Dialogue: 0,0:19:29.90,0:19:31.46,Default,,0,0,0,,Ince Zangwill.
-Dialogue: 0,0:19:32.10,0:19:34.38,Default,,0,0,0,,将我请出查尼斯门的凡人
-Dialogue: 0,0:19:35.26,0:19:36.62,Default,,0,0,0,,他渴望得到
-Dialogue: 0,0:19:36.74,0:19:39.06,Default,,0,0,0,,廷根市的圣塞琳娜骨灰
-Dialogue: 0,0:19:42.78,0:19:44.10,Default,,0,0,0,,恳求我的凡人
-Dialogue: 0,0:19:44.58,0:19:46.98,Default,,0,0,0,,总有一些见不得光的小愿望
-Dialogue: 0,0:19:47.82,0:19:48.82,Default,,0,0,0,,这不算什么
-Dialogue: 0,0:19:52.70,0:19:53.94,Default,,0,0,0,,一场黑占卜后
-Dialogue: 0,0:19:53.94,0:19:58.94,Default,,0,0,0,,存者克莱恩·莫雷蒂在安提哥努斯家族笔记驱
-Dialogue: 0,0:19:59.42,0:20:01.66,Default,,0,0,0,,将它送到了瑞尔·比伯家里
-Dialogue: 0,0:20:02.74,0:20:04.98,Default,,0,0,0,,这是一个符合逻辑的巧合
-Dialogue: 0,0:20:05.86,0:20:06.42,Default,,0,0,0,,之后
-Dialogue: 0,0:20:06.86,0:20:08.54,Default,,0,0,0,,克莱恩开枪自杀
-Dialogue: 0,0:20:11.70,0:20:13.10,Default,,0,0,0,,令人不解的是
-Dialogue: 0,0:20:13.66,0:20:14.98,Default,,0,0,0,,克莱恩并没有死
-Dialogue: 0,0:20:15.58,0:20:16.98,Default,,0,0,0,,他成功地活下来
-Dialogue: 0,0:20:17.42,0:20:18.82,Default,,0,0,0,,还加入了值夜者
-Dialogue: 0,0:20:19.58,0:20:20.22,Default,,0,0,0,,有趣
-Dialogue: 0,0:20:21.42,0:20:22.90,Default,,0,0,0,,克莱恩居然能活着
-Dialogue: 0,0:20:23.46,0:20:26.10,Default,,0,0,0,,还干掉了序列七的密修会成员
-Dialogue: 0,0:20:28.70,0:20:30.10,Default,,0,0,0,,因斯很恼怒
-Dialogue: 0,0:20:30.78,0:20:32.86,Default,,0,0,0,,还好结果没有偏离预期
-Dialogue: 0,0:20:35.26,0:20:37.06,Default,,0,0,0,,邓恩·史密斯的灵性
-Dialogue: 0,0:20:37.26,0:20:38.98,Default,,0,0,0,,受到了巨大的伤害
-Dialogue: 0,0:20:39.86,0:20:40.38,Default,,0,0,0,,当然
-Dialogue: 0,0:20:40.90,0:20:43.74,Default,,0,0,0,,早在真实造物者降临仪式上
-Dialogue: 0,0:20:44.26,0:20:45.02,Default,,0,0,0,,这位神灵
-Dialogue: 0,0:20:45.46,0:20:47.38,Default,,0,0,0,,就看出了事情的巧合
-Dialogue: 0,0:20:48.38,0:20:48.90,Default,,0,0,0,,不过
-Dialogue: 0,0:20:49.06,0:20:50.74,Default,,0,0,0,,希望突破封锁的“祂”
-Dialogue: 0,0:20:50.98,0:20:51.98,Default,,0,0,0,,没有拒绝
-Dialogue: 0,0:20:55.10,0:20:57.30,Default,,0,0,0,,真是让人难以置信啊
-Dialogue: 0,0:20:57.78,0:21:01.74,Default,,0,0,0,,莱恩·莫雷蒂察觉到了因斯·赞格威尔暗中的影
-Dialogue: 0,0:21:02.26,0:21:03.10,Default,,0,0,0,,还帮邓恩
-Dialogue: 0,0:21:03.22,0:21:04.46,Default,,0,0,0,,掌握了扮演法
-Dialogue: 0,0:21:05.02,0:21:05.50,Default,,0,0,0,,不
-Dialogue: 0,0:21:06.02,0:21:07.38,Default,,0,0,0,,因斯并不相信
-Dialogue: 0,0:21:07.98,0:21:09.86,Default,,0,0,0,,他改变了原来的计划
-Dialogue: 0,0:21:13.42,0:21:14.50,Default,,0,0,0,,自责的邓恩
-Dialogue: 0,0:21:14.66,0:21:18.10,Default,,0,0,0,,按照惯例服食了科恩黎遗留的非凡特性
-Dialogue: 0,0:21:18.54,0:21:20.10,Default,,0,0,0,,扮演消化的进程
-Dialogue: 0,0:21:20.34,0:21:21.06,Default,,0,0,0,,被打断
-Dialogue: 0,0:21:22.14,0:21:23.54,Default,,0,0,0,,他在关键时刻
-Dialogue: 0,0:21:23.78,0:21:25.26,Default,,0,0,0,,做出了错误的判断
-Dialogue: 0,0:21:26.06,0:21:27.82,Default,,0,0,0,,将圣赛琳娜的骨灰
-Dialogue: 0,0:21:27.98,0:21:29.42,Default,,0,0,0,,带出了查尼斯门
-Dialogue: 0,0:21:32.78,0:21:38.10,Default,,0,0,0,,你杀了克莱恩·莫雷蒂这个总是让他计划出现
-Dialogue: 0,0:21:38.66,0:21:41.66,Default,,0,0,0,,以剩余的死神后裔特性布置仪式
-Dialogue: 0,0:21:42.14,0:21:44.26,Default,,0,0,0,,服食下圣赛琳娜的骨灰
-Dialogue: 0,0:21:44.94,0:21:47.98,Default,,0,0,0,,成功从死神途径的序列五看门人
-Dialogue: 0,0:21:48.50,0:21:51.58,Default,,0,0,0,,晋升为黑夜途径的序列四守夜人
-Dialogue: 0,0:21:52.30,0:21:52.94,Default,,0,0,0,,成为
-Dialogue: 0,0:21:53.22,0:21:55.18,Default,,0,0,0,,Demigod.
-Dialogue: 0,0:22:02.50,0:22:04.74,Default,,0,0,0,,太阳依旧照耀大地
-Dialogue: 0,0:22:05.74,0:22:08.62,Default,,0,0,0,,廷根市几乎所有人都没有察觉到
-Dialogue: 0,0:22:08.62,0:22:12.10,Default,,0,0,0,,他们幸运地躲过了一场巨大的灾难
+Dialogue: 0,0:19:22.26,0:19:23.58,Default,,0,0,0,,I've finally come out.
+Dialogue: 0,0:19:24.54,0:19:25.82,Default,,0,0,0,,My long-awaited freedom!
+Dialogue: 0,0:19:29.90,0:19:31.46,Default,,0,0,0,,Ince Zangwill,
+Dialogue: 0,0:19:32.10,0:19:34.38,Default,,0,0,0,,the mortal who invited me out of Chanis Gate.
+Dialogue: 0,0:19:35.26,0:19:36.62,Default,,0,0,0,,He longed to obtain
+Dialogue: 0,0:19:36.74,0:19:39.06,Default,,0,0,0,,Saint Selena's ashes in Tingen.
+Dialogue: 0,0:19:42.78,0:19:44.10,Default,,0,0,0,,The mortals that beg to me
+Dialogue: 0,0:19:44.58,0:19:46.98,Default,,0,0,0,,always have some shameful little desires.
+Dialogue: 0,0:19:47.82,0:19:48.82,Default,,0,0,0,,This is no big deal.
+Dialogue: 0,0:19:52.70,0:19:53.94,Default,,0,0,0,,After a dark divination,
+Dialogue: 0,0:19:53.94,0:19:58.94,Default,,0,0,0,,survivor Klein Moretti under the influence of the Antigonus Family's Notebook,
+Dialogue: 0,0:19:59.42,0:20:01.66,Default,,0,0,0,,sent it to Ray Bieber's house.
+Dialogue: 0,0:20:02.74,0:20:04.98,Default,,0,0,0,,This is a logically consistent coincidence.
+Dialogue: 0,0:20:05.86,0:20:06.42,Default,,0,0,0,,Afterwards,
+Dialogue: 0,0:20:06.86,0:20:08.54,Default,,0,0,0,,Klein shot himself.
+Dialogue: 0,0:20:11.70,0:20:13.10,Default,,0,0,0,,The baffling thing is,
+Dialogue: 0,0:20:13.66,0:20:14.98,Default,,0,0,0,,Klein did not die
+Dialogue: 0,0:20:15.58,0:20:16.98,Default,,0,0,0,,and successfully survived,
+Dialogue: 0,0:20:17.42,0:20:18.82,Default,,0,0,0,,and even joined the Nighthawks.
+Dialogue: 0,0:20:19.58,0:20:20.22,Default,,0,0,0,,Interesting.
+Dialogue: 0,0:20:21.42,0:20:22.90,Default,,0,0,0,,Klein's unexpectedly survived
+Dialogue: 0,0:20:23.46,0:20:26.10,Default,,0,0,0,,and even killed a Sequence 7 member of the Secret Order.
+Dialogue: 0,0:20:28.70,0:20:30.10,Default,,0,0,0,,Ince was enraged.
+Dialogue: 0,0:20:30.78,0:20:32.86,Default,,0,0,0,,Fortunately, the results did not deviate from expectations.
+Dialogue: 0,0:20:35.26,0:20:37.06,Default,,0,0,0,,Dunn Smith's spirituality
+Dialogue: 0,0:20:37.26,0:20:38.98,Default,,0,0,0,,suffered severe injuries.
+Dialogue: 0,0:20:39.86,0:20:40.38,Default,,0,0,0,,Of course,
+Dialogue: 0,0:20:40.90,0:20:43.74,Default,,0,0,0,,as early as the ritual for the True Creator's descent,
+Dialogue: 0,0:20:44.26,0:20:45.02,Default,,0,0,0,,this deity
+Dialogue: 0,0:20:45.46,0:20:47.38,Default,,0,0,0,,saw through the coincidences of these events.
+Dialogue: 0,0:20:48.38,0:20:48.90,Default,,0,0,0,,But,
+Dialogue: 0,0:20:49.06,0:20:50.74,Default,,0,0,0,,since "He" wished to break through "His" shackles,
+Dialogue: 0,0:20:50.98,0:20:51.98,Default,,0,0,0,,"He" didn't refuse.
+Dialogue: 0,0:20:55.10,0:20:57.30,Default,,0,0,0,,Ah, it’s seriously unbelievable!
+Dialogue: 0,0:20:57.78,0:21:01.74,Default,,0,0,0,,Klein Moretti noticed Ince Zangwill's secret influence.
+Dialogue: 0,0:21:02.26,0:21:03.10,Default,,0,0,0,,He even helped Dunn
+Dialogue: 0,0:21:03.22,0:21:04.46,Default,,0,0,0,,master the acting method.
+Dialogue: 0,0:21:05.02,0:21:05.50,Default,,0,0,0,,No,
+Dialogue: 0,0:21:06.02,0:21:07.38,Default,,0,0,0,,Ince could not believe it.
+Dialogue: 0,0:21:07.98,0:21:09.86,Default,,0,0,0,,He changed his original plans.
+Dialogue: 0,0:21:13.42,0:21:14.50,Default,,0,0,0,,The self-blaming Dunn
+Dialogue: 0,0:21:14.66,0:21:18.10,Default,,0,0,0,,consumed Kenley's Beyonder characteristic as he usually did.
+Dialogue: 0,0:21:18.54,0:21:20.10,Default,,0,0,0,,His acting and digestion procedure
+Dialogue: 0,0:21:20.34,0:21:21.06,Default,,0,0,0,,were interrupted.
+Dialogue: 0,0:21:22.14,0:21:23.54,Default,,0,0,0,,At the crucial moment,
+Dialogue: 0,0:21:23.78,0:21:25.26,Default,,0,0,0,,he made the wrong judgement.
+Dialogue: 0,0:21:26.06,0:21:27.82,Default,,0,0,0,,Taking Saint Selena's ashes
+Dialogue: 0,0:21:27.98,0:21:29.42,Default,,0,0,0,,out of Chanis Gate.
+Dialogue: 0,0:21:32.78,0:21:38.10,Default,,0,0,0,,Ince Zangwill killed Klein Moretti, the fellow who kept disrupting his plans.
+Dialogue: 0,0:21:38.66,0:21:41.66,Default,,0,0,0,,He set up a ritual with the remaining half of the characteristic of Death’s descendant.
+Dialogue: 0,0:21:42.14,0:21:44.26,Default,,0,0,0,,He consumed Saint Selena’s ashes
+Dialogue: 0,0:21:44.94,0:21:47.98,Default,,0,0,0,,and successfully advanced from Sequence 5 of the Death Pathway, Gatekeeper,
+Dialogue: 0,0:21:48.50,0:21:51.58,Default,,0,0,0,,to Sequence 4 of the Evernight Pathway, Nightwatcher.
+Dialogue: 0,0:21:52.30,0:21:52.94,Default,,0,0,0,,Becoming
+Dialogue: 0,0:21:53.22,0:21:55.18,Default,,0,0,0,,a Demigod.
+Dialogue: 0,0:22:02.50,0:22:04.74,Default,,0,0,0,,The sun continued to shine brilliantly on the land.
+Dialogue: 0,0:22:05.74,0:22:08.62,Default,,0,0,0,,Almost no one in Tingen City realized
+Dialogue: 0,0:22:08.62,0:22:12.10,Default,,0,0,0,,how they narrowly escaped a huge disaster.
 Dialogue: 0,0:22:15.38,0:22:16.70,Default,,0,0,0,,Tingen's story
 Dialogue: 0,0:22:17.14,0:22:18.62,Default,,0,0,0,,ends here.
-Dialogue: 0,0:22:34.22,0:22:35.34,Default,,0,0,0,,队长和克莱恩
-Dialogue: 0,0:22:38.90,0:22:40.26,Default,,0,0,0,,一封还没译码的电报
-Dialogue: 0,0:22:41.02,0:22:42.50,Default,,0,0,0,,应该是之前圣堂发来的
-Dialogue: 0,0:22:46.50,0:22:48.14,Default,,0,0,0,,总部已经知道真凶是谁了
-Dialogue: 0,0:22:48.74,0:22:49.78,Default,,0,0,0,,红手套在追查
-Dialogue: 0,0:22:53.78,0:22:55.34,Default,,0,0,0,,申请加入红手套
-Dialogue: 0,0:22:56.62,0:22:57.30,Default,,0,0,0,,需要什么
-Dialogue: 0,0:23:07.50,0:23:08.22,Default,,0,0,0,,打听到了
-Dialogue: 0,0:23:08.70,0:23:10.78,Default,,0,0,0,,说是有个凶恶的罪犯潜入到了廷根
-Dialogue: 0,0:23:11.74,0:23:12.38,Default,,0,0,0,,但幸好
-Dialogue: 0,0:23:12.86,0:23:14.62,Default,,0,0,0,,警察部门已经阻止了这场危机
-Dialogue: 0,0:23:15.06,0:23:15.78,Default,,0,0,0,,女神保佑
-Dialogue: 0,0:23:16.98,0:23:19.42,Default,,0,0,0,,所以克莱恩今天早上才精神恍惚
-Dialogue: 0,0:23:19.90,0:23:21.06,Default,,0,0,0,,压力很大的样子
-Dialogue: 0,0:23:22.22,0:23:23.94,Default,,0,0,0,,克莱恩在警局是历史顾问
-Dialogue: 0,0:23:24.34,0:23:25.38,Default,,0,0,0,,又不管抓罪犯
-Dialogue: 0,0:23:27.38,0:23:31.18,Default,,0,0,0,,我们一向节俭的梅丽莎居然肯舍得买五苏勒
-Dialogue: 0,0:23:31.82,0:23:33.74,Default,,0,0,0,,原来是想让克莱恩放松高兴啊
+Dialogue: 0,0:22:34.22,0:22:35.34,Default,,0,0,0,,Captain and Klein...
+Dialogue: 0,0:22:38.90,0:22:40.26,Default,,0,0,0,,An unencrypted telegram.
+Dialogue: 0,0:22:41.02,0:22:42.50,Default,,0,0,0,,It was sent over by the Holy Cathedral.
+Dialogue: 0,0:22:46.50,0:22:48.14,Default,,0,0,0,,HQ already knows who the real murderer is.
+Dialogue: 0,0:22:48.74,0:22:49.78,Default,,0,0,0,,The Red Gloves are in pursuit.
+Dialogue: 0,0:22:53.78,0:22:55.34,Default,,0,0,0,,...applying for the Red Gloves,
+Dialogue: 0,0:22:56.62,0:22:57.30,Default,,0,0,0,,what do I need?
+Dialogue: 0,0:23:07.50,0:23:08.22,Default,,0,0,0,,I asked around about it,
+Dialogue: 0,0:23:08.70,0:23:10.78,Default,,0,0,0,,they said a vicious criminal snuck into Tingen.
+Dialogue: 0,0:23:11.74,0:23:12.38,Default,,0,0,0,,But luckily,
+Dialogue: 0,0:23:12.86,0:23:14.62,Default,,0,0,0,,the police department already stopped the crisis.
+Dialogue: 0,0:23:15.06,0:23:15.78,Default,,0,0,0,,Goddess bless.
+Dialogue: 0,0:23:16.98,0:23:19.42,Default,,0,0,0,,So that's why this morning Klein seemed dazed
+Dialogue: 0,0:23:19.90,0:23:21.06,Default,,0,0,0,,and under a lot of pressure.
+Dialogue: 0,0:23:22.22,0:23:23.94,Default,,0,0,0,,Klein is a history consultant at the police department,
+Dialogue: 0,0:23:24.34,0:23:25.38,Default,,0,0,0,,his responsiblity isn't arresting criminals.
+Dialogue: 0,0:23:27.38,0:23:31.18,Default,,0,0,0,,No wonder our ever-frugal Melissa was unexpectedly willing to buy five soli tickets.
+Dialogue: 0,0:23:31.82,0:23:33.74,Default,,0,0,0,,It turns out you wanted Klein to relax and be happy!
 Dialogue: 0,0:23:48.54,0:23:48.94,Default,,0,0,0,,Klein,
-Dialogue: 0,0:23:49.02,0:23:49.38,Default,,0,0,0,,你回
-Dialogue: 0,0:24:35.30,0:24:36.94,Default,,0,0,0,,绯红的满月升起
-Dialogue: 0,0:24:37.34,0:24:38.22,Default,,0,0,0,,映着大地
-Dialogue: 0,0:24:39.34,0:24:40.94,Default,,0,0,0,,生命的火焰短暂
-Dialogue: 0,0:24:41.62,0:24:43.18,Default,,0,0,0,,身躯终归尘土
-Dialogue: 0,0:24:44.54,0:24:46.14,Default,,0,0,0,,英雄的魂灵永恒
-Dialogue: 0,0:24:46.58,0:24:48.14,Default,,0,0,0,,是不熄灭的灯火
-Dialogue: 0,0:24:49.14,0:24:50.94,Default,,0,0,0,,是划破劫难的荆棘
-Dialogue: 0,0:24:51.50,0:24:53.26,Default,,0,0,0,,是唱给罪恶的挽歌
-Dialogue: 0,0:24:54.66,0:24:55.74,Default,,0,0,0,,愿不羁的风
-Dialogue: 0,0:24:56.42,0:24:58.34,Default,,0,0,0,,引你前往女神的神国
-Dialogue: 0,0:24:59.38,0:25:01.34,Default,,0,0,0,,愿长夜繁星闪烁
-Dialogue: 0,0:25:02.02,0:25:04.02,Default,,0,0,0,,愿你回归最初的纯净
-Dialogue: 0,0:25:05.38,0:25:07.22,Default,,0,0,0,,唯一的归宿是安宁
-Dialogue: 0,0:25:08.50,0:25:10.38,Default,,0,0,0,,唯一的归宿是安宁
-Dialogue: 0,0:25:11.78,0:25:13.02,Default,,0,0,0,,唯一的归宿
-Dialogue: 0,0:25:13.74,0:25:14.74,Default,,0,0,0,,是安宁
-Dialogue: 0,0:25:57.58,0:25:58.26,Default,,0,0,0,,很抱漱
-Dialogue: 0,0:25:59.18,0:26:00.38,Default,,0,0,0,,我没能及时赶到
-Dialogue: 0,0:26:02.82,0:26:03.90,Default,,0,0,0,,但幕后之人
-Dialogue: 0,0:26:05.42,0:26:06.74,Default,,0,0,0,,我应该知道是谁了
-Dialogue: 0,0:27:08.50,0:27:34.38,Default,,0,0,0,,霍纳奇斯
-Dialogue: 0,0:28:39.62,0:28:41.10,Default,,0,0,0,,这算是陪葬品了吧
-Dialogue: 0,0:28:43.94,0:28:44.70,Default,,0,0,0,,我现在
-Dialogue: 0,0:28:45.58,0:28:46.26,Default,,0,0,0,,是什么呢
-Dialogue: 0,0:28:49.54,0:28:50.46,Default,,0,0,0,,或许
-Dialogue: 0,0:28:50.98,0:28:52.86,Default,,0,0,0,,只是一个从地狱爬出来
-Dialogue: 0,0:28:53.14,0:28:54.90,Default,,0,0,0,,想要复仇的恶灵吧
-Dialogue: 0,0:29:03.94,0:29:05.06,Default,,0,0,0,,因斯
-Dialogue: 0,0:29:05.82,0:29:07.26,Default,,0,0,0,,赞格威尔
-Dialogue: 0,0:29:10.30,0:29:11.38,Default,,0,0,0,,那些巧合
-Dialogue: 0,0:29:11.46,0:29:13.30,Default,,0,0,0,,就是封印物0-08的能力
-Dialogue: 0,0:29:13.86,0:29:15.70,Default,,0,0,0,,写下的事情注定会实现
-Dialogue: 0,0:29:16.58,0:29:16.94,Default,,0,0,0,,不
-Dialogue: 0,0:29:17.46,0:29:18.82,Default,,0,0,0,,应该有一定的限制
-Dialogue: 0,0:29:19.38,0:29:21.98,Default,,0,0,0,,因斯的目的是拿到圣赛琳娜的骨灰
-Dialogue: 0,0:29:22.34,0:29:24.14,Default,,0,0,0,,那他针对的目标并不是我
-Dialogue: 0,0:29:25.10,0:29:25.66,Default,,0,0,0,,而是
-Dialogue: 0,0:29:26.82,0:29:27.34,Default,,0,0,0,,Captain.
-Dialogue: 0,0:29:34.78,0:29:37.26,Default,,0,0,0,,因斯·赞格威尔目前所在的城市
-Dialogue: 0,0:29:38.18,0:29:39.42,Default,,0,0,0,,兰尔乌斯的位置
-Dialogue: 0,0:29:39.94,0:29:41.50,Default,,0,0,0,,我变强大的希望
-Dialogue: 0,0:29:59.18,0:30:00.38,Default,,0,0,0,,贝克兰德
-Dialogue: 0,0:30:19.58,0:30:20.10,Default,,0,0,0,,We―—
+Dialogue: 0,0:23:49.02,0:23:49.38,Default,,0,0,0,,you're ba―—
+Dialogue: 0,0:24:35.30,0:24:36.94,Default,,0,0,0,,The full-faced crimson moon rises,
+Dialogue: 0,0:24:37.34,0:24:38.22,Default,,0,0,0,,casting light on the land.
+Dialogue: 0,0:24:39.34,0:24:40.94,Default,,0,0,0,,The flame of life is fleeting,
+Dialogue: 0,0:24:41.62,0:24:43.18,Default,,0,0,0,,At last, the body returns to dust.
+Dialogue: 0,0:24:44.54,0:24:46.14,Default,,0,0,0,,The soul of a hero is eternal,
+Dialogue: 0,0:24:46.58,0:24:48.14,Default,,0,0,0,,An unfading light,
+Dialogue: 0,0:24:49.14,0:24:50.94,Default,,0,0,0,,A thorn that cuts through calamity,
+Dialogue: 0,0:24:51.50,0:24:53.26,Default,,0,0,0,,A requiem sung for the wicked.
+Dialogue: 0,0:24:54.66,0:24:55.74,Default,,0,0,0,,May the untamed wind
+Dialogue: 0,0:24:56.42,0:24:58.34,Default,,0,0,0,,guide you to the Goddess’ divine realm.
+Dialogue: 0,0:24:59.38,0:25:01.34,Default,,0,0,0,,May the stars shine in the long night.
+Dialogue: 0,0:25:02.02,0:25:04.02,Default,,0,0,0,,May you return to your original purity.
+Dialogue: 0,0:25:05.38,0:25:07.22,Default,,0,0,0,,The only escape is tranquility.
+Dialogue: 0,0:25:08.50,0:25:10.38,Default,,0,0,0,,The only escape is tranquility.
+Dialogue: 0,0:25:11.78,0:25:13.02,Default,,0,0,0,,The only escape
+Dialogue: 0,0:25:13.74,0:25:14.74,Default,,0,0,0,,is tranquility.
+Dialogue: 0,0:25:57.58,0:25:58.26,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:25:59.18,0:26:00.38,Default,,0,0,0,,I failed to arrive in time.
+Dialogue: 0,0:26:02.82,0:26:03.90,Default,,0,0,0,,But the person behind the scenes,
+Dialogue: 0,0:26:05.42,0:26:06.74,Default,,0,0,0,,I should know who it is now.
+Dialogue: 0,0:27:08.50,0:27:34.38,Default,,0,0,0,,{\i1}Hornacis...
+Dialogue: 0,0:28:39.62,0:28:41.10,Default,,0,0,0,,I guess this is considered a burial object?
+Dialogue: 0,0:28:43.94,0:28:44.70,Default,,0,0,0,,Right now...
+Dialogue: 0,0:28:45.58,0:28:46.26,Default,,0,0,0,,what am I?
+Dialogue: 0,0:28:49.54,0:28:50.46,Default,,0,0,0,,Perhaps...
+Dialogue: 0,0:28:50.98,0:28:52.86,Default,,0,0,0,,I’m just an evil spirit that's clawed its way
+Dialogue: 0,0:28:53.14,0:28:54.90,Default,,0,0,0,,back from hell to seek revenge...
+Dialogue: 0,0:29:03.94,0:29:05.06,Default,,0,0,0,,Ince
+Dialogue: 0,0:29:05.82,0:29:07.26,Default,,0,0,0,,Zangwill!
+Dialogue: 0,0:29:10.30,0:29:11.38,Default,,0,0,0,,Those coincidences
+Dialogue: 0,0:29:11.46,0:29:13.30,Default,,0,0,0,,were the power of Sealed Artifact 0-08!
+Dialogue: 0,0:29:13.86,0:29:15.70,Default,,0,0,0,,Events that are written down are bound to happen...
+Dialogue: 0,0:29:16.58,0:29:16.94,Default,,0,0,0,,No.
+Dialogue: 0,0:29:17.46,0:29:18.82,Default,,0,0,0,,There must be certain restrictions...
+Dialogue: 0,0:29:19.38,0:29:21.98,Default,,0,0,0,,Ince's goal was to obtain Saint Selena's ashes.
+Dialogue: 0,0:29:22.34,0:29:24.14,Default,,0,0,0,,Then his real target wasn't me,
+Dialogue: 0,0:29:25.10,0:29:25.66,Default,,0,0,0,,but...
+Dialogue: 0,0:29:26.82,0:29:27.34,Default,,0,0,0,,the Captain.
+Dialogue: 0,0:29:34.78,0:29:37.26,Default,,0,0,0,,The city where Ince Zangwill currently is.
+Dialogue: 0,0:29:38.18,0:29:39.42,Default,,0,0,0,,Lanevus’s location.
+Dialogue: 0,0:29:39.94,0:29:41.50,Default,,0,0,0,,My opportunities of becoming powerful.
+Dialogue: 0,0:29:59.18,0:30:00.38,Default,,0,0,0,,Backlund!
+Dialogue: 0,0:30:19.58,0:30:20.10,Default,,0,0,0,,We...
 Dialogue: 0,0:30:20.90,0:30:22.02,Default,,0,0,0,,saved Tingen.
-Dialogue: 0,0:32:23.94,0:32:24.74,Default,,0,0,0,,塞维亚菊
-Dialogue: 0,0:32:25.90,0:32:27.38,Default,,0,0,0,,象征着快乐
-Dialogue: 0,0:32:40.94,0:32:45.66,Default,,0,0,0,,熟悉的街巷人来人往
-Dialogue: 0,0:32:46.22,0:32:50.62,Default,,0,0,0,,原谅我这次走得匆忙
-Dialogue: 0,0:32:51.42,0:32:56.18,Default,,0,0,0,,究竟要蜕多少副皮囊
-Dialogue: 0,0:32:56.70,0:33:01.50,Default,,0,0,0,,才能让愿望不落空想
-Dialogue: 0,0:33:02.06,0:33:03.58,Default,,0,0,0,,[In Hermes]\N{\i1}Light!{\i0}
-Dialogue: 0,0:33:03.70,0:33:06.62,Default,,0,0,0,,刺破虚妄
-Dialogue: 0,0:33:07.30,0:33:11.06,Default,,0,0,0,,别来无恙
-Dialogue: 0,0:33:11.58,0:33:13.18,Default,,0,0,0,,脱不下
-Dialogue: 0,0:33:13.86,0:33:15.70,Default,,0,0,0,,半身伪装
-Dialogue: 0,0:33:16.50,0:33:18.46,Default,,0,0,0,,另一个我
-Dialogue: 0,0:33:19.10,0:33:21.94,Default,,0,0,0,,名存实亡
-Dialogue: 0,0:33:32.66,0:33:34.90,Default,,0,0,0,,别害恒
-Dialogue: 0,0:33:37.86,0:33:40.22,Default,,0,0,0,,会抵达
-Dialogue: 0,0:33:43.18,0:33:45.46,Default,,0,0,0,,别停下
-Dialogue: 0,0:33:47.90,0:33:49.90,Default,,0,0,0,,就盛开吧
-Dialogue: 0,0:33:50.50,0:33:52.70,Default,,0,0,0,,向阳的花
-Dialogue: 0,0:33:54.98,0:33:58.02,Default,,0,0,0,,你可记得我吗
-Dialogue: 0,0:34:00.10,0:34:05.30,Default,,0,0,0,,会记得我吗
+Dialogue: 0,0:32:23.94,0:32:24.74,Default,,0,0,0,,Seville Chrysanthemum.
+Dialogue: 0,0:32:25.90,0:32:27.38,Default,,0,0,0,,Symbolizes happiness!
+Dialogue: 0,0:32:40.94,0:32:45.66,Default,,0,0,0,,Familiar streets, people come and go,
+Dialogue: 0,0:32:46.22,0:32:50.62,Default,,0,0,0,,Forgive me this time for hurriedly leaving so,
+Dialogue: 0,0:32:51.42,0:32:56.18,Default,,0,0,0,,How many skins must I shed in the end?
+Dialogue: 0,0:32:56.70,0:33:01.50,Default,,0,0,0,,So my wishes stop turning into empty thoughts?
+Dialogue: 0,0:33:02.06,0:33:03.58,Default,,0,0,0,,Light,
+Dialogue: 0,0:33:03.70,0:33:06.62,Default,,0,0,0,,piercing through delusion.
+Dialogue: 0,0:33:07.30,0:33:11.06,Default,,0,0,0,,I trust you’ve been well!
+Dialogue: 0,0:33:11.58,0:33:13.18,Default,,0,0,0,,Can’t shrug off
+Dialogue: 0,0:33:13.86,0:33:15.70,Default,,0,0,0,,this half-worn disguise,
+Dialogue: 0,0:33:16.50,0:33:18.46,Default,,0,0,0,,Another me,
+Dialogue: 0,0:33:19.10,0:33:21.94,Default,,0,0,0,,Here in name, but gone.
+Dialogue: 0,0:33:32.66,0:33:34.90,Default,,0,0,0,,Don't alarm!
+Dialogue: 0,0:33:37.86,0:33:40.22,Default,,0,0,0,,You'll get there!
+Dialogue: 0,0:33:43.18,0:33:45.46,Default,,0,0,0,,Don’t stop!
+Dialogue: 0,0:33:47.90,0:33:49.90,Default,,0,0,0,,Bloom on then,
+Dialogue: 0,0:33:50.50,0:33:52.70,Default,,0,0,0,,Sunward flower.
+Dialogue: 0,0:33:54.98,0:33:58.02,Default,,0,0,0,,Do you remember me, ah?
+Dialogue: 0,0:34:00.10,0:34:05.30,Default,,0,0,0,,Will you remember me, ah?
 Dialogue: 0,0:34:33.74,0:34:35.02,Default,,0,0,0,,
-Dialogue: 0,0:34:34.98,0:34:35.78,Default,,0,0,0,,先生
-Dialogue: 0,0:34:36.30,0:34:37.30,Default,,0,0,0,,请问您是
-Dialogue: 0,0:34:39.30,0:34:39.90,Default,,0,0,0,,夏洛克
-Dialogue: 0,0:34:40.62,0:34:41.18,Default,,0,0,0,,莫里亚蒂
+Dialogue: 0,0:34:34.98,0:34:35.78,Default,,0,0,0,,Mister,
+Dialogue: 0,0:34:36.30,0:34:37.30,Default,,0,0,0,,may I ask who you...
+Dialogue: 0,0:34:39.30,0:34:39.90,Default,,0,0,0,,Sherlock
+Dialogue: 0,0:34:40.62,0:34:41.18,Default,,0,0,0,,Moriarty.
